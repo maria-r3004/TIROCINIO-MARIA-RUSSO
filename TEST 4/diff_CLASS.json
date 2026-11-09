@@ -1,0 +1,273 @@
+{
+    "outputCLASSgemma.json": {
+        "metrics": {
+            "precision": 0.1875,
+            "recall": 0.6,
+            "f1_score": 0.2857,
+            "counts": {
+                "tp": 3,
+                "fp": 13,
+                "fn": 2,
+                "totale_gold": 5,
+                "totale_pred": 16
+            }
+        },
+        "diagnostica": {
+            "etichette_errate": [
+                {
+                    "testo": "Argo",
+                    "etichetta_predetta": "LUOGO",
+                    "etichetta_corretta": "PERSONA"
+                }
+            ],
+            "non_trovate": [
+                {
+                    "testo": "Re Cattolico",
+                    "etichetta_corretta": "RUOLO"
+                }
+            ],
+            "trovate_erroneamente": [
+                {
+                    "testo": "Re",
+                    "etichetta_predetta": "RUOLO"
+                },
+                {
+                    "testo": "Cattolico",
+                    "etichetta_predetta": "RUOLO"
+                },
+                {
+                    "testo": "Signore",
+                    "etichetta_predetta": "RUOLO"
+                },
+                {
+                    "testo": "Sole",
+                    "etichetta_predetta": "RUOLO"
+                },
+                {
+                    "testo": "Heroe",
+                    "etichetta_predetta": "RUOLO"
+                },
+                {
+                    "testo": "Prosapia",
+                    "etichetta_predetta": "RUOLO"
+                },
+                {
+                    "testo": "Amplissimi",
+                    "etichetta_predetta": "RUOLO"
+                },
+                {
+                    "testo": "Spettabili",
+                    "etichetta_predetta": "RUOLO"
+                },
+                {
+                    "testo": "doue",
+                    "etichetta_predetta": "LUOGO"
+                },
+                {
+                    "testo": "Cielo",
+                    "etichetta_predetta": "LUOGO"
+                },
+                {
+                    "testo": "inferno",
+                    "etichetta_predetta": "LUOGO"
+                },
+                {
+                    "testo": "pubblici",
+                    "etichetta_predetta": "LUOGO"
+                }
+            ],
+            "corrette": [
+                {
+                    "testo": "Senatori",
+                    "etichetta": "RUOLO"
+                },
+                {
+                    "testo": "Magistrati",
+                    "etichetta": "RUOLO"
+                },
+                {
+                    "testo": "Briareo",
+                    "etichetta": "PERSONA"
+                }
+            ]
+        }
+    },
+    "outputCLASSqwen.json": {
+        "metrics": {
+            "precision": 0.2857,
+            "recall": 0.4,
+            "f1_score": 0.3333,
+            "counts": {
+                "tp": 2,
+                "fp": 5,
+                "fn": 3,
+                "totale_gold": 5,
+                "totale_pred": 7
+            }
+        },
+        "diagnostica": {
+            "etichette_errate": [],
+            "non_trovate": [
+                {
+                    "testo": "Re Cattolico",
+                    "etichetta_corretta": "RUOLO"
+                },
+                {
+                    "testo": "Argo",
+                    "etichetta_corretta": "PERSONA"
+                },
+                {
+                    "testo": "Briareo",
+                    "etichetta_corretta": "PERSONA"
+                }
+            ],
+            "trovate_erroneamente": [
+                {
+                    "testo": "Re",
+                    "etichetta_predetta": "RUOLO"
+                },
+                {
+                    "testo": "Cattolico",
+                    "etichetta_predetta": "PERSONA"
+                },
+                {
+                    "testo": "Heroe",
+                    "etichetta_predetta": "RUOLO"
+                },
+                {
+                    "testo": "Spettabili",
+                    "etichetta_predetta": "RUOLO"
+                },
+                {
+                    "testo": "Heroi",
+                    "etichetta_predetta": "RUOLO"
+                }
+            ],
+            "corrette": [
+                {
+                    "testo": "Senatori",
+                    "etichetta": "RUOLO"
+                },
+                {
+                    "testo": "Magistrati",
+                    "etichetta": "RUOLO"
+                }
+            ]
+        }
+    },
+    "outputCLASSllama.json": {
+        "metrics": {
+            "precision": 0.1818,
+            "recall": 0.8,
+            "f1_score": 0.2963,
+            "counts": {
+                "tp": 4,
+                "fp": 18,
+                "fn": 1,
+                "totale_gold": 5,
+                "totale_pred": 22
+            }
+        },
+        "diagnostica": {
+            "etichette_errate": [],
+            "non_trovate": [
+                {
+                    "testo": "Re Cattolico",
+                    "etichetta_corretta": "RUOLO"
+                }
+            ],
+            "trovate_erroneamente": [
+                {
+                    "testo": "E",
+                    "etichetta_predetta": "PERSONA"
+                },
+                {
+                    "testo": "Re",
+                    "etichetta_predetta": "RUOLO"
+                },
+                {
+                    "testo": "Cattolico",
+                    "etichetta_predetta": "RUOLO"
+                },
+                {
+                    "testo": "Signore",
+                    "etichetta_predetta": "RUOLO"
+                },
+                {
+                    "testo": "Sole",
+                    "etichetta_predetta": "PERSONA"
+                },
+                {
+                    "testo": "Luna",
+                    "etichetta_predetta": "PERSONA"
+                },
+                {
+                    "testo": "Heroe",
+                    "etichetta_predetta": "RUOLO"
+                },
+                {
+                    "testo": "Prosapia",
+                    "etichetta_predetta": "RUOLO"
+                },
+                {
+                    "testo": "Amplissimi",
+                    "etichetta_predetta": "RUOLO"
+                },
+                {
+                    "testo": "Stelle",
+                    "etichetta_predetta": "RUOLO"
+                },
+                {
+                    "testo": "Spettabili",
+                    "etichetta_predetta": "RUOLO"
+                },
+                {
+                    "testo": "Pianeti",
+                    "etichetta_predetta": "RUOLO"
+                },
+                {
+                    "testo": "Cielo",
+                    "etichetta_predetta": "LUOGO"
+                },
+                {
+                    "testo": "inferno",
+                    "etichetta_predetta": "LUOGO"
+                },
+                {
+                    "testo": "huomini",
+                    "etichetta_predetta": "PERSONA"
+                },
+                {
+                    "testo": "temerarij",
+                    "etichetta_predetta": "PERSONA"
+                },
+                {
+                    "testo": "pubblici",
+                    "etichetta_predetta": "LUOGO"
+                },
+                {
+                    "testo": "emolumenti",
+                    "etichetta_predetta": "LUOGO"
+                }
+            ],
+            "corrette": [
+                {
+                    "testo": "Senatori",
+                    "etichetta": "RUOLO"
+                },
+                {
+                    "testo": "Magistrati",
+                    "etichetta": "RUOLO"
+                },
+                {
+                    "testo": "Argo",
+                    "etichetta": "PERSONA"
+                },
+                {
+                    "testo": "Briareo",
+                    "etichetta": "PERSONA"
+                }
+            ]
+        }
+    }
+}

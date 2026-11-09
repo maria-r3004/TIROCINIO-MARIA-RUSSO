@@ -1,0 +1,40 @@
+{
+    "entita": [
+        {
+            "testo": "Rino",
+            "etichetta": "PERSONA"
+        },
+        {
+            "testo": "Ilario",
+            "etichetta": "PERSONA"
+        },
+        {
+            "testo": "tredici anni",
+            "etichetta": "DATA"
+        },
+        {
+            "testo": "quinta elementare",
+            "etichetta": "RUORO"
+        },
+        {
+            "testo": "libretti scolastici",
+            "etichetta": "RUORO"
+        },
+        {
+            "testo": "cinque del mattino",
+            "etichetta": "DATA"
+        },
+        {
+            "testo": "maggio",
+            "etichetta": "DATA"
+        },
+        {
+            "testo": "campagna",
+            "etichetta": "LUOGO"
+        },
+        {
+            "testo": "Terrepani",
+            "etichetta": "LUOGO"
+        }
+    ]
+}

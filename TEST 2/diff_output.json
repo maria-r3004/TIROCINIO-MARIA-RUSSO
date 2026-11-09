@@ -1,0 +1,90 @@
+{
+    "output1en2.json": {
+        "metrics": {
+            "precision": 0.125,
+            "recall": 0.125,
+            "f1_score": 0.125,
+            "counts": {
+                "tp": 1,
+                "fp": 7,
+                "fn": 7
+            }
+        },
+        "differences": {
+            "values_changed": {
+                "root['entita'][0]": {
+                    "new_value": {
+                        "testo": "angelicata",
+                        "etichetta": "RUOLO",
+                        "indice_parola_inizio": 70,
+                        "indice_parola_fine": 70
+                    },
+                    "old_value": {
+                        "testo": "primavera",
+                        "etichetta": "DATA",
+                        "indice_parola_inizio": 4,
+                        "indice_parola_fine": 4
+                    }
+                },
+                "root['entita'][1]": {
+                    "new_value": {
+                        "testo": "crïatura",
+                        "etichetta": "RUOLO",
+                        "indice_parola_inizio": 72,
+                        "indice_parola_fine": 72
+                    },
+                    "old_value": {
+                        "testo": "vostr’altezza",
+                        "etichetta": "RUOLO",
+                        "indice_parola_inizio": 66,
+                        "indice_parola_fine": 66
+                    }
+                }
+            }
+        }
+    },
+    "output2en2.json": {
+        "metrics": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1_score": 0.0,
+            "counts": {
+                "tp": 0,
+                "fp": 8,
+                "fn": 8
+            }
+        },
+        "differences": {
+            "values_changed": {
+                "root['entita'][0]": {
+                    "new_value": {
+                        "testo": "vostr' altezza",
+                        "etichetta": "PERSONA",
+                        "indice_parola_inizio": 66,
+                        "indice_parola_fine": 67
+                    },
+                    "old_value": {
+                        "testo": "primavera",
+                        "etichetta": "DATA",
+                        "indice_parola_inizio": 4,
+                        "indice_parola_fine": 4
+                    }
+                },
+                "root['entita'][1]": {
+                    "new_value": {
+                        "testo": "crïatura",
+                        "etichetta": "PERSONA",
+                        "indice_parola_inizio": 72,
+                        "indice_parola_fine": 72
+                    },
+                    "old_value": {
+                        "testo": "vostr’altezza",
+                        "etichetta": "RUOLO",
+                        "indice_parola_inizio": 66,
+                        "indice_parola_fine": 66
+                    }
+                }
+            }
+        }
+    }
+}

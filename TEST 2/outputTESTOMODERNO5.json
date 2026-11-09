@@ -1,0 +1,100 @@
+{
+    "entita": [
+        {
+            "testo": "Roma",
+            "etichetta": "LUOGO",
+            "indice_parola_inizio": 2,
+            "indice_parola_fine": 2
+        },
+        {
+            "testo": "Marco Rossi",
+            "etichetta": "PERSONA",
+            "indice_parola_inizio": 9,
+            "indice_parola_fine": 10
+        },
+        {
+            "testo": "15",
+            "etichetta": "DATA",
+            "indice_parola_inizio": 19,
+            "indice_parola_fine": 19
+        },
+        {
+            "testo": "ottobre",
+            "etichetta": "DATA",
+            "indice_parola_inizio": 20,
+            "indice_parola_fine": 20
+        },
+        {
+            "testo": "2024",
+            "etichetta": "DATA",
+            "indice_parola_inizio": 21,
+            "indice_parola_fine": 22
+        },
+        {
+            "testo": "Milano",
+            "etichetta": "LUOGO",
+            "indice_parola_inizio": 29,
+            "indice_parola_fine": 29
+        },
+        {
+            "testo": "Torino",
+            "etichetta": "LUOGO",
+            "indice_parola_inizio": 30,
+            "indice_parola_fine": 30
+        },
+        {
+            "testo": "Napoli",
+            "etichetta": "LUOGO",
+            "indice_parola_inizio": 31,
+            "indice_parola_fine": 31
+        },
+        {
+            "testo": "Elena Bianchi",
+            "etichetta": "PERSONA",
+            "indice_parola_inizio": 35,
+            "indice_parola_fine": 36
+        },
+        {
+            "testo": "Luca Moretti",
+            "etichetta": "PERSONA",
+            "indice_parola_inizio": 41,
+            "indice_parola_fine": 42
+        },
+        {
+            "testo": "Barilla",
+            "etichetta": "ORGANIZZAZIONE",
+            "indice_parola_inizio": 49,
+            "indice_parola_fine": 49
+        },
+        {
+            "testo": "Pirelli",
+            "etichetta": "ORGANIZZAZIONE",
+            "indice_parola_inizio": 50,
+            "indice_parola_fine": 50
+        },
+        {
+            "testo": "Italia",
+            "etichetta": "LUOGO",
+            "indice_parola_inizio": 63,
+            "indice_parola_fine": 63
+        },
+        {
+            "testo": "Francia",
+            "etichetta": "LUOGO",
+            "indice_parola_inizio": 64,
+            "indice_parola_fine": 64
+        },
+        {
+            "testo": "Commissione Europea",
+            "etichetta": "ORGANIZZAZIONE",
+            "indice_parola_inizio": 69,
+            "indice_parola_fine": 71
+        },
+        {
+            "testo": "Bruxelles",
+            "etichetta": "LUOGO",
+            "indice_parola_inizio": 72,
+            "indice_parola_fine": 72
+        }
+    ]
+}

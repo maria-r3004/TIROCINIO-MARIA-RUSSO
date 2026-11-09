@@ -1,0 +1,118 @@
+{
+    "entita": [
+        {
+            "testo": "Re Cattolico",
+            "etichetta": "PERSONA",
+            "indice_parola_inizio": 0,
+            "indice_parola_fine": 4
+        },
+        {
+            "testo": "Sole",
+            "etichetta": "PERSONA",
+            "indice_parola_inizio": 13,
+            "indice_parola_fine": 13
+        },
+        {
+            "testo": "Heroe",
+            "etichetta": "RUOLO",
+            "indice_parola_inizio": 24,
+            "indice_parola_fine": 24
+        },
+        {
+            "testo": "Prosapia",
+            "etichetta": "PERSONA",
+            "indice_parola_inizio": 26,
+            "indice_parola_fine": 26
+        },
+        {
+            "testo": "Senatori",
+            "etichetta": "RUOLO",
+            "indice_parola_inizio": 31,
+            "indice_parola_fine": 33
+        },
+        {
+            "testo": "Stelle",
+            "etichetta": "PERSONA",
+            "indice_parola_inizio": 34,
+            "indice_parola_fine": 34
+        },
+        {
+            "testo": "Pianeti",
+            "etichetta": "PERSONA",
+            "indice_parola_inizio": 38,
+            "indice_parola_fine": 38
+        },
+        {
+            "testo": "Magistrati",
+            "etichetta": "RUOLO",
+            "indice_parola_inizio": 42,
+            "indice_parola_fine": 44
+        },
+        {
+            "testo": "Luna",
+            "etichetta": "PERSONA",
+            "indice_parola_inizio": 48,
+            "indice_parola_fine": 48
+        },
+        {
+            "testo": "Cielo",
+            "etichetta": "LUOGO",
+            "indice_parola_inizio": 53,
+            "indice_parola_fine": 53
+        },
+        {
+            "testo": "inferno",
+            "etichetta": "LUOGO",
+            "indice_parola_inizio": 55,
+            "indice_parola_fine": 55
+        },
+        {
+            "testo": "d'Atti",
+            "etichetta": "DATA",
+            "indice_parola_inizio": 60,
+            "indice_parola_fine": 62
+        },
+        {
+            "testo": "tenebrosi",
+            "etichetta": "DATA",
+            "indice_parola_inizio": 64,
+            "indice_parola_fine": 66
+        },
+        {
+            "testo": "malvaggità",
+            "etichetta": "DATA",
+            "indice_parola_inizio": 68,
+            "indice_parola_fine": 70
+        },
+        {
+            "testo": "sevitie",
+            "etichetta": "DATA",
+            "indice_parola_inizio": 72,
+            "indice_parola_fine": 74
+        },
+        {
+            "testo": "humana",
+            "etichetta": "PERSONA",
+            "indice_parola_inizio": 76,
+            "indice_parola_fine": 76
+        },
+        {
+            "testo": "malitia",
+            "etichetta": "PERSONA",
+            "indice_parola_inizio": 80,
+            "indice_parola_fine": 82
+        },
+        {
+            "testo": "Argo",
+            "etichetta": "PERSONA",
+            "indice_parola_inizio": 91,
+            "indice_parola_fine": 91
+        },
+        {
+            "testo": "Briareo",
+            "etichetta": "PERSONA",
+            "indice_parola_inizio": 93,
+            "indice_parola_fine": 95
+        }
+    ]
+}

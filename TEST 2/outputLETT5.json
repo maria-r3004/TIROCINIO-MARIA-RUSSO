@@ -1,0 +1,34 @@
+{
+    "entita": [
+        {
+            "testo": "Rino",
+            "etichetta": "PERSONA",
+            "indice_parola_inizio": 0,
+            "indice_parola_fine": 1
+        },
+        {
+            "testo": "Ilario",
+            "etichetta": "PERSONA",
+            "indice_parola_inizio": 2,
+            "indice_parola_fine": 2
+        },
+        {
+            "testo": "tredici",
+            "etichetta": "DATA",
+            "indice_parola_inizio": 4,
+            "indice_parola_fine": 5
+        },
+        {
+            "testo": "marzo",
+            "etichetta": "DATA",
+            "indice_parola_inizio": 29,
+            "indice_parola_fine": 29
+        },
+        {
+            "testo": "Terrepani",
+            "etichetta": "LUOGO",
+            "indice_parola_inizio": 45,
+            "indice_parola_fine": 46
+        }
+    ]
+}

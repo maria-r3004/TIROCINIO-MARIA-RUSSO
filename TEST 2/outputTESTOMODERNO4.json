@@ -1,0 +1,259 @@
+{
+    "entita": [
+        {
+            "testo": "Ieri",
+            "etichetta": "DATA",
+            "indice_parola_inizio": 0
+        },
+        {
+            "testo": "Roma",
+            "etichetta": "LUOGO",
+            "indice_parola_inizio": 1
+        },
+        {
+            "testo": "durante",
+            "etichetta": "DATA",
+            "indice_parola_inizio": 3
+        },
+        {
+            "testo": "un",
+            "etichetta": "DATA",
+            "indice_parola_inizio": 4
+        },
+        {
+            "testo": "vertice",
+            "etichetta": "PERSONA",
+            "indice_parola_inizio": 5
+        },
+        {
+            "testo": "pubblico",
+            "etichetta": "RUOLO",
+            "indice_parola_inizio": 6
+        },
+        {
+            "testo": "il",
+            "etichetta": "PRONOME",
+            "indice_parola_inizio": 7
+        },
+        {
+            "testo": "presidente",
+            "etichetta": "RUOLO",
+            "indice_parola_inizio": 8
+        },
+        {
+            "testo": "Marco",
+            "etichetta": "PERSONA",
+            "indice_parola_inizio": 9
+        },
+        {
+            "testo": "Rossi",
+            "etichetta": "PERSONA",
+            "indice_parola_inizio": 10
+        },
+        {
+            "testo": "ha",
+            "etichetta": "VERBO",
+            "indice_parola_inizio": 11
+        },
+        {
+            "testo": "presentato",
+            "etichetta": "VERBO",
+            "indice_parola_inizio": 12
+        },
+        {
+            "testo": "il",
+            "etichetta": "PRONOME",
+            "indice_parola_inizio": 13
+        },
+        {
+            "testo": "nuovo",
+            "etichetta": "ADJ",
+            "indice_parola_inizio": 14
+        },
+        {
+            "testo": "piano",
+            "etichetta": "NOUN",
+            "indice_parola_inizio": 15
+        },
+        {
+            "testo": "aziendale",
+            "etichetta": "ADJ",
+            "indice_parola_inizio": 16
+        },
+        {
+            "testo": "All' incontro",
+            "etichetta": "PRONOME",
+            "indice_parola_inizio": 17
+        },
+        {
+            "testo": "del",
+            "etichetta": "PRONOME",
+            "indice_parola_inizio": 18
+        },
+        {
+            "testo": "15",
+            "etichetta": "NUM",
+            "indice_parola_inizio": 19
+        },
+        {
+            "testo": "ottobre",
+            "etichetta": "DATA",
+            "indice_parola_inizio": 20
+        },
+        {
+            "testo": "2024",
+            "etichetta": "DATA",
+            "indice_parola_inizio": 21
+        },
+        {
+            "testo": "hanno",
+            "etichetta": "VERB",
+            "indice_parola_inizio": 22
+        },
+        {
+            "testo": "preso",
+            "etichetta": "VERB",
+            "indice_parola_inizio": 23
+        },
+        {
+            "testo": "parte",
+            "etichetta": "VERB",
+            "indice_parola_inizio": 24
+        },
+        {
+            "testo": "vari",
+            "etichetta": "ADJ",
+            "indice_parola_inizio": 25
+        },
+        {
+            "testo": "ospiti",
+            "etichetta": "NOUN",
+            "indice_parola_inizio": 26
+        },
+        {
+            "testo": "arrivati",
+            "etichetta": "VERB",
+            "indice_parola_inizio": 27
+        },
+        {
+            "testo": "da",
+            "etichetta": "PRT",
+            "indice_parola_inizio": 28
+        },
+        {
+            "testo": "Milano",
+            "etichetta": "LUOGO",
+            "indice_parola_inizio": 29
+        },
+        {
+            "testo": "Torino",
+            "etichetta": "LUOGO",
+            "indice_parola_inizio": 30
+        },
+        {
+            "testo": "e",
+            "etichetta": "CONJ",
+            "indice_parola_inizio": 31
+        },
+        {
+            "testo": "Napoli",
+            "etichetta": "LUOGO",
+            "indice_parola_inizio": 32
+        },
+        {
+            "testo": "Insieme",
+            "etichetta": "PRT",
+            "indice_parola_inizio": 33
+        },
+        {
+            "testo": "alla",
+            "etichetta": "PRT",
+            "indice_parola_inizio": 34
+        },
+        {
+            "testo": "direttrice",
+            "etichetta": "ROLE",
+            "indice_parola_inizio": 35
+        },
+        {
+            "testo": "Elena",
+            "etichetta": "PERSONA",
+            "indice_parola_inizio": 36
+        },
+        {
+            "testo": "Bianchi",
+            "etichetta": "PERSONA",
+            "indice_parola_inizio": 37
+        },
+        {
+            "testo": "anche",
+            "etichetta": "CONJ",
+            "indice_parola_inizio": 38
+        },
+        {
+            "testo": "il",
+            "etichetta": "PRT",
+            "indice_parola_inizio": 39
+        },
+        {
+            "testo": "ministro",
+            "etichetta": "ROLE",
+            "indice_parola_inizio": 40
+        },
+        {
+            "testo": "Luca",
+            "etichetta": "PERSONA",
+            "indice_parola_inizio": 41
+        },
+        {
+            "testo": "Moretti",
+            "etichetta": "PERSONA",
+            "indice_parola_inizio": 42
+        },
+        {
+            "testo": "ha",
+            "etichetta": "VERB",
+            "indice_parola_inizio": 43
+        },
+        {
+            "testo": "annunciato",
+            "etichetta": "VERB",
+            "indice_parola_inizio": 44
+        },
+        {
+            "testo": "un",
+            "etichetta": "ADJ",
+            "indice_parola_inizio": 45
+        },
+        {
+            "testo": "accordo",
+            "etichetta": "NOUN",
+            "indice_parola_inizio": 46
+        },
+        {
+            "testo": "strategico",
+            "etichetta": "ADJ",
+            "indice_parola_inizio": 47
+        },
+        {
+            "testo": "con",
+            "etichetta": "CONJ",
+            "indice_parola_inizio": 48
+        },
+        {
+            "testo": "Barilla",
+            "etichetta": "PERSONA",
+            "indice_parola_inizio": 49
+        },
+        {
+            "testo": "e",
+            "etichetta": "CONJ",
+            "indice_parola_inizio": 50
+        },
+        {
+            "testo": "Pirelli",
+            "etichetta": "PERSONA",
+            "indice_parola_inizio": 51
+        }
+    ]
+}

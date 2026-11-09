@@ -1,0 +1,58 @@
+{
+    "entita": [
+        {
+            "testo": "Romanum imperium",
+            "etichetta": "LUOGO",
+            "indice_parola_inizio": 0,
+            "indice_parola_fine": 1
+        },
+        {
+            "testo": "Romulo",
+            "etichetta": "PERSONA",
+            "indice_parola_inizio": 19,
+            "indice_parola_fine": 19
+        },
+        {
+            "testo": "Reae Silviae",
+            "etichetta": "PERSONA",
+            "indice_parola_inizio": 23,
+            "indice_parola_fine": 25
+        },
+        {
+            "testo": "Vestalis virginis",
+            "etichetta": "RUOLO",
+            "indice_parola_inizio": 25,
+            "indice_parola_fine": 27
+        },
+        {
+            "testo": "Martis",
+            "etichetta": "RUOLO",
+            "indice_parola_inizio": 32,
+            "indice_parola_fine": 32
+        },
+        {
+            "testo": "Remo",
+            "etichetta": "PERSONA",
+            "indice_parola_inizio": 34,
+            "indice_parola_fine": 34
+        },
+        {
+            "testo": "pastores",
+            "etichetta": "RUOLO",
+            "indice_parola_inizio": 43,
+            "indice_parola_fine": 43
+        },
+        {
+            "testo": "Palatino monte",
+            "etichetta": "LUOGO",
+            "indice_parola_inizio": 53,
+            "indice_parola_fine": 55
+        },
+        {
+            "testo": "XI Kal.",
+            "etichetta": "DATA",
+            "indice_parola_inizio": 56,
+            "indice_parola_fine": 57
+        }
+    ]
+}

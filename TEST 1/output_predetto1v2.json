@@ -1,0 +1,88 @@
+{
+    "entità": [
+        {
+            "testo": "Dessy è infatti sardo",
+            "etichetta": "PERSONA",
+            "indice_parola_inizio": 0,
+            "indice_parola_fine": 12
+        },
+        {
+            "testo": "Sardegna",
+            "etichetta": "LUOGO",
+            "indice_parola_inizio": 13,
+            "indice_parola_fine": 13
+        },
+        {
+            "testo": "Narratore attento",
+            "etichetta": "RUOLO",
+            "indice_parola_inizio": 27,
+            "indice_parola_fine": 31
+        },
+        {
+            "testo": "democristiano e neocapitalistico",
+            "etichetta": "RUOLO",
+            "indice_parola_inizio": 37,
+            "indice_parola_fine": 50
+        },
+        {
+            "testo": "testimone",
+            "etichetta": "RUOLO",
+            "indice_parola_inizio": 54,
+            "indice_parola_fine": 56
+        },
+        {
+            "testo": "altra",
+            "etichetta": "PERSONA",
+            "indice_parola_inizio": 77,
+            "indice_parola_fine": 77
+        },
+        {
+            "testo": "prima Sardegna",
+            "etichetta": "PERSONA",
+            "indice_parola_inizio": 84,
+            "indice_parola_fine": 89
+        },
+        {
+            "testo": "pastora",
+            "etichetta": "PERSONA",
+            "indice_parola_inizio": 97,
+            "indice_parola_fine": 97
+        },
+        {
+            "testo": "venditore ambulante",
+            "etichetta": "PERSONA",
+            "indice_parola_inizio": 111,
+            "indice_parola_fine": 119
+        },
+        {
+            "testo": "consiglio di uomini del paese",
+            "etichetta": "PERSONA",
+            "indice_parola_inizio": 123,
+            "indice_parola_fine": 131
+        },
+        {
+            "testo": "iniziazione sociale-sessuale",
+            "etichetta": "RUOLO",
+            "indice_parola_inizio": 145,
+            "indice_parola_fine": 161
+        },
+        {
+            "testo": "due ragazzi",
+            "etichetta": "PERSONA",
+            "indice_parola_inizio": 166,
+            "indice_parola_fine": 168
+        },
+        {
+            "testo": "sfruttare un’intelligenza",
+            "etichetta": "RUOLO",
+            "indice_parola_inizio": 170,
+            "indice_parola_fine": 180
+        },
+        {
+            "testo": "qualitativamente diversa da quella dominatrice dei",
+            "etichetta": "RUOLO",
+            "indice_parola_inizio": 187,
+            "indice_parola_fine": 208
+        }
+    ]
+}

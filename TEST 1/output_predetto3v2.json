@@ -1,0 +1,22 @@
+{
+    "entita": [
+        {
+            "testo": "Dessy",
+            "etichetta": "PERSONA",
+            "indice_parola_inizio": 0,
+            "indice_parola_fine": 0
+        },
+        {
+            "testo": "Sardegna",
+            "etichetta": "LUOGO",
+            "indice_parola_inizio": 1,
+            "indice_parola_fine": 1
+        },
+        {
+            "testo": "giornalista",
+            "etichetta": "RUOLO",
+            "indice_parola_inizio": 11,
+            "indice_parola_fine": 11
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "entita": [
+        {
+            "testo": "Dessy",
+            "etichetta": "PERSONA",
+            "indice_parola_inizio": 0,
+            "indice_parola_fine": 0
+        },
+        {
+            "testo": "sardo",
+            "etichetta": "RUOLO",
+            "indice_parola_inizio": 3,
+            "indice_parola_fine": 3
+        },
+        {
+            "testo": "Sardegna",
+            "etichetta": "LUOGO",
+            "indice_parola_inizio": 7,
+            "indice_parola_fine": 7
+        },
+        {
+            "testo": "ministro",
+            "etichetta": "RUOLO",
+            "indice_parola_inizio": 98,
+            "indice_parola_fine": 98
+        }
+    ]
+}

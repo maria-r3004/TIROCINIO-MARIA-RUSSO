@@ -1,0 +1,112 @@
+{
+    "entita": [
+        {
+            "testo": "Rino",
+            "etichetta": "PERSONA",
+            "indice_parola_inizio": 0,
+            "indice_parola_fine": 0
+        },
+        {
+            "testo": "Ilario",
+            "etichetta": "PERSONA",
+            "indice_parola_inizio": 1,
+            "indice_parola_fine": 1
+        },
+        {
+            "testo": "tredici",
+            "etichetta": "DATA",
+            "indice_parola_inizio": 4,
+            "indice_parola_fine": 4
+        },
+        {
+            "testo": "quinta",
+            "etichetta": "DATA",
+            "indice_parola_inizio": 6,
+            "indice_parola_fine": 6
+        },
+        {
+            "testo": "elementare",
+            "etichetta": "RUOLO",
+            "indice_parola_inizio": 7,
+            "indice_parola_fine": 7
+        },
+        {
+            "testo": "assistenza",
+            "etichetta": "RUOLO",
+            "indice_parola_inizio": 8,
+            "indice_parola_fine": 8
+        },
+        {
+            "testo": "libretti",
+            "etichetta": "RUOLO",
+            "indice_parola_inizio": 13,
+            "indice_parola_fine": 13
+        },
+        {
+            "testo": "scuola",
+            "etichetta": "RUOLO",
+            "indice_parola_inizio": 26,
+            "indice_parola_fine": 26
+        },
+        {
+            "testo": "marzo",
+            "etichetta": "DATA",
+            "indice_parola_inizio": 29,
+            "indice_parola_fine": 29
+        },
+        {
+            "testo": "solicello",
+            "etichetta": "RUOLO",
+            "indice_parola_inizio": 34,
+            "indice_parola_fine": 34
+        },
+        {
+            "testo": "bordeggiare",
+            "etichetta": "RUOLO",
+            "indice_parola_inizio": 37,
+            "indice_parola_fine": 37
+        },
+        {
+            "testo": "siepi",
+            "etichetta": "LUOGO",
+            "indice_parola_inizio": 38,
+            "indice_parola_fine": 38
+        },
+        {
+            "testo": "ficodindia",
+            "etichetta": "LUOGO",
+            "indice_parola_inizio": 40,
+            "indice_parola_fine": 40
+        },
+        {
+            "testo": "campagna",
+            "etichetta": "LUOGO",
+            "indice_parola_inizio": 43,
+            "indice_parola_fine": 43
+        },
+        {
+            "testo": "Terrepani",
+            "etichetta": "LUOGO",
+            "indice_parola_inizio": 45,
+            "indice_parola_fine": 45
+        },
+        {
+            "testo": "canalone",
+            "etichetta": "LUOGO",
+            "indice_parola_inizio": 51,
+            "indice_parola_fine": 51
+        },
+        {
+            "testo": "Dio",
+            "etichetta": "PERSONA",
+            "indice_parola_inizio": 55,
+            "indice_parola_fine": 55
+        },
+        {
+            "testo": "uomini",
+            "etichetta": "PERSONA",
+            "indice_parola_inizio": 58,
+            "indice_parola_fine": 58
+        }
+    ]
+}

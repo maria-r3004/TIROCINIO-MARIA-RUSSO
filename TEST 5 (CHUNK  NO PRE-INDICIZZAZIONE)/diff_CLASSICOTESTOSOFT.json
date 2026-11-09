@@ -1,0 +1,1634 @@
+{
+    "outputCLASSICONOPREINDICIZZAZIONEgemma.json": {
+        "metrics": {
+            "precision": 0.5778,
+            "recall": 0.6047,
+            "f1_score": 0.5909,
+            "counts": {
+                "tp": 26,
+                "tp_esatti": 23,
+                "tp_parziali": 3,
+                "fp": 19,
+                "fn": 17,
+                "totale_gold": 43,
+                "totale_pred": 45
+            }
+        },
+        "diagnostica": {
+            "etichette_errate": [
+                {
+                    "testo": "fanciullo",
+                    "etichetta_predetta": "PERSONA",
+                    "etichetta_corretta": "RUOLO"
+                }
+            ],
+            "non_trovate": [
+                {
+                    "testo": "giorno dopo",
+                    "etichetta_corretta": "DATA"
+                },
+                {
+                    "testo": "scolaro",
+                    "etichetta_corretta": "RUOLO"
+                },
+                {
+                    "testo": "fanciullo",
+                    "etichetta_corretta": "RUOLO"
+                },
+                {
+                    "testo": "oggi",
+                    "etichetta_corretta": "DATA"
+                },
+                {
+                    "testo": "oggi",
+                    "etichetta_corretta": "DATA"
+                },
+                {
+                    "testo": "Quella mattina",
+                    "etichetta_corretta": "DATA"
+                },
+                {
+                    "testo": "Rino",
+                    "etichetta_corretta": "PERSONA"
+                },
+                {
+                    "testo": "Ilario",
+                    "etichetta_corretta": "PERSONA"
+                },
+                {
+                    "testo": "Signorina",
+                    "etichetta_corretta": "RUOLO"
+                },
+                {
+                    "testo": "signorina",
+                    "etichetta_corretta": "RUOLO"
+                },
+                {
+                    "testo": "ragazzi",
+                    "etichetta_corretta": "RUOLO"
+                },
+                {
+                    "testo": "signorina",
+                    "etichetta_corretta": "RUOLO"
+                },
+                {
+                    "testo": "benefattore dell'umanità",
+                    "etichetta_corretta": "RUOLO"
+                },
+                {
+                    "testo": "Assisi",
+                    "etichetta_corretta": "LUOGO"
+                },
+                {
+                    "testo": "benefattori dell'umanità",
+                    "etichetta_corretta": "RUOLO"
+                },
+                {
+                    "testo": "Rockfeller",
+                    "etichetta_corretta": "PERSONA"
+                }
+            ],
+            "trovate_erroneamente": [
+                {
+                    "testo": "magnifici sei",
+                    "etichetta_predetta": "RUOLO"
+                },
+                {
+                    "testo": "malandati",
+                    "etichetta_predetta": "RUOLO"
+                },
+                {
+                    "testo": "luna",
+                    "etichetta_predetta": "DATA"
+                },
+                {
+                    "testo": "pagina",
+                    "etichetta_predetta": "LUOGO"
+                },
+                {
+                    "testo": "registro",
+                    "etichetta_predetta": "LUOGO"
+                },
+                {
+                    "testo": "prato",
+                    "etichetta_predetta": "LUOGO"
+                },
+                {
+                    "testo": "società civile",
+                    "etichetta_predetta": "RUOLO"
+                },
+                {
+                    "testo": "andito",
+                    "etichetta_predetta": "LUOGO"
+                },
+                {
+                    "testo": "data",
+                    "etichetta_predetta": "DATA"
+                },
+                {
+                    "testo": "magnifici sei",
+                    "etichetta_predetta": "RUOLO"
+                },
+                {
+                    "testo": "prammatica",
+                    "etichetta_predetta": "RUOLO"
+                },
+                {
+                    "testo": "tecniche imprenditoriali",
+                    "etichetta_predetta": "RUOLO"
+                },
+                {
+                    "testo": "tecniche imprenditoriali",
+                    "etichetta_predetta": "RUOLO"
+                },
+                {
+                    "testo": "centesimi",
+                    "etichetta_predetta": "DATA"
+                },
+                {
+                    "testo": "ministeriale",
+                    "etichetta_predetta": "RUOLO"
+                },
+                {
+                    "testo": "INAper",
+                    "etichetta_predetta": "RUOLO"
+                },
+                {
+                    "testo": "cattedra",
+                    "etichetta_predetta": "RUOLO"
+                },
+                {
+                    "testo": "Storia",
+                    "etichetta_predetta": "RUOLO"
+                }
+            ],
+            "corrette_esatte": [
+                {
+                    "testo": "Rino",
+                    "etichetta": "PERSONA"
+                },
+                {
+                    "testo": "Ilario",
+                    "etichetta": "PERSONA"
+                },
+                {
+                    "testo": "Myriam",
+                    "etichetta": "PERSONA"
+                },
+                {
+                    "testo": "maestrina",
+                    "etichetta": "RUOLO"
+                },
+                {
+                    "testo": "16",
+                    "etichetta": "DATA"
+                },
+                {
+                    "testo": "19",
+                    "etichetta": "DATA"
+                },
+                {
+                    "testo": "direttore didattico",
+                    "etichetta": "RUOLO"
+                },
+                {
+                    "testo": "maestrina",
+                    "etichetta": "RUOLO"
+                },
+                {
+                    "testo": "maestra",
+                    "etichetta": "RUOLO"
+                },
+                {
+                    "testo": "colleghe",
+                    "etichetta": "RUOLO"
+                },
+                {
+                    "testo": "Myriam",
+                    "etichetta": "PERSONA"
+                },
+                {
+                    "testo": "bambini",
+                    "etichetta": "RUOLO"
+                },
+                {
+                    "testo": "Giorgetto",
+                    "etichetta": "PERSONA"
+                },
+                {
+                    "testo": "oggi",
+                    "etichetta": "DATA"
+                },
+                {
+                    "testo": "maestrina",
+                    "etichetta": "RUOLO"
+                },
+                {
+                    "testo": "Signorina",
+                    "etichetta": "RUOLO"
+                },
+                {
+                    "testo": "Myriam",
+                    "etichetta": "PERSONA"
+                },
+                {
+                    "testo": "Rockfeller",
+                    "etichetta": "PERSONA"
+                },
+                {
+                    "testo": "signorina",
+                    "etichetta": "RUOLO"
+                },
+                {
+                    "testo": "maestrina",
+                    "etichetta": "RUOLO"
+                },
+                {
+                    "testo": "Rockfeller",
+                    "etichetta": "PERSONA"
+                },
+                {
+                    "testo": "Gutemberg",
+                    "etichetta": "PERSONA"
+                },
+                {
+                    "testo": "Giorgetto",
+                    "etichetta": "PERSONA"
+                }
+            ],
+            "corrette_parziali": [
+                {
+                    "testo_predetto": "mese",
+                    "testo_corretto": "fine del mese",
+                    "etichetta": "DATA"
+                },
+                {
+                    "testo_predetto": "cittadini democratici",
+                    "testo_corretto": "cittadini",
+                    "etichetta": "RUOLO"
+                },
+                {
+                    "testo_predetto": "san Francesco d'Assisi",
+                    "testo_corretto": "san Francesco",
+                    "etichetta": "PERSONA"
+                }
+            ]
+        }
+    },
+    "outputCLASSICONOPREINDICIZZAZIONEqwen.json": {
+        "metrics": {
+            "precision": 0.5625,
+            "recall": 0.6279,
+            "f1_score": 0.5934,
+            "counts": {
+                "tp": 27,
+                "tp_esatti": 25,
+                "tp_parziali": 2,
+                "fp": 21,
+                "fn": 16,
+                "totale_gold": 43,
+                "totale_pred": 48
+            }
+        },
+        "diagnostica": {
+            "etichette_errate": [
+                {
+                    "testo": "fanciullo",
+                    "etichetta_predetta": "PERSONA",
+                    "etichetta_corretta": "RUOLO"
+                }
+            ],
+            "non_trovate": [
+                {
+                    "testo": "giorno dopo",
+                    "etichetta_corretta": "DATA"
+                },
+                {
+                    "testo": "scolaro",
+                    "etichetta_corretta": "RUOLO"
+                },
+                {
+                    "testo": "fine del mese",
+                    "etichetta_corretta": "DATA"
+                },
+                {
+                    "testo": "16",
+                    "etichetta_corretta": "DATA"
+                },
+                {
+                    "testo": "19",
+                    "etichetta_corretta": "DATA"
+                },
+                {
+                    "testo": "fanciullo",
+                    "etichetta_corretta": "RUOLO"
+                },
+                {
+                    "testo": "bambini",
+                    "etichetta_corretta": "RUOLO"
+                },
+                {
+                    "testo": "oggi",
+                    "etichetta_corretta": "DATA"
+                },
+                {
+                    "testo": "oggi",
+                    "etichetta_corretta": "DATA"
+                },
+                {
+                    "testo": "oggi",
+                    "etichetta_corretta": "DATA"
+                },
+                {
+                    "testo": "Quella mattina",
+                    "etichetta_corretta": "DATA"
+                },
+                {
+                    "testo": "ragazzi",
+                    "etichetta_corretta": "RUOLO"
+                },
+                {
+                    "testo": "benefattore dell'umanità",
+                    "etichetta_corretta": "RUOLO"
+                },
+                {
+                    "testo": "san Francesco",
+                    "etichetta_corretta": "PERSONA"
+                },
+                {
+                    "testo": "Assisi",
+                    "etichetta_corretta": "LUOGO"
+                }
+            ],
+            "trovate_erroneamente": [
+                {
+                    "testo": "«magnifici sei»",
+                    "etichetta_predetta": "RUOLO"
+                },
+                {
+                    "testo": "democratici",
+                    "etichetta_predetta": "RUOLO"
+                },
+                {
+                    "testo": "ministeriale",
+                    "etichetta_predetta": "RUOLO"
+                },
+                {
+                    "testo": "data",
+                    "etichetta_predetta": "DATA"
+                },
+                {
+                    "testo": "centri diinteresse",
+                    "etichetta_predetta": "RUOLO"
+                },
+                {
+                    "testo": "Storia",
+                    "etichetta_predetta": "RUOLO"
+                },
+                {
+                    "testo": "geografia",
+                    "etichetta_predetta": "RUOLO"
+                },
+                {
+                    "testo": "scienze",
+                    "etichetta_predetta": "RUOLO"
+                },
+                {
+                    "testo": "religione",
+                    "etichetta_predetta": "RUOLO"
+                },
+                {
+                    "testo": "aritmetica",
+                    "etichetta_predetta": "RUOLO"
+                },
+                {
+                    "testo": "magnifici sei",
+                    "etichetta_predetta": "RUOLO"
+                },
+                {
+                    "testo": "programma ministeriale",
+                    "etichetta_predetta": "RUOLO"
+                },
+                {
+                    "testo": "tecnici e imprenditori",
+                    "etichetta_predetta": "RUOLO"
+                },
+                {
+                    "testo": "paese",
+                    "etichetta_predetta": "LUOGO"
+                },
+                {
+                    "testo": "Francesco d'Assisi",
+                    "etichetta_predetta": "PERSONA"
+                },
+                {
+                    "testo": "pagina",
+                    "etichetta_predetta": "RUOLO"
+                },
+                {
+                    "testo": "ministeriale",
+                    "etichetta_predetta": "RUOLO"
+                },
+                {
+                    "testo": "INA",
+                    "etichetta_predetta": "LUOGO"
+                },
+                {
+                    "testo": "intelligenza",
+                    "etichetta_predetta": "RUOLO"
+                },
+                {
+                    "testo": "Rockfeller",
+                    "etichetta_predetta": "PERSONA"
+                }
+            ],
+            "corrette_esatte": [
+                {
+                    "testo": "Rino",
+                    "etichetta": "PERSONA"
+                },
+                {
+                    "testo": "Ilario",
+                    "etichetta": "PERSONA"
+                },
+                {
+                    "testo": "signorina",
+                    "etichetta": "RUOLO"
+                },
+                {
+                    "testo": "Myriam",
+                    "etichetta": "PERSONA"
+                },
+                {
+                    "testo": "maestrina",
+                    "etichetta": "RUOLO"
+                },
+                {
+                    "testo": "direttore didattico",
+                    "etichetta": "RUOLO"
+                },
+                {
+                    "testo": "maestrina",
+                    "etichetta": "RUOLO"
+                },
+                {
+                    "testo": "maestra",
+                    "etichetta": "RUOLO"
+                },
+                {
+                    "testo": "colleghe",
+                    "etichetta": "RUOLO"
+                },
+                {
+                    "testo": "signorina",
+                    "etichetta": "RUOLO"
+                },
+                {
+                    "testo": "Myriam",
+                    "etichetta": "PERSONA"
+                },
+                {
+                    "testo": "Giorgetto",
+                    "etichetta": "PERSONA"
+                },
+                {
+                    "testo": "maestrina",
+                    "etichetta": "RUOLO"
+                },
+                {
+                    "testo": "Rino",
+                    "etichetta": "PERSONA"
+                },
+                {
+                    "testo": "Ilario",
+                    "etichetta": "PERSONA"
+                },
+                {
+                    "testo": "Signorina",
+                    "etichetta": "RUOLO"
+                },
+                {
+                    "testo": "signorina",
+                    "etichetta": "RUOLO"
+                },
+                {
+                    "testo": "Myriam",
+                    "etichetta": "PERSONA"
+                },
+                {
+                    "testo": "Rockfeller",
+                    "etichetta": "PERSONA"
+                },
+                {
+                    "testo": "signorina",
+                    "etichetta": "RUOLO"
+                },
+                {
+                    "testo": "Rockfeller",
+                    "etichetta": "PERSONA"
+                },
+                {
+                    "testo": "maestrina",
+                    "etichetta": "RUOLO"
+                },
+                {
+                    "testo": "Rockfeller",
+                    "etichetta": "PERSONA"
+                },
+                {
+                    "testo": "Gutemberg",
+                    "etichetta": "PERSONA"
+                },
+                {
+                    "testo": "Giorgetto",
+                    "etichetta": "PERSONA"
+                }
+            ],
+            "corrette_parziali": [
+                {
+                    "testo_predetto": "cittadini democratici",
+                    "testo_corretto": "cittadini",
+                    "etichetta": "RUOLO"
+                },
+                {
+                    "testo_predetto": "benefattori",
+                    "testo_corretto": "benefattori dell'umanità",
+                    "etichetta": "RUOLO"
+                }
+            ]
+        }
+    },
+    "outputCLASSICONOPREINDICIZZAZIONEllava.json": {
+        "metrics": {
+            "precision": 0.2105,
+            "recall": 0.3721,
+            "f1_score": 0.2689,
+            "counts": {
+                "tp": 16,
+                "tp_esatti": 10,
+                "tp_parziali": 6,
+                "fp": 60,
+                "fn": 27,
+                "totale_gold": 43,
+                "totale_pred": 76
+            }
+        },
+        "diagnostica": {
+            "etichette_errate": [
+                {
+                    "testo": "fanciullo",
+                    "etichetta_predetta": "RUORO",
+                    "etichetta_corretta": "RUOLO"
+                },
+                {
+                    "testo": "maestra",
+                    "etichetta_predetta": "RUORO",
+                    "etichetta_corretta": "RUOLO"
+                },
+                {
+                    "testo": "colleghe",
+                    "etichetta_predetta": "RUORO",
+                    "etichetta_corretta": "RUOLO"
+                },
+                {
+                    "testo": "fanciullo",
+                    "etichetta_predetta": "PERSONA",
+                    "etichetta_corretta": "RUOLO"
+                },
+                {
+                    "testo": "maestrina",
+                    "etichetta_predetta": "RUORO",
+                    "etichetta_corretta": "RUOLO"
+                },
+                {
+                    "testo": "signorina",
+                    "etichetta_predetta": "RUORO",
+                    "etichetta_corretta": "RUOLO"
+                },
+                {
+                    "testo": "Gutemberg",
+                    "etichetta_predetta": "RUOLO",
+                    "etichetta_corretta": "PERSONA"
+                }
+            ],
+            "non_trovate": [
+                {
+                    "testo": "giorno dopo",
+                    "etichetta_corretta": "DATA"
+                },
+                {
+                    "testo": "scolaro",
+                    "etichetta_corretta": "RUOLO"
+                },
+                {
+                    "testo": "fine del mese",
+                    "etichetta_corretta": "DATA"
+                },
+                {
+                    "testo": "19",
+                    "etichetta_corretta": "DATA"
+                },
+                {
+                    "testo": "direttore didattico",
+                    "etichetta_corretta": "RUOLO"
+                },
+                {
+                    "testo": "maestrina",
+                    "etichetta_corretta": "RUOLO"
+                },
+                {
+                    "testo": "cittadini",
+                    "etichetta_corretta": "RUOLO"
+                },
+                {
+                    "testo": "Myriam",
+                    "etichetta_corretta": "PERSONA"
+                },
+                {
+                    "testo": "bambini",
+                    "etichetta_corretta": "RUOLO"
+                },
+                {
+                    "testo": "oggi",
+                    "etichetta_corretta": "DATA"
+                },
+                {
+                    "testo": "oggi",
+                    "etichetta_corretta": "DATA"
+                },
+                {
+                    "testo": "oggi",
+                    "etichetta_corretta": "DATA"
+                },
+                {
+                    "testo": "maestrina",
+                    "etichetta_corretta": "RUOLO"
+                },
+                {
+                    "testo": "Myriam",
+                    "etichetta_corretta": "PERSONA"
+                },
+                {
+                    "testo": "ragazzi",
+                    "etichetta_corretta": "RUOLO"
+                },
+                {
+                    "testo": "signorina",
+                    "etichetta_corretta": "RUOLO"
+                },
+                {
+                    "testo": "maestrina",
+                    "etichetta_corretta": "RUOLO"
+                },
+                {
+                    "testo": "san Francesco",
+                    "etichetta_corretta": "PERSONA"
+                },
+                {
+                    "testo": "Giorgetto",
+                    "etichetta_corretta": "PERSONA"
+                },
+                {
+                    "testo": "Rockfeller",
+                    "etichetta_corretta": "PERSONA"
+                }
+            ],
+            "trovate_erroneamente": [
+                {
+                    "testo": "gli altri",
+                    "etichetta_predetta": "RUOLO"
+                },
+                {
+                    "testo": "magnifici sei",
+                    "etichetta_predetta": "RUOLO"
+                },
+                {
+                    "testo": "spizzichi",
+                    "etichetta_predetta": "RUOLO"
+                },
+                {
+                    "testo": "D'altro canto",
+                    "etichetta_predetta": "RUORO"
+                },
+                {
+                    "testo": "spazio del registro",
+                    "etichetta_predetta": "RUORO"
+                },
+                {
+                    "testo": "assenze",
+                    "etichetta_predetta": "RUORO"
+                },
+                {
+                    "testo": "limitato",
+                    "etichetta_predetta": "DATA"
+                },
+                {
+                    "testo": "ci stavano sì e no sei o sette",
+                    "etichetta_predetta": "DATA"
+                },
+                {
+                    "testo": "sette",
+                    "etichetta_predetta": "RUORO"
+                },
+                {
+                    "testo": "assenze per ogni scolaro",
+                    "etichetta_predetta": "DATA"
+                },
+                {
+                    "testo": "e tante lei ne annotava alla fine del mese",
+                    "etichetta_predetta": "RUORO"
+                },
+                {
+                    "testo": "quelli che le riuscivano graficamente meglio",
+                    "etichetta_predetta": "RUORO"
+                },
+                {
+                    "testo": "prato",
+                    "etichetta_predetta": "RUORO"
+                },
+                {
+                    "testo": "farfalle",
+                    "etichetta_predetta": "RUORO"
+                },
+                {
+                    "testo": "metodi moderni",
+                    "etichetta_predetta": "RUORO"
+                },
+                {
+                    "testo": "società civile",
+                    "etichetta_predetta": "RUORO"
+                },
+                {
+                    "testo": "cittadini democratici",
+                    "etichetta_predetta": "RUORO"
+                },
+                {
+                    "testo": "estrema necessità",
+                    "etichetta_predetta": "DATA"
+                },
+                {
+                    "testo": "democratici",
+                    "etichetta_predetta": "RUORO"
+                },
+                {
+                    "testo": "autodisciplina",
+                    "etichetta_predetta": "RUORO"
+                },
+                {
+                    "testo": "maturazione",
+                    "etichetta_predetta": "RUORO"
+                },
+                {
+                    "testo": "autogoverno",
+                    "etichetta_predetta": "RUOLO"
+                },
+                {
+                    "testo": "programma ministeriale",
+                    "etichetta_predetta": "RUOLO"
+                },
+                {
+                    "testo": "lavagna",
+                    "etichetta_predetta": "LUOGO"
+                },
+                {
+                    "testo": "data",
+                    "etichetta_predetta": "DATA"
+                },
+                {
+                    "testo": "quinto",
+                    "etichetta_predetta": "DATA"
+                },
+                {
+                    "testo": "magnifici sei",
+                    "etichetta_predetta": "RUORO"
+                },
+                {
+                    "testo": "programma ministeriale",
+                    "etichetta_predetta": "RUORO"
+                },
+                {
+                    "testo": "centri di interessi",
+                    "etichetta_predetta": "RUORO"
+                },
+                {
+                    "testo": "materie previste",
+                    "etichetta_predetta": "RUORO"
+                },
+                {
+                    "testo": "domanda di programma",
+                    "etichetta_predetta": "RUORO"
+                },
+                {
+                    "testo": "prammatica",
+                    "etichetta_predetta": "RUORO"
+                },
+                {
+                    "testo": "contropiede",
+                    "etichetta_predetta": "RUORO"
+                },
+                {
+                    "testo": "programma ministeriale",
+                    "etichetta_predetta": "RUORO"
+                },
+                {
+                    "testo": "paese sottosviluppato",
+                    "etichetta_predetta": "RUORO"
+                },
+                {
+                    "testo": "modi e tempi delle tecniche imprenditoriali",
+                    "etichetta_predetta": "RUORO"
+                },
+                {
+                    "testo": "storia",
+                    "etichetta_predetta": "RUOLO"
+                },
+                {
+                    "testo": "ministeriale",
+                    "etichetta_predetta": "RUORO"
+                },
+                {
+                    "testo": "campagna",
+                    "etichetta_predetta": "LUOGO"
+                },
+                {
+                    "testo": "INA",
+                    "etichetta_predetta": "RUORO"
+                },
+                {
+                    "testo": "risparmio",
+                    "etichetta_predetta": "RUORO"
+                },
+                {
+                    "testo": "cattedra",
+                    "etichetta_predetta": "RUORO"
+                },
+                {
+                    "testo": "emulazione",
+                    "etichetta_predetta": "RUORO"
+                },
+                {
+                    "testo": "progresso",
+                    "etichetta_predetta": "RUORO"
+                },
+                {
+                    "testo": "centro",
+                    "etichetta_predetta": "RUORO"
+                },
+                {
+                    "testo": "umanità",
+                    "etichetta_predetta": "RUOLO"
+                },
+                {
+                    "testo": "benefattori",
+                    "etichetta_predetta": "RUOLO"
+                },
+                {
+                    "testo": "dell'",
+                    "etichetta_predetta": "RUOLO"
+                },
+                {
+                    "testo": "dell'umanità",
+                    "etichetta_predetta": "RUOLO"
+                },
+                {
+                    "testo": "dell'",
+                    "etichetta_predetta": "RUOLO"
+                },
+                {
+                    "testo": "dell'umanità",
+                    "etichetta_predetta": "RUOLO"
+                },
+                {
+                    "testo": "dell'",
+                    "etichetta_predetta": "RUOLO"
+                },
+                {
+                    "testo": "umanità",
+                    "etichetta_predetta": "RUOLO"
+                }
+            ],
+            "corrette_esatte": [
+                {
+                    "testo": "Rino",
+                    "etichetta": "PERSONA"
+                },
+                {
+                    "testo": "Ilario",
+                    "etichetta": "PERSONA"
+                },
+                {
+                    "testo": "Rino",
+                    "etichetta": "PERSONA"
+                },
+                {
+                    "testo": "Ilario",
+                    "etichetta": "PERSONA"
+                },
+                {
+                    "testo": "Myriam",
+                    "etichetta": "PERSONA"
+                },
+                {
+                    "testo": "Rockfeller",
+                    "etichetta": "PERSONA"
+                },
+                {
+                    "testo": "signorina",
+                    "etichetta": "RUOLO"
+                },
+                {
+                    "testo": "Giorgetto",
+                    "etichetta": "PERSONA"
+                },
+                {
+                    "testo": "Rockfeller",
+                    "etichetta": "PERSONA"
+                },
+                {
+                    "testo": "benefattori dell'umanità",
+                    "etichetta": "RUOLO"
+                }
+            ],
+            "corrette_parziali": [
+                {
+                    "testo_predetto": "La signorina Myriam",
+                    "testo_corretto": "signorina",
+                    "etichetta": "RUOLO"
+                },
+                {
+                    "testo_predetto": "il 16 e il 19, per esempio. Così la",
+                    "testo_corretto": "16",
+                    "etichetta": "DATA"
+                },
+                {
+                    "testo_predetto": "signorina Myriam",
+                    "testo_corretto": "Signorina",
+                    "etichetta": "RUOLO"
+                },
+                {
+                    "testo_predetto": "mattina",
+                    "testo_corretto": "Quella mattina",
+                    "etichetta": "DATA"
+                },
+                {
+                    "testo_predetto": "umanità",
+                    "testo_corretto": "benefattore dell'umanità",
+                    "etichetta": "RUOLO"
+                },
+                {
+                    "testo_predetto": "san Francesco d'Assisi",
+                    "testo_corretto": "Assisi",
+                    "etichetta": "LUOGO"
+                }
+            ]
+        }
+    },
+    "outputCLASSICONOPREINDICIZZAZIONEllama.json": {
+        "metrics": {
+            "precision": 0.2,
+            "recall": 0.6512,
+            "f1_score": 0.306,
+            "counts": {
+                "tp": 28,
+                "tp_esatti": 25,
+                "tp_parziali": 3,
+                "fp": 112,
+                "fn": 15,
+                "totale_gold": 43,
+                "totale_pred": 140
+            }
+        },
+        "diagnostica": {
+            "etichette_errate": [
+                {
+                    "testo": "fanciullo",
+                    "etichetta_predetta": "PERSONA",
+                    "etichetta_corretta": "RUOLO"
+                }
+            ],
+            "non_trovate": [
+                {
+                    "testo": "fine del mese",
+                    "etichetta_corretta": "DATA"
+                },
+                {
+                    "testo": "bambini",
+                    "etichetta_corretta": "RUOLO"
+                },
+                {
+                    "testo": "oggi",
+                    "etichetta_corretta": "DATA"
+                },
+                {
+                    "testo": "oggi",
+                    "etichetta_corretta": "DATA"
+                },
+                {
+                    "testo": "Quella mattina",
+                    "etichetta_corretta": "DATA"
+                },
+                {
+                    "testo": "Rino",
+                    "etichetta_corretta": "PERSONA"
+                },
+                {
+                    "testo": "Signorina",
+                    "etichetta_corretta": "RUOLO"
+                },
+                {
+                    "testo": "signorina",
+                    "etichetta_corretta": "RUOLO"
+                },
+                {
+                    "testo": "ragazzi",
+                    "etichetta_corretta": "RUOLO"
+                },
+                {
+                    "testo": "signorina",
+                    "etichetta_corretta": "RUOLO"
+                },
+                {
+                    "testo": "benefattore dell'umanità",
+                    "etichetta_corretta": "RUOLO"
+                },
+                {
+                    "testo": "Assisi",
+                    "etichetta_corretta": "LUOGO"
+                },
+                {
+                    "testo": "Giorgetto",
+                    "etichetta_corretta": "PERSONA"
+                },
+                {
+                    "testo": "benefattori dell'umanità",
+                    "etichetta_corretta": "RUOLO"
+                }
+            ],
+            "trovate_erroneamente": [
+                {
+                    "testo": "sei",
+                    "etichetta_predetta": "RUOLO"
+                },
+                {
+                    "testo": "luna",
+                    "etichetta_predetta": "DATA"
+                },
+                {
+                    "testo": "lo",
+                    "etichetta_predetta": ""
+                },
+                {
+                    "testo": "spazio",
+                    "etichetta_predetta": ""
+                },
+                {
+                    "testo": "del",
+                    "etichetta_predetta": ""
+                },
+                {
+                    "testo": "registro",
+                    "etichetta_predetta": ""
+                },
+                {
+                    "testo": "riservato",
+                    "etichetta_predetta": ""
+                },
+                {
+                    "testo": "alle",
+                    "etichetta_predetta": ""
+                },
+                {
+                    "testo": "assenze",
+                    "etichetta_predetta": "RUOLO"
+                },
+                {
+                    "testo": "era",
+                    "etichetta_predetta": ""
+                },
+                {
+                    "testo": "molto",
+                    "etichetta_predetta": ""
+                },
+                {
+                    "testo": "limitato",
+                    "etichetta_predetta": ""
+                },
+                {
+                    "testo": "ci",
+                    "etichetta_predetta": ""
+                },
+                {
+                    "testo": "stavan",
+                    "etichetta_predetta": ""
+                },
+                {
+                    "testo": "sì",
+                    "etichetta_predetta": ""
+                },
+                {
+                    "testo": "e",
+                    "etichetta_predetta": ""
+                },
+                {
+                    "testo": "no",
+                    "etichetta_predetta": ""
+                },
+                {
+                    "testo": "sei",
+                    "etichetta_predetta": ""
+                },
+                {
+                    "testo": "o",
+                    "etichetta_predetta": ""
+                },
+                {
+                    "testo": "sette",
+                    "etichetta_predetta": ""
+                },
+                {
+                    "testo": "assenze",
+                    "etichetta_predetta": "RUOLO"
+                },
+                {
+                    "testo": "per",
+                    "etichetta_predetta": ""
+                },
+                {
+                    "testo": "ogni",
+                    "etichetta_predetta": ""
+                },
+                {
+                    "testo": "e",
+                    "etichetta_predetta": ""
+                },
+                {
+                    "testo": "tante",
+                    "etichetta_predetta": ""
+                },
+                {
+                    "testo": "lei",
+                    "etichetta_predetta": ""
+                },
+                {
+                    "testo": "ne",
+                    "etichetta_predetta": ""
+                },
+                {
+                    "testo": "annotava",
+                    "etichetta_predetta": ""
+                },
+                {
+                    "testo": "alla",
+                    "etichetta_predetta": ""
+                },
+                {
+                    "testo": "fine",
+                    "etichetta_predetta": ""
+                },
+                {
+                    "testo": "del",
+                    "etichetta_predetta": ""
+                },
+                {
+                    "testo": "mese",
+                    "etichetta_predetta": ""
+                },
+                {
+                    "testo": "scegliendo",
+                    "etichetta_predetta": ""
+                },
+                {
+                    "testo": "tra",
+                    "etichetta_predetta": ""
+                },
+                {
+                    "testo": "inumeri",
+                    "etichetta_predetta": ""
+                },
+                {
+                    "testo": "dall'uno",
+                    "etichetta_predetta": ""
+                },
+                {
+                    "testo": "al",
+                    "etichetta_predetta": ""
+                },
+                {
+                    "testo": "trenta",
+                    "etichetta_predetta": ""
+                },
+                {
+                    "testo": "quelli",
+                    "etichetta_predetta": ""
+                },
+                {
+                    "testo": "che",
+                    "etichetta_predetta": ""
+                },
+                {
+                    "testo": "le",
+                    "etichetta_predetta": ""
+                },
+                {
+                    "testo": "riuscivano",
+                    "etichetta_predetta": ""
+                },
+                {
+                    "testo": "graficamente",
+                    "etichetta_predetta": ""
+                },
+                {
+                    "testo": "meglio",
+                    "etichetta_predetta": ""
+                },
+                {
+                    "testo": "il",
+                    "etichetta_predetta": ""
+                },
+                {
+                    "testo": "e",
+                    "etichetta_predetta": ""
+                },
+                {
+                    "testo": "il",
+                    "etichetta_predetta": ""
+                },
+                {
+                    "testo": "per",
+                    "etichetta_predetta": ""
+                },
+                {
+                    "testo": "esempio",
+                    "etichetta_predetta": ""
+                },
+                {
+                    "testo": "il",
+                    "etichetta_predetta": ""
+                },
+                {
+                    "testo": "sì",
+                    "etichetta_predetta": ""
+                },
+                {
+                    "testo": "e",
+                    "etichetta_predetta": ""
+                },
+                {
+                    "testo": "no",
+                    "etichetta_predetta": ""
+                },
+                {
+                    "testo": "sei",
+                    "etichetta_predetta": ""
+                },
+                {
+                    "testo": "o",
+                    "etichetta_predetta": ""
+                },
+                {
+                    "testo": "sette",
+                    "etichetta_predetta": ""
+                },
+                {
+                    "testo": "assenze",
+                    "etichetta_predetta": "RUOLO"
+                },
+                {
+                    "testo": "pagina delle assenze",
+                    "etichetta_predetta": "RUOLO"
+                },
+                {
+                    "testo": "diventava",
+                    "etichetta_predetta": "RUOLO"
+                },
+                {
+                    "testo": "prato",
+                    "etichetta_predetta": "RUOLO"
+                },
+                {
+                    "testo": "tarfarfalle",
+                    "etichetta_predetta": "RUOLO"
+                },
+                {
+                    "testo": "didattico",
+                    "etichetta_predetta": "RUOLO"
+                },
+                {
+                    "testo": "civile",
+                    "etichetta_predetta": "RUOLO"
+                },
+                {
+                    "testo": "democratici",
+                    "etichetta_predetta": "RUOLO"
+                },
+                {
+                    "testo": "nienteschiaffi",
+                    "etichetta_predetta": "RUOLO"
+                },
+                {
+                    "testo": "personalità",
+                    "etichetta_predetta": "RUOLO"
+                },
+                {
+                    "testo": "Sidiventa",
+                    "etichetta_predetta": "PERSONA"
+                },
+                {
+                    "testo": "democratici",
+                    "etichetta_predetta": "RUOLO"
+                },
+                {
+                    "testo": "gabinetto",
+                    "etichetta_predetta": "LUOGO"
+                },
+                {
+                    "testo": "andito",
+                    "etichetta_predetta": "LUOGO"
+                },
+                {
+                    "testo": "giugno",
+                    "etichetta_predetta": "DATA"
+                },
+                {
+                    "testo": "lavoro",
+                    "etichetta_predetta": "RUOLO"
+                },
+                {
+                    "testo": "ministeriale",
+                    "etichetta_predetta": "RUOLO"
+                },
+                {
+                    "testo": "cattedra",
+                    "etichetta_predetta": "RUOLO"
+                },
+                {
+                    "testo": "Bologna",
+                    "etichetta_predetta": "LUOGO"
+                },
+                {
+                    "testo": "primo",
+                    "etichetta_predetta": "DATA"
+                },
+                {
+                    "testo": "secondo",
+                    "etichetta_predetta": "DATA"
+                },
+                {
+                    "testo": "terzo",
+                    "etichetta_predetta": "DATA"
+                },
+                {
+                    "testo": "quarto",
+                    "etichetta_predetta": "DATA"
+                },
+                {
+                    "testo": "quinto",
+                    "etichetta_predetta": "DATA"
+                },
+                {
+                    "testo": "vostri",
+                    "etichetta_predetta": "RUOLO"
+                },
+                {
+                    "testo": "magnifici",
+                    "etichetta_predetta": "RUOLO"
+                },
+                {
+                    "testo": "sei",
+                    "etichetta_predetta": "RUOLO"
+                },
+                {
+                    "testo": "ministeriale",
+                    "etichetta_predetta": "RUOLO"
+                },
+                {
+                    "testo": "materie",
+                    "etichetta_predetta": "RUOLO"
+                },
+                {
+                    "testo": "scienze",
+                    "etichetta_predetta": "RUOLO"
+                },
+                {
+                    "testo": "religione",
+                    "etichetta_predetta": "RUOLO"
+                },
+                {
+                    "testo": "aritmetica",
+                    "etichetta_predetta": "RUOLO"
+                },
+                {
+                    "testo": "centri",
+                    "etichetta_predetta": "RUOLO"
+                },
+                {
+                    "testo": "giorno",
+                    "etichetta_predetta": "DATA"
+                },
+                {
+                    "testo": "paese sottosviluppato",
+                    "etichetta_predetta": "LUOGO"
+                },
+                {
+                    "testo": "umanità",
+                    "etichetta_predetta": "LUOGO"
+                },
+                {
+                    "testo": "programma",
+                    "etichetta_predetta": "RUOLO"
+                },
+                {
+                    "testo": "sussidiario",
+                    "etichetta_predetta": "LUOGO"
+                },
+                {
+                    "testo": "pagina 175",
+                    "etichetta_predetta": "DATA"
+                },
+                {
+                    "testo": "ministeriale",
+                    "etichetta_predetta": "RUOLO"
+                },
+                {
+                    "testo": "ina",
+                    "etichetta_predetta": "LUOGO"
+                },
+                {
+                    "testo": "nazionale",
+                    "etichetta_predetta": "LUOGO"
+                },
+                {
+                    "testo": "cattedra",
+                    "etichetta_predetta": "RUOLO"
+                },
+                {
+                    "testo": "interesse",
+                    "etichetta_predetta": "RUOLO"
+                },
+                {
+                    "testo": "emuli",
+                    "etichetta_predetta": "RUOLO"
+                },
+                {
+                    "testo": "nobile",
+                    "etichetta_predetta": "RUOLO"
+                },
+                {
+                    "testo": "intelligenza",
+                    "etichetta_predetta": "RUOLO"
+                },
+                {
+                    "testo": "progresso",
+                    "etichetta_predetta": "RUOLO"
+                },
+                {
+                    "testo": "numero",
+                    "etichetta_predetta": "RUOLO"
+                },
+                {
+                    "testo": "due",
+                    "etichetta_predetta": "RUOLO"
+                },
+                {
+                    "testo": "Storia",
+                    "etichetta_predetta": "RUOLO"
+                },
+                {
+                    "testo": "giorno",
+                    "etichetta_predetta": "RUOLO"
+                },
+                {
+                    "testo": "mese",
+                    "etichetta_predetta": "RUOLO"
+                },
+                {
+                    "testo": "gennaio",
+                    "etichetta_predetta": "RUOLO"
+                },
+                {
+                    "testo": "benefattoridell'umanità",
+                    "etichetta_predetta": "RUOLO"
+                }
+            ],
+            "corrette_esatte": [
+                {
+                    "testo": "Rino",
+                    "etichetta": "PERSONA"
+                },
+                {
+                    "testo": "Ilario",
+                    "etichetta": "PERSONA"
+                },
+                {
+                    "testo": "Myriam",
+                    "etichetta": "PERSONA"
+                },
+                {
+                    "testo": "maestrina",
+                    "etichetta": "RUOLO"
+                },
+                {
+                    "testo": "scolaro",
+                    "etichetta": "RUOLO"
+                },
+                {
+                    "testo": "16",
+                    "etichetta": "DATA"
+                },
+                {
+                    "testo": "19",
+                    "etichetta": "DATA"
+                },
+                {
+                    "testo": "maestrina",
+                    "etichetta": "RUOLO"
+                },
+                {
+                    "testo": "cittadini",
+                    "etichetta": "RUOLO"
+                },
+                {
+                    "testo": "fanciullo",
+                    "etichetta": "RUOLO"
+                },
+                {
+                    "testo": "maestra",
+                    "etichetta": "RUOLO"
+                },
+                {
+                    "testo": "colleghe",
+                    "etichetta": "RUOLO"
+                },
+                {
+                    "testo": "Myriam",
+                    "etichetta": "PERSONA"
+                },
+                {
+                    "testo": "Giorgetto",
+                    "etichetta": "PERSONA"
+                },
+                {
+                    "testo": "oggi",
+                    "etichetta": "DATA"
+                },
+                {
+                    "testo": "maestrina",
+                    "etichetta": "RUOLO"
+                },
+                {
+                    "testo": "Ilario",
+                    "etichetta": "PERSONA"
+                },
+                {
+                    "testo": "Myriam",
+                    "etichetta": "PERSONA"
+                },
+                {
+                    "testo": "Signorina",
+                    "etichetta": "RUOLO"
+                },
+                {
+                    "testo": "Rockfeller",
+                    "etichetta": "PERSONA"
+                },
+                {
+                    "testo": "signorina",
+                    "etichetta": "RUOLO"
+                },
+                {
+                    "testo": "Rockfeller",
+                    "etichetta": "PERSONA"
+                },
+                {
+                    "testo": "Gutemberg",
+                    "etichetta": "PERSONA"
+                },
+                {
+                    "testo": "maestrina",
+                    "etichetta": "RUOLO"
+                },
+                {
+                    "testo": "Rockfeller",
+                    "etichetta": "PERSONA"
+                }
+            ],
+            "corrette_parziali": [
+                {
+                    "testo_predetto": "direttore",
+                    "testo_corretto": "direttore didattico",
+                    "etichetta": "RUOLO"
+                },
+                {
+                    "testo_predetto": "giorno",
+                    "testo_corretto": "giorno dopo",
+                    "etichetta": "DATA"
+                },
+                {
+                    "testo_predetto": "san Francesco d'Assisi",
+                    "testo_corretto": "san Francesco",
+                    "etichetta": "PERSONA"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,64 @@
+{
+    "entita": [
+        {
+            "testo": "Dessy",
+            "etichetta": "PERSONA",
+            "indice_parola_inizio": 0,
+            "indice_parola_fine": 1
+        },
+        {
+            "testo": "sardegna",
+            "etichetta": "LUOGO",
+            "indice_parola_inizio": 10,
+            "indice_parola_fine": 13
+        },
+        {
+            "testo": "paradossale",
+            "etichetta": "CONTESTAZIONE_O_SUGGERIMENTO",
+            "indice_parola_inizio": 35,
+            "indice_parola_fine": 41
+        },
+        {
+            "testo": "racconti scioltissimi, franchi",
+            "etichetta": "CONTESTAZIONE_O_SUGGERIMENTO",
+            "indice_parola_inizio": 10,
+            "indice_parola_fine": 34
+        },
+        {
+            "testo": "satira",
+            "etichetta": "RUOLO",
+            "indice_parola_inizio": 53,
+            "indice_parola_fine": 57
+        },
+        {
+            "testo": "sfruttamento",
+            "etichetta": "CONTESTAZIONE_O_SUGGERIMENTO",
+            "indice_parola_inizio": 62,
+            "indice_parola_fine": 69
+        },
+        {
+            "testo": "intelligenza diversa",
+            "etichetta": "CONTESTAZIONE_O_SUGGERIMENTO",
+            "indice_parola_inizio": 77,
+            "indice_parola_fine": 86
+        },
+        {
+            "testo": "dominazione forestiere",
+            "etichetta": "CONTESTAZIONE_O_SUGGERIMENTO",
+            "indice_parola_inizio": 95,
+            "indice_parola_fine": 103
+        },
+        {
+            "testo": "idillio",
+            "etichetta": "CONTESTAZIONE_O_SUGGERIMENTO",
+            "indice_parola_inizio": 116,
+            "indice_parola_fine": 119
+        },
+        {
+            "testo": "Mito",
+            "etichetta": "CONTESTAZIONE_O_SUGGERIMENTO",
+            "indice_parola_inizio": 125,
+            "indice_parola_fine": 128
+        }
+    ]
+}

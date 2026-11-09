@@ -1,0 +1,64 @@
+{
+    "entita": [
+        {
+            "testo": "Romanum imperium",
+            "etichetta": "RUOLO",
+            "indice_parola_inizio": 0,
+            "indice_parola_fine": 0
+        },
+        {
+            "testo": "Romulo",
+            "etichetta": "PERSONA",
+            "indice_parola_inizio": 2,
+            "indice_parola_fine": 2
+        },
+        {
+            "testo": "Reae Silviae",
+            "etichetta": "PERSONA",
+            "indice_parola_inizio": 3,
+            "indice_parola_fine": 3
+        },
+        {
+            "testo": "Vestalis virginis",
+            "etichetta": "RUOLO",
+            "indice_parola_inizio": 4,
+            "indice_parola_fine": 4
+        },
+        {
+            "testo": "filius",
+            "etichetta": "RUOLO",
+            "indice_parola_inizio": 5,
+            "indice_parola_fine": 5
+        },
+        {
+            "testo": "Martis cum Remo fratre uno partu editus est",
+            "etichetta": "RUOLO",
+            "indice_parola_inizio": 6,
+            "indice_parola_fine": 6
+        },
+        {
+            "testo": "Is cum inter pastores latrocinaretur",
+            "etichetta": "RUOLO",
+            "indice_parola_inizio": 7,
+            "indice_parola_fine": 7
+        },
+        {
+            "testo": "decem et octo annos",
+            "etichetta": "DATA",
+            "indice_parola_inizio": 8,
+            "indice_parola_fine": 8
+        },
+        {
+            "testo": "urbem exiguam in Palatino monte constituit",
+            "etichetta": "RUOLO",
+            "indice_parola_inizio": 9,
+            "indice_parola_fine": 9
+        },
+        {
+            "testo": "XI Kal",
+            "etichetta": "DATA",
+            "indice_parola_inizio": 10,
+            "indice_parola_fine": 10
+        }
+    ]
+}

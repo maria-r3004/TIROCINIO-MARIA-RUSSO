@@ -1,0 +1,34 @@
+{
+"entita": [
+{
+"testo": "Re Cattolico",
+"etichetta": "RUOLO",
+"indice_parola_inizio": 11,
+"indice_parola_fine": 12
+},
+{
+"testo": "Senatori",
+"etichetta": "RUOLO",
+"indice_parola_inizio": 49,
+"indice_parola_fine": 49
+},
+{
+"testo": "Magistrati",
+"etichetta": "RUOLO",
+"indice_parola_inizio": 56,
+"indice_parola_fine": 56
+},
+{
+"testo": "Argo",
+"etichetta": "PERSONA",
+"indice_parola_inizio": 118,
+"indice_parola_fine": 118
+},
+{
+"testo": "Briareo",
+"etichetta": "PERSONA",
+"indice_parola_inizio": 122,
+"indice_parola_fine": 122
+}
+]
+}

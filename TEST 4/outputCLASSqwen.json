@@ -1,0 +1,46 @@
+{
+    "entita": [
+        {
+            "testo": "Re",
+            "etichetta": "RUOLO",
+            "indice_parola_inizio": 11,
+            "indice_parola_fine": 11
+        },
+        {
+            "testo": "Cattolico",
+            "etichetta": "PERSONA",
+            "indice_parola_inizio": 12,
+            "indice_parola_fine": 12
+        },
+        {
+            "testo": "Heroe",
+            "etichetta": "RUOLO",
+            "indice_parola_inizio": 35,
+            "indice_parola_fine": 35
+        },
+        {
+            "testo": "Senatori",
+            "etichetta": "RUOLO",
+            "indice_parola_inizio": 49,
+            "indice_parola_fine": 49
+        },
+        {
+            "testo": "Spettabili",
+            "etichetta": "RUOLO",
+            "indice_parola_inizio": 55,
+            "indice_parola_fine": 55
+        },
+        {
+            "testo": "Magistrati",
+            "etichetta": "RUOLO",
+            "indice_parola_inizio": 56,
+            "indice_parola_fine": 56
+        },
+        {
+            "testo": "Heroi",
+            "etichetta": "RUOLO",
+            "indice_parola_inizio": 114,
+            "indice_parola_fine": 114
+        }
+    ]
+}

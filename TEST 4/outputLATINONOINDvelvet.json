@@ -1,0 +1,54 @@
+{
+    "entita": [
+        {
+            "testo": "Romanum imperium",
+            "etichetta": "LUOGO",
+            "indice_parola_inizio": 0
+        },
+        {
+            "testo": "Rex",
+            "etichetta": "PERSONA",
+            "indice_parola_inizio": 1
+        },
+        {
+            "testo": "Rhea Silvia",
+            "etichetta": "PERSONA",
+            "indice_parola_inizio": 2
+        },
+        {
+            "testo": "Vestalis",
+            "etichetta": "PERSONA",
+            "indice_parola_inizio": 3
+        },
+        {
+            "testo": "Rex",
+            "etichetta": "PERSONA",
+            "indice_parola_inizio": 4
+        },
+        {
+            "testo": "Mars",
+            "etichetta": "PERSONA",
+            "indice_parola_inizio": 5
+        },
+        {
+            "testo": "Rex",
+            "etichetta": "PERSONA",
+            "indice_parola_inizio": 6
+        },
+        {
+            "testo": "Rome",
+            "etichetta": "LUOGO",
+            "indice_parola_inizio": 7
+        },
+        {
+            "testo": "Palatine",
+            "etichetta": "LUOGO",
+            "indice_parola_inizio": 8
+        },
+        {
+            "testo": "XI Kal",
+            "etichetta": "DATA",
+            "indice_parola_inizio": 9
+        }
+    ]
+}

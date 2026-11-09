@@ -1,0 +1,84 @@
+{
+    "entita": [
+        {
+            "testo": "Roma",
+            "etichetta": "LUOGO"
+        },
+        {
+            "testo": "vertice",
+            "etichetta": "RUOLO"
+        },
+        {
+            "testo": "presidente",
+            "etichetta": "RUOLO"
+        },
+        {
+            "testo": "Marco Rossi",
+            "etichetta": "PERSONA"
+        },
+        {
+            "testo": "piano",
+            "etichetta": "RUOLO"
+        },
+        {
+            "testo": "15 ottobre 2024",
+            "etichetta": "DATA"
+        },
+        {
+            "testo": "Milano",
+            "etichetta": "LUOGO"
+        },
+        {
+            "testo": "Torino",
+            "etichetta": "LUOGO"
+        },
+        {
+            "testo": "Napoli",
+            "etichetta": "LUOGO"
+        },
+        {
+            "testo": "direttrice",
+            "etichetta": "RUOLO"
+        },
+        {
+            "testo": "Elena Bianchi",
+            "etichetta": "PERSONA"
+        },
+        {
+            "testo": "ministro",
+            "etichetta": "RUOLO"
+        },
+        {
+            "testo": "Luca Moretti",
+            "etichetta": "PERSONA"
+        },
+        {
+            "testo": "Barilla",
+            "etichetta": "RUOLO"
+        },
+        {
+            "testo": "Pirelli",
+            "etichetta": "RUOLO"
+        },
+        {
+            "testo": "2025",
+            "etichetta": "DATA"
+        },
+        {
+            "testo": "Italia",
+            "etichetta": "LUOGO"
+        },
+        {
+            "testo": "Francia",
+            "etichetta": "LUOGO"
+        },
+        {
+            "testo": "Commissione Europea",
+            "etichetta": "RUOLO"
+        },
+        {
+            "testo": "Bruxelles",
+            "etichetta": "LUOGO"
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+{
+"entita": [
+{
+"testo": "Romulo",
+"etichetta": "PERSONA",
+"indice_parola_inizio": 21,
+"indice_parola_fine": 21
+},
+{
+"testo": "Reae Silviae",
+"etichetta": "PERSONA",
+"indice_parola_inizio": 26,
+"indice_parola_fine": 27
+},
+{
+"testo": "Vestalis virginis",
+"etichetta": "RUOLO",
+"indice_parola_inizio": 29,
+"indice_parola_fine": 30
+},
+{
+"testo": "Martis",
+"etichetta": "PERSONA",
+"indice_parola_inizio": 39,
+"indice_parola_fine": 39
+},
+{
+"testo": "Remo",
+"etichetta": "PERSONA",
+"indice_parola_inizio": 41,
+"indice_parola_fine": 41
+},
+{
+"testo": "pastores",
+"etichetta": "RUOLO",
+"indice_parola_inizio": 51,
+"indice_parola_fine": 51
+},
+{
+"testo": "Palatino",
+"etichetta": "LUOGO",
+"indice_parola_inizio": 62,
+"indice_parola_fine": 62
+},
+{
+"testo": "XI Kal",
+"etichetta": "DATA",
+"indice_parola_inizio": 65,
+"indice_parola_fine": 66
+}
+]
+}

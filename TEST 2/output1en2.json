@@ -1,0 +1,16 @@
+{
+    "entita": [
+        {
+            "testo": "angelicata",
+            "etichetta": "RUOLO",
+            "indice_parola_inizio": 70,
+            "indice_parola_fine": 70
+        },
+        {
+            "testo": "crïatura",
+            "etichetta": "RUOLO",
+            "indice_parola_inizio": 72,
+            "indice_parola_fine": 72
+        }
+    ]
+}

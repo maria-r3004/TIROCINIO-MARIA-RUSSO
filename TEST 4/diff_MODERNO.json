@@ -1,0 +1,788 @@
+{
+    "outputTESTOMODERNO1.json": {
+        "metrics": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1_score": 1.0,
+            "counts": {
+                "tp": 18,
+                "fp": 0,
+                "fn": 0,
+                "totale_gold": 18,
+                "totale_pred": 18
+            }
+        },
+        "diagnostica": {
+            "etichette_errate": [],
+            "non_trovate": [],
+            "trovate_erroneamente": [],
+            "corrette": [
+                {
+                    "testo": "Roma",
+                    "etichetta": "LUOGO"
+                },
+                {
+                    "testo": "Marco Rossi",
+                    "etichetta": "PERSONA"
+                },
+                {
+                    "testo": "presidente",
+                    "etichetta": "RUOLO"
+                },
+                {
+                    "testo": "15 ottobre 2024",
+                    "etichetta": "DATA"
+                },
+                {
+                    "testo": "Milano",
+                    "etichetta": "LUOGO"
+                },
+                {
+                    "testo": "Torino",
+                    "etichetta": "LUOGO"
+                },
+                {
+                    "testo": "Napoli",
+                    "etichetta": "LUOGO"
+                },
+                {
+                    "testo": "direttrice",
+                    "etichetta": "RUOLO"
+                },
+                {
+                    "testo": "Elena Bianchi",
+                    "etichetta": "PERSONA"
+                },
+                {
+                    "testo": "ministro",
+                    "etichetta": "RUOLO"
+                },
+                {
+                    "testo": "Luca Moretti",
+                    "etichetta": "PERSONA"
+                },
+                {
+                    "testo": "Barilla",
+                    "etichetta": "ORGANIZZAZIONE"
+                },
+                {
+                    "testo": "Pirelli",
+                    "etichetta": "ORGANIZZAZIONE"
+                },
+                {
+                    "testo": "2025",
+                    "etichetta": "DATA"
+                },
+                {
+                    "testo": "Italia",
+                    "etichetta": "LUOGO"
+                },
+                {
+                    "testo": "Francia",
+                    "etichetta": "LUOGO"
+                },
+                {
+                    "testo": "Commissione Europea",
+                    "etichetta": "ORGANIZZAZIONE"
+                },
+                {
+                    "testo": "Bruxelles",
+                    "etichetta": "LUOGO"
+                }
+            ]
+        }
+    },
+    "outputTESTOMODERNO2.json": {
+        "metrics": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1_score": 1.0,
+            "counts": {
+                "tp": 18,
+                "fp": 0,
+                "fn": 0,
+                "totale_gold": 18,
+                "totale_pred": 18
+            }
+        },
+        "diagnostica": {
+            "etichette_errate": [],
+            "non_trovate": [],
+            "trovate_erroneamente": [],
+            "corrette": [
+                {
+                    "testo": "Roma",
+                    "etichetta": "LUOGO"
+                },
+                {
+                    "testo": "presidente",
+                    "etichetta": "RUOLO"
+                },
+                {
+                    "testo": "Marco Rossi",
+                    "etichetta": "PERSONA"
+                },
+                {
+                    "testo": "15 ottobre 2024",
+                    "etichetta": "DATA"
+                },
+                {
+                    "testo": "Milano",
+                    "etichetta": "LUOGO"
+                },
+                {
+                    "testo": "Torino",
+                    "etichetta": "LUOGO"
+                },
+                {
+                    "testo": "Napoli",
+                    "etichetta": "LUOGO"
+                },
+                {
+                    "testo": "direttrice",
+                    "etichetta": "RUOLO"
+                },
+                {
+                    "testo": "Elena Bianchi",
+                    "etichetta": "PERSONA"
+                },
+                {
+                    "testo": "ministro",
+                    "etichetta": "RUOLO"
+                },
+                {
+                    "testo": "Luca Moretti",
+                    "etichetta": "PERSONA"
+                },
+                {
+                    "testo": "Barilla",
+                    "etichetta": "ORGANIZZAZIONE"
+                },
+                {
+                    "testo": "Pirelli",
+                    "etichetta": "ORGANIZZAZIONE"
+                },
+                {
+                    "testo": "2025",
+                    "etichetta": "DATA"
+                },
+                {
+                    "testo": "Italia",
+                    "etichetta": "LUOGO"
+                },
+                {
+                    "testo": "Francia",
+                    "etichetta": "LUOGO"
+                },
+                {
+                    "testo": "Commissione Europea",
+                    "etichetta": "ORGANIZZAZIONE"
+                },
+                {
+                    "testo": "Bruxelles",
+                    "etichetta": "LUOGO"
+                }
+            ]
+        }
+    },
+    "outputTESTOMODERNO3.json": {
+        "metrics": {
+            "precision": 0.3571,
+            "recall": 0.2778,
+            "f1_score": 0.3125,
+            "counts": {
+                "tp": 5,
+                "fp": 9,
+                "fn": 13,
+                "totale_gold": 18,
+                "totale_pred": 14
+            }
+        },
+        "diagnostica": {
+            "etichette_errate": [],
+            "non_trovate": [
+                {
+                    "testo": "presidente",
+                    "etichetta_corretta": "RUOLO"
+                },
+                {
+                    "testo": "15 ottobre 2024",
+                    "etichetta_corretta": "DATA"
+                },
+                {
+                    "testo": "direttrice",
+                    "etichetta_corretta": "RUOLO"
+                },
+                {
+                    "testo": "Elena Bianchi",
+                    "etichetta_corretta": "PERSONA"
+                },
+                {
+                    "testo": "ministro",
+                    "etichetta_corretta": "RUOLO"
+                },
+                {
+                    "testo": "Luca Moretti",
+                    "etichetta_corretta": "PERSONA"
+                },
+                {
+                    "testo": "Barilla",
+                    "etichetta_corretta": "ORGANIZZAZIONE"
+                },
+                {
+                    "testo": "Pirelli",
+                    "etichetta_corretta": "ORGANIZZAZIONE"
+                },
+                {
+                    "testo": "2025",
+                    "etichetta_corretta": "DATA"
+                },
+                {
+                    "testo": "Italia",
+                    "etichetta_corretta": "LUOGO"
+                },
+                {
+                    "testo": "Francia",
+                    "etichetta_corretta": "LUOGO"
+                },
+                {
+                    "testo": "Commissione Europea",
+                    "etichetta_corretta": "ORGANIZZAZIONE"
+                },
+                {
+                    "testo": "Bruxelles",
+                    "etichetta_corretta": "LUOGO"
+                }
+            ],
+            "trovate_erroneamente": [
+                {
+                    "testo": "il presidente",
+                    "etichetta_predetta": "RUOLO"
+                },
+                {
+                    "testo": "pubblico",
+                    "etichetta_predetta": "RUOLO"
+                },
+                {
+                    "testo": "vertice",
+                    "etichetta_predetta": "DATA"
+                },
+                {
+                    "testo": "del 15 Ottobre 2024",
+                    "etichetta_predetta": "DATA"
+                },
+                {
+                    "testo": "Insieme alla direttrice Elena Bianchi",
+                    "etichetta_predetta": "RUOLO"
+                },
+                {
+                    "testo": "direttamente dalla Commissione Europea",
+                    "etichetta_predetta": "RUOLO"
+                },
+                {
+                    "testo": "sostenuto",
+                    "etichetta_predetta": "RUOLO"
+                },
+                {
+                    "testo": "direttamente",
+                    "etichetta_predetta": "RUOLO"
+                },
+                {
+                    "testo": "dalla Commissione Europea",
+                    "etichetta_predetta": "RUOLO"
+                }
+            ],
+            "corrette": [
+                {
+                    "testo": "Roma",
+                    "etichetta": "LUOGO"
+                },
+                {
+                    "testo": "Marco Rossi",
+                    "etichetta": "PERSONA"
+                },
+                {
+                    "testo": "Napoli",
+                    "etichetta": "LUOGO"
+                },
+                {
+                    "testo": "Milano",
+                    "etichetta": "LUOGO"
+                },
+                {
+                    "testo": "Torino",
+                    "etichetta": "LUOGO"
+                }
+            ]
+        }
+    },
+    "outputTESTOMODERNO4.json": {
+        "metrics": {
+            "precision": 0.098,
+            "recall": 0.2778,
+            "f1_score": 0.1449,
+            "counts": {
+                "tp": 5,
+                "fp": 46,
+                "fn": 13,
+                "totale_gold": 18,
+                "totale_pred": 51
+            }
+        },
+        "diagnostica": {
+            "etichette_errate": [
+                {
+                    "testo": "direttrice",
+                    "etichetta_predetta": "ROLE",
+                    "etichetta_corretta": "RUOLO"
+                },
+                {
+                    "testo": "ministro",
+                    "etichetta_predetta": "ROLE",
+                    "etichetta_corretta": "RUOLO"
+                },
+                {
+                    "testo": "Barilla",
+                    "etichetta_predetta": "PERSONA",
+                    "etichetta_corretta": "ORGANIZZAZIONE"
+                },
+                {
+                    "testo": "Pirelli",
+                    "etichetta_predetta": "PERSONA",
+                    "etichetta_corretta": "ORGANIZZAZIONE"
+                }
+            ],
+            "non_trovate": [
+                {
+                    "testo": "Marco Rossi",
+                    "etichetta_corretta": "PERSONA"
+                },
+                {
+                    "testo": "15 ottobre 2024",
+                    "etichetta_corretta": "DATA"
+                },
+                {
+                    "testo": "Elena Bianchi",
+                    "etichetta_corretta": "PERSONA"
+                },
+                {
+                    "testo": "Luca Moretti",
+                    "etichetta_corretta": "PERSONA"
+                },
+                {
+                    "testo": "2025",
+                    "etichetta_corretta": "DATA"
+                },
+                {
+                    "testo": "Italia",
+                    "etichetta_corretta": "LUOGO"
+                },
+                {
+                    "testo": "Francia",
+                    "etichetta_corretta": "LUOGO"
+                },
+                {
+                    "testo": "Commissione Europea",
+                    "etichetta_corretta": "ORGANIZZAZIONE"
+                },
+                {
+                    "testo": "Bruxelles",
+                    "etichetta_corretta": "LUOGO"
+                }
+            ],
+            "trovate_erroneamente": [
+                {
+                    "testo": "Ieri",
+                    "etichetta_predetta": "DATA"
+                },
+                {
+                    "testo": "durante",
+                    "etichetta_predetta": "DATA"
+                },
+                {
+                    "testo": "un",
+                    "etichetta_predetta": "DATA"
+                },
+                {
+                    "testo": "vertice",
+                    "etichetta_predetta": "PERSONA"
+                },
+                {
+                    "testo": "pubblico",
+                    "etichetta_predetta": "RUOLO"
+                },
+                {
+                    "testo": "il",
+                    "etichetta_predetta": "PRONOME"
+                },
+                {
+                    "testo": "Marco",
+                    "etichetta_predetta": "PERSONA"
+                },
+                {
+                    "testo": "Rossi",
+                    "etichetta_predetta": "PERSONA"
+                },
+                {
+                    "testo": "ha",
+                    "etichetta_predetta": "VERBO"
+                },
+                {
+                    "testo": "presentato",
+                    "etichetta_predetta": "VERBO"
+                },
+                {
+                    "testo": "il",
+                    "etichetta_predetta": "PRONOME"
+                },
+                {
+                    "testo": "nuovo",
+                    "etichetta_predetta": "ADJ"
+                },
+                {
+                    "testo": "piano",
+                    "etichetta_predetta": "NOUN"
+                },
+                {
+                    "testo": "aziendale",
+                    "etichetta_predetta": "ADJ"
+                },
+                {
+                    "testo": "All' incontro",
+                    "etichetta_predetta": "PRONOME"
+                },
+                {
+                    "testo": "del",
+                    "etichetta_predetta": "PRONOME"
+                },
+                {
+                    "testo": "15",
+                    "etichetta_predetta": "NUM"
+                },
+                {
+                    "testo": "ottobre",
+                    "etichetta_predetta": "DATA"
+                },
+                {
+                    "testo": "2024",
+                    "etichetta_predetta": "DATA"
+                },
+                {
+                    "testo": "hanno",
+                    "etichetta_predetta": "VERB"
+                },
+                {
+                    "testo": "preso",
+                    "etichetta_predetta": "VERB"
+                },
+                {
+                    "testo": "parte",
+                    "etichetta_predetta": "VERB"
+                },
+                {
+                    "testo": "vari",
+                    "etichetta_predetta": "ADJ"
+                },
+                {
+                    "testo": "ospiti",
+                    "etichetta_predetta": "NOUN"
+                },
+                {
+                    "testo": "arrivati",
+                    "etichetta_predetta": "VERB"
+                },
+                {
+                    "testo": "da",
+                    "etichetta_predetta": "PRT"
+                },
+                {
+                    "testo": "e",
+                    "etichetta_predetta": "CONJ"
+                },
+                {
+                    "testo": "Insieme",
+                    "etichetta_predetta": "PRT"
+                },
+                {
+                    "testo": "alla",
+                    "etichetta_predetta": "PRT"
+                },
+                {
+                    "testo": "Elena",
+                    "etichetta_predetta": "PERSONA"
+                },
+                {
+                    "testo": "Bianchi",
+                    "etichetta_predetta": "PERSONA"
+                },
+                {
+                    "testo": "anche",
+                    "etichetta_predetta": "CONJ"
+                },
+                {
+                    "testo": "il",
+                    "etichetta_predetta": "PRT"
+                },
+                {
+                    "testo": "Luca",
+                    "etichetta_predetta": "PERSONA"
+                },
+                {
+                    "testo": "Moretti",
+                    "etichetta_predetta": "PERSONA"
+                },
+                {
+                    "testo": "ha",
+                    "etichetta_predetta": "VERB"
+                },
+                {
+                    "testo": "annunciato",
+                    "etichetta_predetta": "VERB"
+                },
+                {
+                    "testo": "un",
+                    "etichetta_predetta": "ADJ"
+                },
+                {
+                    "testo": "accordo",
+                    "etichetta_predetta": "NOUN"
+                },
+                {
+                    "testo": "strategico",
+                    "etichetta_predetta": "ADJ"
+                },
+                {
+                    "testo": "con",
+                    "etichetta_predetta": "CONJ"
+                },
+                {
+                    "testo": "e",
+                    "etichetta_predetta": "CONJ"
+                }
+            ],
+            "corrette": [
+                {
+                    "testo": "Roma",
+                    "etichetta": "LUOGO"
+                },
+                {
+                    "testo": "presidente",
+                    "etichetta": "RUOLO"
+                },
+                {
+                    "testo": "Milano",
+                    "etichetta": "LUOGO"
+                },
+                {
+                    "testo": "Torino",
+                    "etichetta": "LUOGO"
+                },
+                {
+                    "testo": "Napoli",
+                    "etichetta": "LUOGO"
+                }
+            ]
+        }
+    },
+    "outputTESTOMODERNO5.json": {
+        "metrics": {
+            "precision": 0.8125,
+            "recall": 0.7222,
+            "f1_score": 0.7647,
+            "counts": {
+                "tp": 13,
+                "fp": 3,
+                "fn": 5,
+                "totale_gold": 18,
+                "totale_pred": 16
+            }
+        },
+        "diagnostica": {
+            "etichette_errate": [],
+            "non_trovate": [
+                {
+                    "testo": "presidente",
+                    "etichetta_corretta": "RUOLO"
+                },
+                {
+                    "testo": "15 ottobre 2024",
+                    "etichetta_corretta": "DATA"
+                },
+                {
+                    "testo": "direttrice",
+                    "etichetta_corretta": "RUOLO"
+                },
+                {
+                    "testo": "ministro",
+                    "etichetta_corretta": "RUOLO"
+                },
+                {
+                    "testo": "2025",
+                    "etichetta_corretta": "DATA"
+                }
+            ],
+            "trovate_erroneamente": [
+                {
+                    "testo": "15",
+                    "etichetta_predetta": "DATA"
+                },
+                {
+                    "testo": "ottobre",
+                    "etichetta_predetta": "DATA"
+                },
+                {
+                    "testo": "2024",
+                    "etichetta_predetta": "DATA"
+                }
+            ],
+            "corrette": [
+                {
+                    "testo": "Roma",
+                    "etichetta": "LUOGO"
+                },
+                {
+                    "testo": "Marco Rossi",
+                    "etichetta": "PERSONA"
+                },
+                {
+                    "testo": "Milano",
+                    "etichetta": "LUOGO"
+                },
+                {
+                    "testo": "Torino",
+                    "etichetta": "LUOGO"
+                },
+                {
+                    "testo": "Napoli",
+                    "etichetta": "LUOGO"
+                },
+                {
+                    "testo": "Elena Bianchi",
+                    "etichetta": "PERSONA"
+                },
+                {
+                    "testo": "Luca Moretti",
+                    "etichetta": "PERSONA"
+                },
+                {
+                    "testo": "Barilla",
+                    "etichetta": "ORGANIZZAZIONE"
+                },
+                {
+                    "testo": "Pirelli",
+                    "etichetta": "ORGANIZZAZIONE"
+                },
+                {
+                    "testo": "Italia",
+                    "etichetta": "LUOGO"
+                },
+                {
+                    "testo": "Francia",
+                    "etichetta": "LUOGO"
+                },
+                {
+                    "testo": "Commissione Europea",
+                    "etichetta": "ORGANIZZAZIONE"
+                },
+                {
+                    "testo": "Bruxelles",
+                    "etichetta": "LUOGO"
+                }
+            ]
+        }
+    },
+    "outputTESTOMODERNO6.json": {
+        "metrics": {
+            "precision": 1.0,
+            "recall": 0.8333,
+            "f1_score": 0.9091,
+            "counts": {
+                "tp": 15,
+                "fp": 0,
+                "fn": 3,
+                "totale_gold": 18,
+                "totale_pred": 15
+            }
+        },
+        "diagnostica": {
+            "etichette_errate": [],
+            "non_trovate": [
+                {
+                    "testo": "2025",
+                    "etichetta_corretta": "DATA"
+                },
+                {
+                    "testo": "Italia",
+                    "etichetta_corretta": "LUOGO"
+                },
+                {
+                    "testo": "Francia",
+                    "etichetta_corretta": "LUOGO"
+                }
+            ],
+            "trovate_erroneamente": [],
+            "corrette": [
+                {
+                    "testo": "Roma",
+                    "etichetta": "LUOGO"
+                },
+                {
+                    "testo": "presidente",
+                    "etichetta": "RUOLO"
+                },
+                {
+                    "testo": "Marco Rossi",
+                    "etichetta": "PERSONA"
+                },
+                {
+                    "testo": "15 ottobre 2024",
+                    "etichetta": "DATA"
+                },
+                {
+                    "testo": "Milano",
+                    "etichetta": "LUOGO"
+                },
+                {
+                    "testo": "Torino",
+                    "etichetta": "LUOGO"
+                },
+                {
+                    "testo": "Napoli",
+                    "etichetta": "LUOGO"
+                },
+                {
+                    "testo": "Elena Bianchi",
+                    "etichetta": "PERSONA"
+                },
+                {
+                    "testo": "direttrice",
+                    "etichetta": "RUOLO"
+                },
+                {
+                    "testo": "Luca Moretti",
+                    "etichetta": "PERSONA"
+                },
+                {
+                    "testo": "ministro",
+                    "etichetta": "RUOLO"
+                },
+                {
+                    "testo": "Barilla",
+                    "etichetta": "ORGANIZZAZIONE"
+                },
+                {
+                    "testo": "Pirelli",
+                    "etichetta": "ORGANIZZAZIONE"
+                },
+                {
+                    "testo": "Commissione Europea",
+                    "etichetta": "ORGANIZZAZIONE"
+                },
+                {
+                    "testo": "Bruxelles",
+                    "etichetta": "LUOGO"
+                }
+            ]
+        }
+    }
+}

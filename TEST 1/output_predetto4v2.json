@@ -1,0 +1,130 @@
+{
+    "entita": [
+        {
+            "testo": "Dessy",
+            "etichetta": "PERSONA",
+            "indice_parola_inizio": 0,
+            "indice_parola_fine": 1
+        },
+        {
+            "testo": "Sardegna",
+            "etichetta": "LUOGO",
+            "indice_parola_inizio": 8,
+            "indice_parola_fine": 8
+        },
+        {
+            "testo": "neocapitalistico",
+            "etichetta": "RUOLO",
+            "indice_parola_inizio": 48,
+            "indice_parola_fine": 48
+        },
+        {
+            "testo": "urbano",
+            "etichetta": "RUOLO",
+            "indice_parola_inizio": 53,
+            "indice_parola_fine": 53
+        },
+        {
+            "testo": "intellettuali",
+            "etichetta": "RUOLO",
+            "indice_parola_inizio": 53,
+            "indice_parola_fine": 53
+        },
+        {
+            "testo": "policiticizzati",
+            "etichetta": "RUOLO",
+            "indice_parola_inizio": 53,
+            "indice_parola_fine": 53
+        },
+        {
+            "testo": "in mezzo",
+            "etichetta": "LUOGO",
+            "indice_parola_inizio": 70,
+            "indice_parola_fine": 70
+        },
+        {
+            "testo": "consiglio",
+            "etichetta": "LUOGO",
+            "indice_parola_inizio": 71,
+            "indice_parola_fine": 71
+        },
+        {
+            "testo": "uomini",
+            "etichetta": "RUOLO",
+            "indice_parola_inizio": 71,
+            "indice_parola_fine": 71
+        },
+        {
+            "testo": "paese",
+            "etichetta": "LUOGO",
+            "indice_parola_inizio": 71,
+            "indice_parola_fine": 71
+        },
+        {
+            "testo": "iniziazione sociale-sessuale",
+            "etichetta": "RUOLO",
+            "indice_parola_inizio": 59,
+            "indice_parola_fine": 59
+        },
+        {
+            "testo": "ragazzi",
+            "etichetta": "RUOLO",
+            "indice_parola_inizio": 59,
+            "indice_parola_fine": 59
+        },
+        {
+            "testo": "sfruttare",
+            "etichetta": "RUOLO",
+            "indice_parola_inizio": 62,
+            "indice_parola_fine": 62
+        },
+        {
+            "testo": "intelligenza",
+            "etichetta": "RUOLO",
+            "indice_parola_inizio": 64,
+            "indice_parola_fine": 64
+        },
+        {
+            "testo": "qualitativamente",
+            "etichetta": "RUOLO",
+            "indice_parola_inizio": 64,
+            "indice_parola_fine": 64
+        },
+        {
+            "testo": "dalla",
+            "etichetta": "RUOLO",
+            "indice_parola_inizio": 65,
+            "indice_parola_fine": 65
+        },
+        {
+            "testo": "maestra",
+            "etichetta": "RUOLO",
+            "indice_parola_inizio": 65,
+            "indice_parola_fine": 65
+        },
+        {
+            "testo": "altr",
+            "etichetta": "RUOLO",
+            "indice_parola_inizio": 66,
+            "indice_parola_fine": 66
+        },
+        {
+            "testo": "ministro",
+            "etichetta": "RUOLO",
+            "indice_parola_inizio": 66,
+            "indice_parola_fine": 66
+        },
+        {
+            "testo": "forestieri",
+            "etichetta": "RUOLO",
+            "indice_parola_inizio": 66,
+            "indice_parola_fine": 66
+        },
+        {
+            "testo": "dominatori",
+            "etichetta": "RUOLO",
+            "indice_parola_inizio": 67,
+            "indice_parola_fine": 67
+        }
+    ]
+}

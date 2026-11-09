@@ -1,0 +1,88 @@
+{
+    "entita": [
+        {
+            "testo": "Dessy",
+            "etichetta": "PERSONA",
+            "indice_parola_inizio": 0,
+            "indice_parola_fine": 0
+        },
+        {
+            "testo": "sardo",
+            "etichetta": "DEMONIMO",
+            "indice_parola_inizio": 3,
+            "indice_parola_fine": 3
+        },
+        {
+            "testo": "Sardegna",
+            "etichetta": "LUOGO",
+            "indice_parola_inizio": 7,
+            "indice_parola_fine": 7
+        },
+        {
+            "testo": "elce",
+            "etichetta": "RUOLO",
+            "indice_parola_inizio": 10,
+            "indice_parola_fine": 10
+        },
+        {
+            "testo": "Narratore",
+            "etichetta": "RUOLO",
+            "indice_parola_inizio": 17,
+            "indice_parola_fine": 17
+        },
+        {
+            "testo": "ministro",
+            "etichetta": "RUOLO",
+            "indice_parola_inizio": 98,
+            "indice_parola_fine": 98
+        },
+        {
+            "testo": "intellettuali",
+            "etichetta": "RUOLO",
+            "indice_parola_inizio": 40,
+            "indice_parola_fine": 40
+        },
+        {
+            "testo": "politicizzati",
+            "etichetta": "RUOLO",
+            "indice_parola_inizio": 42,
+            "indice_parola_fine": 42
+        },
+        {
+            "testo": "pastora",
+            "etichetta": "RUOLO",
+            "indice_parola_inizio": 58,
+            "indice_parola_fine": 58
+        },
+        {
+            "testo": "venditore",
+            "etichetta": "RUOLO",
+            "indice_parola_inizio": 61,
+            "indice_parola_fine": 61
+        },
+        {
+            "testo": "uomini",
+            "etichetta": "RUOLO",
+            "indice_parola_inizio": 73,
+            "indice_parola_fine": 73
+        },
+        {
+            "testo": "paese",
+            "etichetta": "LUOGO",
+            "indice_parola_inizio": 75,
+            "indice_parola_fine": 75
+        },
+        {
+            "testo": "maestra",
+            "etichetta": "RUOLO",
+            "indice_parola_inizio": 97,
+            "indice_parola_fine": 97
+        },
+        {
+            "testo": "forestieri",
+            "etichetta": "DEMONIMO",
+            "indice_parola_inizio": 95,
+            "indice_parola_fine": 95
+        }
+    ]
+}

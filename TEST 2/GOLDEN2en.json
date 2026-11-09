@@ -1,0 +1,16 @@
+{
+"entita": [
+{
+"testo": "primavera",
+"etichetta": "DATA",
+"indice_parola_inizio": 4,
+"indice_parola_fine": 4
+},
+{
+"testo": "vostr’altezza",
+"etichetta": "RUOLO",
+"indice_parola_inizio": 66,
+"indice_parola_fine": 66
+}
+]
+}

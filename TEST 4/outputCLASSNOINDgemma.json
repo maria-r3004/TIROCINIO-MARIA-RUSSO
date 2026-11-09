@@ -1,0 +1,52 @@
+{
+    "entita": [
+        {
+            "testo": "Re Cattolico",
+            "etichetta": "RUOLO",
+            "indice_parola_inizio": 7,
+            "indice_parola_fine": 7
+        },
+        {
+            "testo": "Signore",
+            "etichetta": "RUOLO",
+            "indice_parola_inizio": 9,
+            "indice_parola_fine": 5
+        },
+        {
+            "testo": "Heroe",
+            "etichetta": "RUOLO",
+            "indice_parola_inizio": 17,
+            "indice_parola_fine": 5
+        },
+        {
+            "testo": "Prosapia",
+            "etichetta": "RUOLO",
+            "indice_parola_inizio": 22,
+            "indice_parola_fine": 5
+        },
+        {
+            "testo": "Senatori",
+            "etichetta": "RUOLO",
+            "indice_parola_inizio": 31,
+            "indice_parola_fine": 5
+        },
+        {
+            "testo": "Magistrati",
+            "etichetta": "RUOLO",
+            "indice_parola_inizio": 44,
+            "indice_parola_fine": 5
+        },
+        {
+            "testo": "Argo",
+            "etichetta": "RUOLO",
+            "indice_parola_inizio": 67,
+            "indice_parola_fine": 5
+        },
+        {
+            "testo": "Briareo",
+            "etichetta": "RUOLO",
+            "indice_parola_inizio": 72,
+            "indice_parola_fine": 5
+        }
+    ]
+}

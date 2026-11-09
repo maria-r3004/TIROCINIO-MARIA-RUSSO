@@ -1,0 +1,58 @@
+{
+    "entita": [
+        {
+            "testo": "Dessy",
+            "etichetta": "PERSONA",
+            "indice_parola_inizio": 0,
+            "indice_parola_fine": 0
+        },
+        {
+            "testo": "Sardegna",
+            "etichetta": "LUOGO",
+            "indice_parola_inizio": 4,
+            "indice_parola_fine": 4
+        },
+        {
+            "testo": "Narratore",
+            "etichetta": "RUOLO",
+            "indice_parola_inizio": 14,
+            "indice_parola_fine": 14
+        },
+        {
+            "testo": "intellettuali",
+            "etichetta": "PERSONA",
+            "indice_parola_inizio": 22,
+            "indice_parola_fine": 22
+        },
+        {
+            "testo": "pastora",
+            "etichetta": "PERSONA",
+            "indice_parola_inizio": 28,
+            "indice_parola_fine": 28
+        },
+        {
+            "testo": "venditore ambulante",
+            "etichetta": "PERSONA",
+            "indice_parola_inizio": 30,
+            "indice_parola_fine": 32
+        },
+        {
+            "testo": "consiglio",
+            "etichetta": "ORGANIZZAZIONE",
+            "indice_parola_inizio": 37,
+            "indice_parola_fine": 37
+        },
+        {
+            "testo": "maestra",
+            "etichetta": "PERSONA",
+            "indice_parola_inizio": 54,
+            "indice_parola_fine": 54
+        },
+        {
+            "testo": "ministro",
+            "etichetta": "RUOLO",
+            "indice_parola_inizio": 55,
+            "indice_parola_fine": 55
+        }
+    ]
+}

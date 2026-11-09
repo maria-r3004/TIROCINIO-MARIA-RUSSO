@@ -1,0 +1,44 @@
+{
+    "entita": [
+        {
+            "testo": "Rino",
+            "etichetta": "PERSONA"
+        },
+        {
+            "testo": "Ilario",
+            "etichetta": "PERSONA"
+        },
+        {
+            "testo": "tredici anni",
+            "etichetta": "DATA"
+        },
+        {
+            "testo": "cinque",
+            "etichetta": "DATA"
+        },
+        {
+            "testo": "mattino",
+            "etichetta": "DATA"
+        },
+        {
+            "testo": "marzo",
+            "etichetta": "DATA"
+        },
+        {
+            "testo": "solicello",
+            "etichetta": "PERSONA"
+        },
+        {
+            "testo": "Terrepani",
+            "etichetta": "LUOGO"
+        },
+        {
+            "testo": "Dio",
+            "etichetta": "PERSONA"
+        },
+        {
+            "testo": "uomini",
+            "etichetta": "RUOLO"
+        }
+    ]
+}

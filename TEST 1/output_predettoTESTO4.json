@@ -1,0 +1,112 @@
+{
+    "entita": [
+        {
+            "testo": "Dessy",
+            "etichetta": "PERSONA",
+            "indice_parola_inizio": 38,
+            "indice_parola_fine": 38
+        },
+        {
+            "testo": "Sardegna",
+            "etichetta": "LUOGO",
+            "indice_parola_inizio": 43,
+            "indice_parola_fine": 43
+        },
+        {
+            "testo": "parodia",
+            "etichetta": "RUOLO",
+            "indice_parola_inizio": 25,
+            "indice_parola_fine": 25
+        },
+        {
+            "testo": "satira",
+            "etichetta": "RUOLO",
+            "indice_parola_inizio": 29,
+            "indice_parola_fine": 29
+        },
+        {
+            "testo": "nevrosi",
+            "etichetta": "RUOLO",
+            "indice_parola_inizio": 26,
+            "indice_parola_fine": 26
+        },
+        {
+            "testo": "conformismi",
+            "etichetta": "RUOLO",
+            "indice_parola_inizio": 27,
+            "indice_parola_fine": 27
+        },
+        {
+            "testo": "insincerità",
+            "etichetta": "RUOLO",
+            "indice_parola_inizio": 28,
+            "indice_parola_fine": 28
+        },
+        {
+            "testo": "insincerità",
+            "etichetta": "RUOLO",
+            "indice_parola_inizio": 28,
+            "indice_parola_fine": 28
+        },
+        {
+            "testo": "persone",
+            "etichetta": "PERSONA",
+            "indice_parola_inizio": 11,
+            "indice_parola_fine": 11
+        },
+        {
+            "testo": "stazioni",
+            "etichetta": "RUOLO",
+            "indice_parola_inizio": 14,
+            "indice_parola_fine": 14
+        },
+        {
+            "testo": "democristiano",
+            "etichetta": "RUOLO",
+            "indice_parola_inizio": 13,
+            "indice_parola_fine": 13
+        },
+        {
+            "testo": "neocapitalistico",
+            "etichetta": "RUOLO",
+            "indice_parola_inizio": 14,
+            "indice_parola_fine": 14
+        },
+        {
+            "testo": "urbano",
+            "etichetta": "RUOLO",
+            "indice_parola_inizio": 16,
+            "indice_parola_fine": 16
+        },
+        {
+            "testo": "modernità",
+            "etichetta": "RUOLO",
+            "indice_parola_inizio": 16,
+            "indice_parola_fine": 16
+        },
+        {
+            "testo": "distruttiva",
+            "etichetta": "RUOLO",
+            "indice_parola_inizio": 17,
+            "indice_parola_fine": 17
+        },
+        {
+            "testo": "parola_inizio",
+            "etichetta": "RUOLO",
+            "indice_parola_inizio": 16,
+            "indice_parola_fine": 16
+        },
+        {
+            "testo": "sordo",
+            "etichetta": "PERSONA",
+            "indice_parola_inizio": 38,
+            "indice_parola_fine": 38
+        },
+        {
+            "testo": "sardegna",
+            "etichetta": "LUOGO",
+            "indice_parola_inizio": 43,
+            "indice_parola_fine": 43
+        }
+    ]
+}

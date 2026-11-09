@@ -1,0 +1,52 @@
+{
+    "entita": [
+        {
+            "testo": "In questi racconti",
+            "etichetta": "DATA",
+            "indice_parola_inizio": 0,
+            "indice_parola_fine": 24
+        },
+        {
+            "testo": "l’uso della parodia e della satira serve a restituire persone e situazioni deformate",
+            "etichetta": "RUOLO",
+            "indice_parola_inizio": 25,
+            "indice_parola_fine": 66
+        },
+        {
+            "testo": "Sardegna",
+            "etichetta": "LUOGO",
+            "indice_parola_inizio": 70,
+            "indice_parola_fine": 75
+        },
+        {
+            "testo": "Narratore attento",
+            "etichetta": "PERSONA",
+            "indice_parola_inizio": 77,
+            "indice_parola_fine": 89
+        },
+        {
+            "testo": "Dessy, pastora",
+            "etichetta": "PERSONA",
+            "indice_parola_inizio": 92,
+            "indice_parola_fine": 99
+        },
+        {
+            "testo": "sfruttare l’intelligenza qualitativamente diversa",
+            "etichetta": "ACTION",
+            "indice_parola_inizio": 102,
+            "indice_parola_fine": 114
+        },
+        {
+            "testo": "conosce e fa parlare continuamente anche l'altra",
+            "etichetta": "ACTION",
+            "indice_parola_inizio": 116,
+            "indice_parola_fine": 131
+        },
+        {
+            "testo": "Sardegna",
+            "etichetta": "DATA",
+            "indice_parola_inizio": 132,
+            "indice_parola_fine": 133
+        }
+    ]
+}

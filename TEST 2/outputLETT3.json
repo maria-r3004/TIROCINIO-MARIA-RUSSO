@@ -1,0 +1,94 @@
+{
+    "entita": [
+        {
+            "testo": "Rino",
+            "etichetta": "PERSONA",
+            "indice_parola_inizio": 0,
+            "indice_parola_fine": 0
+        },
+        {
+            "testo": "Ilario",
+            "etichetta": "PERSONA",
+            "indice_parola_inizio": 2,
+            "indice_parola_fine": 2
+        },
+        {
+            "testo": "quinta",
+            "etichetta": "DATA",
+            "indice_parola_inizio": 4,
+            "indice_parola_fine": 4
+        },
+        {
+            "testo": "elementare",
+            "etichetta:": "RUOROLO",
+            "indice_parola_inizio": 6,
+            "indice_parola_fine": 6
+        },
+        {
+            "testo": "nessuna",
+            "etichetta:": "RUOROLO",
+            "indice_parola_inizio": 8,
+            "indice_parola_fine": 8
+        },
+        {
+            "testo": "uscirono",
+            "etichetta:": "RUOROLO",
+            "indice_parola_inizio": 14,
+            "indice_parola_fine": 14
+        },
+        {
+            "testo": "di",
+            "etichetta:": "RUOROLO",
+            "indice_parola_inizio": 15,
+            "indice_parola_fine": 15
+        },
+        {
+            "testo": "solicello",
+            "etichetta:": "DATA",
+            "indice_parola_inizio": 36,
+            "indice_parola_fine": 36
+        },
+        {
+            "testo": "Era",
+            "etichetta:": "RUOROLO",
+            "indice_parola_inizio": 27,
+            "indice_parola_fine": 27
+        },
+        {
+            "testo": "di",
+            "etichetta:": "DATA",
+            "indice_parola_inizio": 30,
+            "indice_parola_fine": 30
+        },
+        {
+            "testo": "Terrepani",
+            "etichetta:": "RUOROLO",
+            "indice_parola_inizio": 44,
+            "indice_parola_fine": 44
+        },
+        {
+            "testo": "fetta",
+            "etichetta:": "DATA",
+            "indice_parola_inizio": 47,
+            "indice_parola_fine": 47
+        },
+        {
+            "testo": "dimenticata",
+            "etichetta:": "DATA",
+            "indice_parola_inizio": 54,
+            "indice_parola_fine": 54
+        },
+        {
+            "testo": "dagli",
+            "etichetta:": "RUOROLO",
+            "indice_parola_inizio": 58,
+            "indice_parola_fine": 58
+        },
+        {
+            "testo": "uomini",
+            "etichetta:": "RUOROLO",
+            "indice_parola_inizio": 59,
+            "indice_parola_fine": 59
+        }
+    ]
+}

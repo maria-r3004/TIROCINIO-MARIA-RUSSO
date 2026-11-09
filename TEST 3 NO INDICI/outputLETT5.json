@@ -1,0 +1,28 @@
+{
+    "entita": [
+        {
+            "testo": "Rino",
+            "etichetta": "PERSONA"
+        },
+        {
+            "testo": "Ilario",
+            "etichetta": "PERSONA"
+        },
+        {
+            "testo": "marzo",
+            "etichetta": "DATA"
+        },
+        {
+            "testo": "Terrepani",
+            "etichetta": "LUOGO"
+        },
+        {
+            "testo": "scuola",
+            "etichetta": "RUOLO"
+        },
+        {
+            "testo": "primo solicello",
+            "etichetta": "RUOLO"
+        }
+    ]
+}

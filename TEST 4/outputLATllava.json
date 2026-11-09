@@ -1,0 +1,64 @@
+{
+    "entita": [
+        {
+            "testo": "Romanum imperium",
+            "etichetta": "RUOLO",
+            "indice_parola_inizio": 0,
+            "indice_parola_fine": 0
+        },
+        {
+            "testo": "neque ab exordio quoque",
+            "etichetta": "DATA",
+            "indice_parola_inizio": 3,
+            "indice_parola_fine": 3
+        },
+        {
+            "testo": "fere minus neque",
+            "etichetta": "DATA",
+            "indice_parola_inizio": 5,
+            "indice_parola_fine": 5
+        },
+        {
+            "testo": "toto orbe amplius humana",
+            "etichetta": "DATA",
+            "indice_parola_inizio": 7,
+            "indice_parola_fine": 7
+        },
+        {
+            "testo": "memoria recordari a Romulo",
+            "etichetta": "PERSONA",
+            "indice_parola_inizio": 19,
+            "indice_parola_fine": 19
+        },
+        {
+            "testo": "qui Reae Silviae Vestalis virginis filius et quantus putatus est",
+            "etichetta": "PERSONA",
+            "indice_parola_inizio": 22,
+            "indice_parola_fine": 22
+        },
+        {
+            "testo": "Martis cum Remo fratre uno partu editus est.",
+            "etichetta": "PERSONA",
+            "indice_parola_inizio": 34,
+            "indice_parola_fine": 34
+        },
+        {
+            "testo": "Is cum inter pastores latrocinaretur",
+            "etichetta": "RUOLO",
+            "indice_parola_inizio": 40,
+            "indice_parola_fine": 40
+        },
+        {
+            "testo": "decem et octo annos natus urbem exiguam in Palatino monte constituit",
+            "etichetta": "DATA",
+            "indice_parola_inizio": 45,
+            "indice_parola_fine": 45
+        },
+        {
+            "testo": "XI Kal.",
+            "etichetta": "DATA",
+            "indice_parola_inizio": 56,
+            "indice_parola_fine": 56
+        }
+    ]
+}

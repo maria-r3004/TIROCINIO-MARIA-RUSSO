@@ -1,0 +1,64 @@
+{
+    "entita": [
+        {
+            "testo": "Marco Rossi",
+            "etichetta": "PERSONA"
+        },
+        {
+            "testo": "Roma",
+            "etichetta": "LUOGO"
+        },
+        {
+            "testo": "15 ottobre 2024",
+            "etichetta": "DATA"
+        },
+        {
+            "testo": "2024",
+            "etichetta": "DATA"
+        },
+        {
+            "testo": "2025",
+            "etichetta": "DATA"
+        },
+        {
+            "testo": "Elena Bianchi",
+            "etichetta": "PERSONA"
+        },
+        {
+            "testo": "Luca Moretti",
+            "etichetta": "PERSONA"
+        },
+        {
+            "testo": "Barilla",
+            "etichetta": "RUOLO"
+        },
+        {
+            "testo": "Pirelli",
+            "etichetta": "RUOLO"
+        },
+        {
+            "testo": "Italia",
+            "etichetta": "LUOGO"
+        },
+        {
+            "testo": "Francia",
+            "etichetta": "LUOGO"
+        },
+        {
+            "testo": "Bruxelles",
+            "etichetta": "LUOGO"
+        },
+        {
+            "testo": "presidente",
+            "etichetta": "RUOLO"
+        },
+        {
+            "testo": "direttrice",
+            "etichetta": "RUOLO"
+        },
+        {
+            "testo": "ministro",
+            "etichetta": "RUOLO"
+        }
+    ]
+}

@@ -1,0 +1,274 @@
+{
+    "entita": [
+        {
+            "testo": "Rino",
+            "etichetta": "PERSONA",
+            "indice_parola_inizio": 2,
+            "indice_parola_fine": 2
+        },
+        {
+            "testo": "Ilario",
+            "etichetta": "PERSONA",
+            "indice_parola_inizio": 3,
+            "indice_parola_fine": 3
+        },
+        {
+            "testo": "Myriam",
+            "etichetta": "PERSONA",
+            "indice_parola_inizio": 9,
+            "indice_parola_fine": 9
+        },
+        {
+            "testo": "maestrina",
+            "etichetta": "RUOLO",
+            "indice_parola_inizio": 10,
+            "indice_parola_fine": 10
+        },
+        {
+            "testo": "magnifici sei",
+            "etichetta": "RUOLO",
+            "indice_parola_inizio": 31,
+            "indice_parola_fine": 34
+        },
+        {
+            "testo": "malandati",
+            "etichetta": "RUOLO",
+            "indice_parola_inizio": 47,
+            "indice_parola_fine": 47
+        },
+        {
+            "testo": "luna",
+            "etichetta": "DATA",
+            "indice_parola_inizio": 59,
+            "indice_parola_fine": 59
+        },
+        {
+            "testo": "mese",
+            "etichetta": "DATA",
+            "indice_parola_inizio": 13,
+            "indice_parola_fine": 13
+        },
+        {
+            "testo": "16",
+            "etichetta": "DATA",
+            "indice_parola_inizio": 17,
+            "indice_parola_fine": 17
+        },
+        {
+            "testo": "19",
+            "etichetta": "DATA",
+            "indice_parola_inizio": 19,
+            "indice_parola_fine": 19
+        },
+        {
+            "testo": "pagina",
+            "etichetta": "LUOGO",
+            "indice_parola_inizio": 1,
+            "indice_parola_fine": 1
+        },
+        {
+            "testo": "registro",
+            "etichetta": "LUOGO",
+            "indice_parola_inizio": 3,
+            "indice_parola_fine": 3
+        },
+        {
+            "testo": "prato",
+            "etichetta": "LUOGO",
+            "indice_parola_inizio": 10,
+            "indice_parola_fine": 10
+        },
+        {
+            "testo": "direttore didattico",
+            "etichetta": "RUOLO",
+            "indice_parola_inizio": 14,
+            "indice_parola_fine": 14
+        },
+        {
+            "testo": "maestrina",
+            "etichetta": "RUOLO",
+            "indice_parola_inizio": 25,
+            "indice_parola_fine": 25
+        },
+        {
+            "testo": "fanciullo",
+            "etichetta": "PERSONA",
+            "indice_parola_inizio": 39,
+            "indice_parola_fine": 39
+        },
+        {
+            "testo": "società civile",
+            "etichetta": "RUOLO",
+            "indice_parola_inizio": 45,
+            "indice_parola_fine": 5
+        },
+        {
+            "testo": "cittadini democratici",
+            "etichetta": "RUOLO",
+            "indice_parola_inizio": 14,
+            "indice_parola_fine": 14
+        },
+        {
+            "testo": "maestra",
+            "etichetta": "RUOLO",
+            "indice_parola_inizio": 23,
+            "indice_parola_fine": 23
+        },
+        {
+            "testo": "colleghe",
+            "etichetta": "RUOLO",
+            "indice_parola_inizio": 37,
+            "indice_parola_fine": 37
+        },
+        {
+            "testo": "andito",
+            "etichetta": "LUOGO",
+            "indice_parola_inizio": 43,
+            "indice_parola_fine": 43
+        },
+        {
+            "testo": "Myriam",
+            "etichetta": "PERSONA",
+            "indice_parola_inizio": 6,
+            "indice_parola_fine": 6
+        },
+        {
+            "testo": "bambini",
+            "etichetta": "RUOLO",
+            "indice_parola_inizio": 16,
+            "indice_parola_fine": 16
+        },
+        {
+            "testo": "Giorgetto",
+            "etichetta": "PERSONA",
+            "indice_parola_inizio": 21,
+            "indice_parola_fine": 21
+        },
+        {
+            "testo": "data",
+            "etichetta": "DATA",
+            "indice_parola_inizio": 29,
+            "indice_parola_fine": 29
+        },
+        {
+            "testo": "oggi",
+            "etichetta": "DATA",
+            "indice_parola_inizio": 2,
+            "indice_parola_fine": 2
+        },
+        {
+            "testo": "magnifici sei",
+            "etichetta": "RUOLO",
+            "indice_parola_inizio": 12,
+            "indice_parola_fine": 16
+        },
+        {
+            "testo": "maestrina",
+            "etichetta": "RUOLO",
+            "indice_parola_inizio": 26,
+            "indice_parola_fine": 26
+        },
+        {
+            "testo": "prammatica",
+            "etichetta": "RUOLO",
+            "indice_parola_inizio": 35,
+            "indice_parola_fine": 35
+        },
+        {
+            "testo": "Signorina",
+            "etichetta": "RUOLO",
+            "indice_parola_inizio": 6,
+            "indice_parola_fine": 6
+        },
+        {
+            "testo": "Myriam",
+            "etichetta": "PERSONA",
+            "indice_parola_inizio": 13,
+            "indice_parola_fine": 13
+        },
+        {
+            "testo": "tecniche imprenditoriali",
+            "etichetta": "RUOLO",
+            "indice_parola_inizio": 33,
+            "indice_parola_fine": 37
+        },
+        {
+            "testo": "tecniche imprenditoriali",
+            "etichetta": "RUOLO",
+            "indice_parola_inizio": 67,
+            "indice_parola_fine": 69
+        },
+        {
+            "testo": "Rockfeller",
+            "etichetta": "PERSONA",
+            "indice_parola_inizio": 2,
+            "indice_parola_fine": 2
+        },
+        {
+            "testo": "signorina",
+            "etichetta": "RUOLO",
+            "indice_parola_inizio": 3,
+            "indice_parola_fine": 3
+        },
+        {
+            "testo": "centesimi",
+            "etichetta": "DATA",
+            "indice_parola_inizio": 10,
+            "indice_parola_fine": 10
+        },
+        {
+            "testo": "maestrina",
+            "etichetta": "RUOLO",
+            "indice_parola_inizio": 17,
+            "indice_parola_fine": 17
+        },
+        {
+            "testo": "Rockfeller",
+            "etichetta": "PERSONA",
+            "indice_parola_inizio": 22,
+            "indice_parola_fine": 22
+        },
+        {
+            "testo": "san Francesco d'Assisi",
+            "etichetta": "PERSONA",
+            "indice_parola_inizio": 38,
+            "indice_parola_fine": 38
+        },
+        {
+            "testo": "Gutemberg",
+            "etichetta": "PERSONA",
+            "indice_parola_inizio": 47,
+            "indice_parola_fine": 47
+        },
+        {
+            "testo": "ministeriale",
+            "etichetta": "RUOLO",
+            "indice_parola_inizio": 0,
+            "indice_parola_fine": 0
+        },
+        {
+            "testo": "INAper",
+            "etichetta": "RUOLO",
+            "indice_parola_inizio": 2,
+            "indice_parola_fine": 2
+        },
+        {
+            "testo": "cattedra",
+            "etichetta": "RUOLO",
+            "indice_parola_inizio": 7,
+            "indice_parola_fine": 7
+        },
+        {
+            "testo": "Giorgetto",
+            "etichetta": "PERSONA",
+            "indice_parola_inizio": 18,
+            "indice_parola_fine": 18
+        },
+        {
+            "testo": "Storia",
+            "etichetta": "RUOLO",
+            "indice_parola_inizio": 21,
+            "indice_parola_fine": 21
+        }
+    ]
+}

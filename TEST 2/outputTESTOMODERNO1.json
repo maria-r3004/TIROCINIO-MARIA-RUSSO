@@ -1,0 +1,112 @@
+{
+    "entita": [
+        {
+            "testo": "Roma",
+            "etichetta": "LUOGO",
+            "indice_parola_inizio": 2,
+            "indice_parola_fine": 2
+        },
+        {
+            "testo": "Marco Rossi",
+            "etichetta": "PERSONA",
+            "indice_parola_inizio": 9,
+            "indice_parola_fine": 10
+        },
+        {
+            "testo": "presidente",
+            "etichetta": "RUOLO",
+            "indice_parola_inizio": 8,
+            "indice_parola_fine": 8
+        },
+        {
+            "testo": "15 ottobre 2024",
+            "etichetta": "DATA",
+            "indice_parola_inizio": 19,
+            "indice_parola_fine": 21
+        },
+        {
+            "testo": "Milano",
+            "etichetta": "LUOGO",
+            "indice_parola_inizio": 29,
+            "indice_parola_fine": 29
+        },
+        {
+            "testo": "Torino",
+            "etichetta": "LUOGO",
+            "indice_parola_inizio": 30,
+            "indice_parola_fine": 30
+        },
+        {
+            "testo": "Napoli",
+            "etichetta": "LUOGO",
+            "indice_parola_inizio": 32,
+            "indice_parola_fine": 32
+        },
+        {
+            "testo": "direttrice",
+            "etichetta": "RUOLO",
+            "indice_parola_inizio": 35,
+            "indice_parola_fine": 35
+        },
+        {
+            "testo": "Elena Bianchi",
+            "etichetta": "PERSONA",
+            "indice_parola_inizio": 36,
+            "indice_parola_fine": 37
+        },
+        {
+            "testo": "ministro",
+            "etichetta": "RUOLO",
+            "indice_parola_inizio": 40,
+            "indice_parola_fine": 40
+        },
+        {
+            "testo": "Luca Moretti",
+            "etichetta": "PERSONA",
+            "indice_parola_inizio": 41,
+            "indice_parola_fine": 42
+        },
+        {
+            "testo": "Barilla",
+            "etichetta": "ORGANIZZAZIONE",
+            "indice_parola_inizio": 49,
+            "indice_parola_fine": 49
+        },
+        {
+            "testo": "Pirelli",
+            "etichetta": "ORGANIZZAZIONE",
+            "indice_parola_inizio": 51,
+            "indice_parola_fine": 51
+        },
+        {
+            "testo": "2025",
+            "etichetta": "DATA",
+            "indice_parola_inizio": 57,
+            "indice_parola_fine": 57
+        },
+        {
+            "testo": "Italia",
+            "etichetta": "LUOGO",
+            "indice_parola_inizio": 63,
+            "indice_parola_fine": 63
+        },
+        {
+            "testo": "Francia",
+            "etichetta": "LUOGO",
+            "indice_parola_inizio": 65,
+            "indice_parola_fine": 65
+        },
+        {
+            "testo": "Commissione Europea",
+            "etichetta": "ORGANIZZAZIONE",
+            "indice_parola_inizio": 69,
+            "indice_parola_fine": 70
+        },
+        {
+            "testo": "Bruxelles",
+            "etichetta": "LUOGO",
+            "indice_parola_inizio": 72,
+            "indice_parola_fine": 72
+        }
+    ]
+}

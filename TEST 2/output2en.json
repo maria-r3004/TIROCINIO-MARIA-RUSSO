@@ -1,0 +1,76 @@
+{
+    "entita": [
+        {
+            "testo": "Dessy",
+            "etichetta": "PERSONA",
+            "indice_parola_inizio": 0,
+            "indice_parola_fine": 0
+        },
+        {
+            "testo": "Sardegna",
+            "etichetta": "LUOGO",
+            "indice_parola_inizio": 7,
+            "indice_parola_fine": 7
+        },
+        {
+            "testo": "Narratore",
+            "etichetta": "RUOLO",
+            "indice_parola_inizio": 17,
+            "indice_parola_fine": 17
+        },
+        {
+            "testo": "democristiano",
+            "etichetta": "RUOLO",
+            "indice_parola_inizio": 27,
+            "indice_parola_fine": 27
+        },
+        {
+            "testo": "neocapitalistico",
+            "etichetta": "RUOLO",
+            "indice_parola_inizio": 28,
+            "indice_parola_fine": 28
+        },
+        {
+            "testo": "Sardegna",
+            "etichetta": "LUOGO",
+            "indice_parola_inizio": 53,
+            "indice_parola_fine": 53
+        },
+        {
+            "testo": "pastora",
+            "etichetta": "RUOLO",
+            "indice_parola_inizio": 57,
+            "indice_parola_fine": 57
+        },
+        {
+            "testo": "ambulante",
+            "etichetta": "RUOLO",
+            "indice_parola_inizio": 61,
+            "indice_parola_fine": 61
+        },
+        {
+            "testo": "consiglio di uomini del paese",
+            "etichetta": "ORGANIZZAZIONE",
+            "indice_parola_inizio": 67,
+            "indice_parola_fine": 73
+        },
+        {
+            "testo": "ragazzi",
+            "etichetta": "PERSONA",
+            "indice_parola_inizio": 82,
+            "indice_parola_fine": 82
+        },
+        {
+            "testo": "maestra",
+            "etichetta": "RUOLO",
+            "indice_parola_inizio": 97,
+            "indice_parola_fine": 97
+        },
+        {
+            "testo": "ministro",
+            "etichetta": "RUOLO",
+            "indice_parola_inizio": 99,
+            "indice_parola_fine": 99
+        }
+    ]
+}

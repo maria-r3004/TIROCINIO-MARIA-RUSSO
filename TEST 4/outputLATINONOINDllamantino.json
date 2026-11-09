@@ -1,0 +1,38 @@
+{
+    "entita": [
+        {
+            "testo": "Romulus",
+            "etichetta": "PERSONA",
+            "indice_parola_inizio": 25,
+            "indice_parola_fine": 6
+        },
+        {
+            "testo": "Remo",
+            "etichetta": "PERSONA",
+            "indice_parola_inizio": 34,
+            "indice_parola_fine": 4
+        },
+        {
+            "testo": "Romae",
+            "not_ejected": "true",
+            "not_ejected_reason": "LUOGO (ambiguous, not a specific geographic toponym)"
+        },
+        {
+            "testo": "Rea Silvia",
+            "etichetta": "PERSONA",
+            "indice_parola_inizio": 20,
+            "indice_parola_fine": 7
+        },
+        {
+            "testo": "Vestalis",
+            "not_ejected": "true",
+            "not_ejected_reason": "RUOLO (vocational role, not a specific title or office)"
+        },
+        {
+            "testo": "XI Kal",
+            "etichetta": "DATA",
+            "indice_parola_inizio": 54,
+            "indice_parola_fine": 4
+        }
+    ]
+}

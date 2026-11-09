@@ -1,0 +1,88 @@
+{
+    "entita": [
+        {
+            "testo": "Romulum",
+            "etichetta": "PERSONA",
+            "indice_parola_inizio": 0,
+            "indice_parola_fine": 0
+        },
+        {
+            "testo": "Romulus",
+            "etichetta": "PERSONA",
+            "indice_parola_inizio": 0,
+            "indice_parola_fine": 0
+        },
+        {
+            "testo": "Silviae",
+            "etichetta": "PERSONA",
+            "indice_parola_inizio": 10,
+            "indice_parola_fine": 10
+        },
+        {
+            "testo": "Vestalis",
+            "etichetta": "RUOLO",
+            "indice_parola_inizio": 14,
+            "indice_parola_fine": 14
+        },
+        {
+            "testo": "virginis",
+            "etichetta": "RUOLO",
+            "indice_parola_inizio": 14,
+            "indice_parola_fine": 14
+        },
+        {
+            "testo": "Martis",
+            "etichetta": "PERSONA",
+            "indice_parola_inizio": 19,
+            "indice_parola_fine": 19
+        },
+        {
+            "testo": "Remo",
+            "etichetta": "PERSONA",
+            "indice_parola_inizio": 24,
+            "indice_parola_fine": 24
+        },
+        {
+            "testo": "pastores",
+            "etichetta": "RUOLO",
+            "indice_parola_inizio": 30,
+            "indice_parola_fine": 30
+        },
+        {
+            "testo": "Romano",
+            "etichetta": "RUOLO",
+            "indice_parola_inizio": 36,
+            "indice_parola_fine": 36
+        },
+        {
+            "testo": "imperio",
+            "etichetta": "RUOLO",
+            "indice_parola_inizio": 38,
+            "indice_parola_fine": 38
+        },
+        {
+            "testo": "Palatino",
+            "etichetta": "LUOGO",
+            "indice_parola_inizio": 46,
+            "indice_parola_fine": 46
+        },
+        {
+            "testo": "monte",
+            "etichetta": "LUOGO",
+            "indice_parola_inizio": 50,
+            "indice_parola_fine": 50
+        },
+        {
+            "testo": "Kal",
+            "etichetta": "DATA",
+            "indice_parola_inizio": 55,
+            "indice_parola_fine": 55
+        },
+        {
+            "testo": "XI",
+            "etichetta": "DATA",
+            "indice_parola_inizio": 54,
+            "indice_parola_fine": 54
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "entita": [
+        {
+            "testo": "Romanum",
+            "etichetta": "LUOGO",
+            "indice_parola_inizio": 0,
+            "indice_parola_fine": 0
+        },
+        {
+            "testo": "Palatino",
+            "etichetta": "LUOGO",
+            "indice_parola_inizio": 53,
+            "indice_parola_fine": 53
+        },
+        {
+            "testo": "Romulo",
+            "etichetta": "PERSONA",
+            "indice_parola_inizio": 19,
+            "indice_parola_fine": 19
+        },
+        {
+            "testo": "Reae",
+            "etichetta": "PERSONA",
+            "indice_parola_inizio": 23,
+            "indice_parola_fine": 23
+        },
+        {
+            "testo": "Silviae",
+            "etichetta": "PERSONA",
+            "indice_parola_inizio": 24,
+            "indice_parola_fine": 24
+        },
+        {
+            "testo": "Vestalis",
+            "etichetta": "RUOLO",
+            "indice_parola_inizio": 25,
+            "indice_parola_fine": 25
+        },
+        {
+            "testo": "pastores",
+            "etichetta": "RUOLO",
+            "indice_parola_inizio": 43,
+            "indice_parola_fine": 43
+        },
+        {
+            "testo": "XI",
+            "etichetta": "DATA",
+            "indice_parola_inizio": 56,
+            "indice_parola_fine": 56
+        }
+    ]
+}

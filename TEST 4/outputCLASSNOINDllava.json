@@ -1,0 +1,88 @@
+{
+    "entita": [
+        {
+            "testo": "Re Cattolico",
+            "etichetta": "RUORO",
+            "indice_parola_inizio": 0,
+            "indice_parola_fine": 0
+        },
+        {
+            "testo": "Sole",
+            "etichetta": "PERSONA",
+            "indice_parola_inizio": 0,
+            "indice_parola_fine": 0
+        },
+        {
+            "testo": "Heroe",
+            "etichetta": "RUORO",
+            "indice_parola_inizio": 0,
+            "indice_parola_fine": 0
+        },
+        {
+            "testo": "Senatori",
+            "etichetta": "RUORO",
+            "indice_parola_inizio": 0,
+            "indice_parola_fine": 0
+        },
+        {
+            "testo": "Spettabili Magistrati",
+            "etichetta": "RUORO",
+            "indice_parola_inizio": 0,
+            "indice_parola_fine": 0
+        },
+        {
+            "testo": "Cielo",
+            "etichetta": "LUOGO",
+            "indice_parola_inizio": 0,
+            "indice_parola_fine": 0
+        },
+        {
+            "testo": "inferno",
+            "etichetta": "LUOGO",
+            "indice_parola_inizio": 0,
+            "indice_parola_fine": 0
+        },
+        {
+            "testo": "moltiplicando",
+            "etichetta": "RUORO",
+            "indice_parola_inizio": 0,
+            "indice_parola_fine": 0
+        },
+        {
+            "testo": "arte",
+            "etichetta": "RUORO",
+            "indice_parola_inizio": 0,
+            "indice_parola_fine": 0
+        },
+        {
+            "testo": "fattura",
+            "etichetta": "RUORO",
+            "indice_parola_inizio": 0,
+            "indice_parola_fine": 0
+        },
+        {
+            "testo": "diabolica",
+            "etichetta": "RUORO",
+            "indice_parola_inizio": 0,
+            "indice_parola_fine": 0
+        },
+        {
+            "testo": "temerarij",
+            "etichetta": "RUORO",
+            "indice_parola_inizio": 0,
+            "indice_parola_fine": 0
+        },
+        {
+            "testo": "si vanno trafficando",
+            "etichetta": "RUORO",
+            "indice_parola_inizio": 0,
+            "indice_parola_fine": 0
+        },
+        {
+            "testo": "per li pubblici emolumenti",
+            "etichetta": "RUORO",
+            "indice_parola_inizio": 0,
+            "indice_parola_fine": 0
+        }
+    ]
+}

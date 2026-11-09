@@ -1,0 +1,100 @@
+{
+    "entita": [
+        {
+            "testo": "Re",
+            "etichetta": "RUOLO",
+            "indice_parola_inizio": 11,
+            "indice_parola_fine": 11
+        },
+        {
+            "testo": "Cattolico",
+            "etichetta": "RUOLO",
+            "indice_parola_inizio": 12,
+            "indice_parola_fine": 12
+        },
+        {
+            "testo": "Signore",
+            "etichetta": "RUOLO",
+            "indice_parola_inizio": 13,
+            "indice_parola_fine": 13
+        },
+        {
+            "testo": "Sole",
+            "etichetta": "RUOLO",
+            "indice_parola_inizio": 18,
+            "indice_parola_fine": 18
+        },
+        {
+            "testo": "Heroe",
+            "etichetta": "RUOLO",
+            "indice_parola_inizio": 35,
+            "indice_parola_fine": 35
+        },
+        {
+            "testo": "Prosapia",
+            "etichetta": "RUOLO",
+            "indice_parola_inizio": 38,
+            "indice_parola_fine": 38
+        },
+        {
+            "testo": "Senatori",
+            "etichetta": "RUOLO",
+            "indice_parola_inizio": 48,
+            "indice_parola_fine": 48
+        },
+        {
+            "testo": "Magistrati",
+            "etichetta": "RUOLO",
+            "indice_parola_inizio": 56,
+            "indice_parola_fine": 56
+        },
+        {
+            "testo": "Amplissimi",
+            "etichetta": "RUOLO",
+            "indice_parola_inizio": 48,
+            "indice_parola_fine": 48
+        },
+        {
+            "testo": "Spettabili",
+            "etichetta": "RUOLO",
+            "indice_parola_inizio": 55,
+            "indice_parola_fine": 55
+        },
+        {
+            "testo": "doue",
+            "etichetta": "LUOGO",
+            "indice_parola_inizio": 64,
+            "indice_parola_fine": 64
+        },
+        {
+            "testo": "Cielo",
+            "etichetta": "LUOGO",
+            "indice_parola_inizio": 71,
+            "indice_parola_fine": 71
+        },
+        {
+            "testo": "inferno",
+            "etichetta": "LUOGO",
+            "indice_parola_inizio": 82,
+            "indice_parola_fine": 82
+        },
+        {
+            "testo": "Argo",
+            "etichetta": "LUOGO",
+            "indice_parola_inizio": 118,
+            "indice_parola_fine": 118
+        },
+        {
+            "testo": "Briareo",
+            "etichetta": "PERSONA",
+            "indice_parola_inizio": 122,
+            "indice_parola_fine": 122
+        },
+        {
+            "testo": "pubblici",
+            "etichetta": "LUOGO",
+            "indice_parola_inizio": 128,
+            "indice_parola_fine": 128
+        }
+    ]
+}

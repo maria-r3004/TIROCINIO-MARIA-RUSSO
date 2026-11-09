@@ -1,0 +1,52 @@
+{
+    "entita": [
+        {
+            "testo": "Marco Rossi",
+            "etichetta": "PERSONA"
+        },
+        {
+            "testo": "Roma",
+            "etichetta": "LUOGO"
+        },
+        {
+            "testo": "vertice pubblico",
+            "etichetta": "RUOLO"
+        },
+        {
+            "testo": "15 ottobre 2024",
+            "etichetta": "DATA"
+        },
+        {
+            "testo": "Milano, Torino e Napoli",
+            "etichetta": "LUOGO"
+        },
+        {
+            "testo": "Elena Bianchi",
+            "etichetta": "PERSONA"
+        },
+        {
+            "testo": "Luca Moretti",
+            "etichetta": "PERSONA"
+        },
+        {
+            "testo": "Barilla e Pirelli",
+            "etichetta": "DATA"
+        },
+        {
+            "testo": "2025",
+            "etichetta": "DATA"
+        },
+        {
+            "testo": "Italia e Francia",
+            "etichetta": "LUOGO"
+        },
+        {
+            "testo": "Commissione Europea",
+            "etichetta": "ENTE"
+        },
+        {
+            "testo": "Bruxelles",
+            "etichetta": "LUOGO"
+        }
+    ]
+}

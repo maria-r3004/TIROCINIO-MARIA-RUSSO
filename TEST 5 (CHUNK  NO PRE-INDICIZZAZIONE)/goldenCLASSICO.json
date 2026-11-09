@@ -1,0 +1,262 @@
+{"entita": [
+{
+"testo": "giorno dopo",
+"etichetta": "DATA",
+
+"indice_parola_inizio": 1,
+"indice_parola_fine": 2
+},
+{
+"testo": "Rino",
+"etichetta": "PERSONA",
+"indice_parola_inizio": 3,
+"indice_parola_fine": 3
+},
+{
+"testo": "Ilario",
+"etichetta": "PERSONA",
+"indice_parola_inizio": 5,
+"indice_parola_fine": 5
+},
+{
+"testo": "signorina",
+"etichetta": "RUOLO",
+"indice_parola_inizio": 15,
+"indice_parola_fine": 15
+},
+{
+"testo": "Myriam",
+"etichetta": "PERSONA",
+"indice_parola_inizio": 16,
+"indice_parola_fine": 16
+},
+{
+"testo": "maestrina",
+"etichetta": "RUOLO",
+"indice_parola_inizio": 18,
+"indice_parola_fine": 18
+},
+{
+"testo": "scolaro",
+"etichetta": "RUOLO",
+"indice_parola_inizio": 24,
+"indice_parola_fine": 24
+},
+{
+"testo": "fine del mese",
+"etichetta": "DATA",
+"indice_parola_inizio": 31,
+"indice_parola_fine": 33
+},
+{
+"testo": "16",
+"etichetta": "DATA",
+"indice_parola_inizio": 49,
+"indice_parola_fine": 49
+},
+{
+"testo": "19",
+"etichetta": "DATA",
+"indice_parola_inizio": 2,
+"indice_parola_fine": 2
+},
+{
+"testo": "direttore didattico",
+"etichetta": "RUOLO",
+"indice_parola_inizio": 20,
+"indice_parola_fine": 21
+},
+{
+"testo": "maestrina",
+"etichetta": "RUOLO",
+"indice_parola_inizio": 29,
+"indice_parola_fine": 29
+},
+{
+"testo": "fanciullo",
+"etichetta": "RUOLO",
+"indice_parola_inizio": 42,
+"indice_parola_fine": 42
+},
+{
+"testo": "cittadini",
+"etichetta": "RUOLO",
+"indice_parola_inizio": 48,
+"indice_parola_fine": 48
+},
+{
+"testo": "maestra",
+"etichetta": "RUOLO",
+"indice_parola_inizio": 42,
+"indice_parola_fine": 42
+},
+{
+"testo": "colleghe",
+"etichetta": "RUOLO",
+"indice_parola_inizio": 6,
+"indice_parola_fine": 6
+},
+{
+"testo": "fanciullo",
+"etichetta": "RUOLO",
+"indice_parola_inizio": 16,
+"indice_parola_fine": 16
+},
+{
+"testo": "signorina",
+"etichetta": "RUOLO",
+"indice_parola_inizio": 24,
+"indice_parola_fine": 24
+},
+{
+"testo": "Myriam",
+"etichetta": "PERSONA",
+"indice_parola_inizio": 25,
+"indice_parola_fine": 25
+},
+{
+"testo": "bambini",
+"etichetta": "RUOLO",
+"indice_parola_inizio": 36,
+"indice_parola_fine": 36
+},
+{
+"testo": "oggi",
+"etichetta": "DATA",
+"indice_parola_inizio": 42,
+"indice_parola_fine": 42
+},
+{
+"testo": "Giorgetto",
+"etichetta": "PERSONA",
+"indice_parola_inizio": 44,
+"indice_parola_fine": 44
+},
+{
+"testo": "oggi",
+"etichetta": "DATA",
+"indice_parola_inizio": 21,
+"indice_parola_fine": 21
+},
+{
+"testo": "oggi",
+"etichetta": "DATA",
+"indice_parola_inizio": 35,
+"indice_parola_fine": 35
+},
+{
+"testo": "Quella mattina",
+"etichetta": "DATA",
+"indice_parola_inizio": 11,
+"indice_parola_fine": 12
+},
+{
+"testo": "maestrina",
+"etichetta": "RUOLO",
+"indice_parola_inizio": 14,
+"indice_parola_fine": 14
+},
+{
+"testo": "Rino",
+"etichetta": "PERSONA",
+"indice_parola_inizio": 27,
+"indice_parola_fine": 27
+},
+{
+"testo": "Ilario",
+"etichetta": "PERSONA",
+"indice_parola_inizio": 29,
+"indice_parola_fine": 29
+},
+{
+"testo": "Signorina",
+"etichetta": "RUOLO",
+"indice_parola_inizio": 38,
+"indice_parola_fine": 38
+},
+{
+"testo": "signorina",
+"etichetta": "RUOLO",
+"indice_parola_inizio": 6,
+"indice_parola_fine": 6
+},
+{
+"testo": "Myriam",
+"etichetta": "PERSONA",
+"indice_parola_inizio": 7,
+"indice_parola_fine": 7
+},
+{
+"testo": "ragazzi",
+"etichetta": "RUOLO",
+"indice_parola_inizio": 10,
+"indice_parola_fine": 10
+},
+{
+"testo": "Rockfeller",
+"etichetta": "PERSONA",
+"indice_parola_inizio": 33,
+"indice_parola_fine": 33
+},
+{
+"testo": "signorina",
+"etichetta": "RUOLO",
+"indice_parola_inizio": 34,
+"indice_parola_fine": 34
+},
+{
+"testo": "maestrina",
+"etichetta": "RUOLO",
+"indice_parola_inizio": 8,
+"indice_parola_fine": 8
+},
+{
+"testo": "Rockfeller",
+"etichetta": "PERSONA",
+"indice_parola_inizio": 12,
+"indice_parola_fine": 12
+},
+{
+"testo": "benefattore dell'umanità",
+"etichetta": "RUOLO",
+"indice_parola_inizio": 13,
+"indice_parola_fine": 14
+},
+{
+"testo": "san Francesco",
+"etichetta": "PERSONA",
+"indice_parola_inizio": 24,
+"indice_parola_fine": 25
+},
+{
+"testo": "Assisi",
+"etichetta": "LUOGO",
+"indice_parola_inizio": 26,
+"indice_parola_fine": 26
+},
+{
+"testo": "Gutemberg",
+"etichetta": "PERSONA",
+"indice_parola_inizio": 28,
+"indice_parola_fine": 28
+},
+{
+"testo": "Giorgetto",
+"etichetta": "PERSONA",
+"indice_parola_inizio": 30,
+"indice_parola_fine": 30
+},
+{
+"testo": "benefattori dell'umanità",
+"etichetta": "RUOLO",
+"indice_parola_inizio": 37,
+"indice_parola_fine": 38
+},
+{
+"testo": "Rockfeller",
+"etichetta": "PERSONA",
+"indice_parola_inizio": 39,
+"indice_parola_fine": 39
+}
+]
+}

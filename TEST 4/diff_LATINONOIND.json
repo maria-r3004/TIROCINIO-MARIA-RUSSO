@@ -1,0 +1,509 @@
+{
+    "outputLATgemma3.json": {
+        "metrics": {
+            "precision": 0.375,
+            "recall": 0.375,
+            "f1_score": 0.375,
+            "counts": {
+                "tp": 3,
+                "fp": 5,
+                "fn": 5,
+                "totale_gold": 8,
+                "totale_pred": 8
+            }
+        },
+        "diagnostica": {
+            "etichette_errate": [],
+            "non_trovate": [
+                {
+                    "testo": "Reae Silviae",
+                    "etichetta_corretta": "PERSONA"
+                },
+                {
+                    "testo": "Vestalis virginis",
+                    "etichetta_corretta": "RUOLO"
+                },
+                {
+                    "testo": "Martis",
+                    "etichetta_corretta": "PERSONA"
+                },
+                {
+                    "testo": "Remo",
+                    "etichetta_corretta": "PERSONA"
+                },
+                {
+                    "testo": "XI Kal",
+                    "etichetta_corretta": "DATA"
+                }
+            ],
+            "trovate_erroneamente": [
+                {
+                    "testo": "Romanum",
+                    "etichetta_predetta": "LUOGO"
+                },
+                {
+                    "testo": "Reae",
+                    "etichetta_predetta": "PERSONA"
+                },
+                {
+                    "testo": "Silviae",
+                    "etichetta_predetta": "PERSONA"
+                },
+                {
+                    "testo": "Vestalis",
+                    "etichetta_predetta": "RUOLO"
+                },
+                {
+                    "testo": "XI",
+                    "etichetta_predetta": "DATA"
+                }
+            ],
+            "corrette": [
+                {
+                    "testo": "Palatino",
+                    "etichetta": "LUOGO"
+                },
+                {
+                    "testo": "Romulo",
+                    "etichetta": "PERSONA"
+                },
+                {
+                    "testo": "pastores",
+                    "etichetta": "RUOLO"
+                }
+            ]
+        }
+    },
+    "outputLATqwen.json": {
+        "metrics": {
+            "precision": 0.6667,
+            "recall": 0.75,
+            "f1_score": 0.7059,
+            "counts": {
+                "tp": 6,
+                "fp": 3,
+                "fn": 2,
+                "totale_gold": 8,
+                "totale_pred": 9
+            }
+        },
+        "diagnostica": {
+            "etichette_errate": [
+                {
+                    "testo": "Martis",
+                    "etichetta_predetta": "RUOLO",
+                    "etichetta_corretta": "PERSONA"
+                }
+            ],
+            "non_trovate": [
+                {
+                    "testo": "Palatino",
+                    "etichetta_corretta": "LUOGO"
+                }
+            ],
+            "trovate_erroneamente": [
+                {
+                    "testo": "Romanum imperium",
+                    "etichetta_predetta": "LUOGO"
+                },
+                {
+                    "testo": "Palatino monte",
+                    "etichetta_predetta": "LUOGO"
+                }
+            ],
+            "corrette": [
+                {
+                    "testo": "Romulo",
+                    "etichetta": "PERSONA"
+                },
+                {
+                    "testo": "Reae Silviae",
+                    "etichetta": "PERSONA"
+                },
+                {
+                    "testo": "Vestalis virginis",
+                    "etichetta": "RUOLO"
+                },
+                {
+                    "testo": "Remo",
+                    "etichetta": "PERSONA"
+                },
+                {
+                    "testo": "pastores",
+                    "etichetta": "RUOLO"
+                },
+                {
+                    "testo": "XI Kal.",
+                    "etichetta": "DATA"
+                }
+            ]
+        }
+    },
+    "outputLATllava.json": {
+        "metrics": {
+            "precision": 0.1,
+            "recall": 0.125,
+            "f1_score": 0.1111,
+            "counts": {
+                "tp": 1,
+                "fp": 9,
+                "fn": 7,
+                "totale_gold": 8,
+                "totale_pred": 10
+            }
+        },
+        "diagnostica": {
+            "etichette_errate": [],
+            "non_trovate": [
+                {
+                    "testo": "Romulo",
+                    "etichetta_corretta": "PERSONA"
+                },
+                {
+                    "testo": "Reae Silviae",
+                    "etichetta_corretta": "PERSONA"
+                },
+                {
+                    "testo": "Vestalis virginis",
+                    "etichetta_corretta": "RUOLO"
+                },
+                {
+                    "testo": "Martis",
+                    "etichetta_corretta": "PERSONA"
+                },
+                {
+                    "testo": "Remo",
+                    "etichetta_corretta": "PERSONA"
+                },
+                {
+                    "testo": "pastores",
+                    "etichetta_corretta": "RUOLO"
+                },
+                {
+                    "testo": "Palatino",
+                    "etichetta_corretta": "LUOGO"
+                }
+            ],
+            "trovate_erroneamente": [
+                {
+                    "testo": "Romanum imperium",
+                    "etichetta_predetta": "RUOLO"
+                },
+                {
+                    "testo": "neque ab exordio quoque",
+                    "etichetta_predetta": "DATA"
+                },
+                {
+                    "testo": "fere minus neque",
+                    "etichetta_predetta": "DATA"
+                },
+                {
+                    "testo": "toto orbe amplius humana",
+                    "etichetta_predetta": "DATA"
+                },
+                {
+                    "testo": "memoria recordari a Romulo",
+                    "etichetta_predetta": "PERSONA"
+                },
+                {
+                    "testo": "qui Reae Silviae Vestalis virginis filius et quantus putatus est",
+                    "etichetta_predetta": "PERSONA"
+                },
+                {
+                    "testo": "Martis cum Remo fratre uno partu editus est.",
+                    "etichetta_predetta": "PERSONA"
+                },
+                {
+                    "testo": "Is cum inter pastores latrocinaretur",
+                    "etichetta_predetta": "RUOLO"
+                },
+                {
+                    "testo": "decem et octo annos natus urbem exiguam in Palatino monte constituit",
+                    "etichetta_predetta": "DATA"
+                }
+            ],
+            "corrette": [
+                {
+                    "testo": "XI Kal.",
+                    "etichetta": "DATA"
+                }
+            ]
+        }
+    },
+    "outputLATvelvet.json": {
+        "metrics": {
+            "precision": 0.0526,
+            "recall": 0.25,
+            "f1_score": 0.087,
+            "counts": {
+                "tp": 2,
+                "fp": 36,
+                "fn": 6,
+                "totale_gold": 8,
+                "totale_pred": 38
+            }
+        },
+        "diagnostica": {
+            "etichette_errate": [
+                {
+                    "testo": "Martis",
+                    "etichetta_predetta": "CATEGORIE",
+                    "etichetta_corretta": "PERSONA"
+                }
+            ],
+            "non_trovate": [
+                {
+                    "testo": "Reae Silviae",
+                    "etichetta_corretta": "PERSONA"
+                },
+                {
+                    "testo": "Vestalis virginis",
+                    "etichetta_corretta": "RUOLO"
+                },
+                {
+                    "testo": "pastores",
+                    "etichetta_corretta": "RUOLO"
+                },
+                {
+                    "testo": "Palatino",
+                    "etichetta_corretta": "LUOGO"
+                },
+                {
+                    "testo": "XI Kal",
+                    "etichetta_corretta": "DATA"
+                }
+            ],
+            "trovate_erroneamente": [
+                {
+                    "testo": "imperium",
+                    "etichetta_predetta": "DATA"
+                },
+                {
+                    "testo": "quo",
+                    "etichetta_predetta": "DATA"
+                },
+                {
+                    "testo": "neque",
+                    "etichetta_predetta": "DATA"
+                },
+                {
+                    "testo": "ab",
+                    "etichetta_predetta": "DATA"
+                },
+                {
+                    "testo": "exordio",
+                    "etichetta_predetta": "PERSONA"
+                },
+                {
+                    "testo": "ullum",
+                    "etichetta_predetta": "LUOGO"
+                },
+                {
+                    "testo": "fere",
+                    "etichetta_predetta": "DATA"
+                },
+                {
+                    "testo": "minus",
+                    "etichetta_predetta": "RUOLO"
+                },
+                {
+                    "testo": "neque",
+                    "etichetta_predetta": "DATA"
+                },
+                {
+                    "testo": "incrementis",
+                    "etichetta_predetta": "DATA"
+                },
+                {
+                    "testo": "orbe",
+                    "etichetta_predetta": "LUOGO"
+                },
+                {
+                    "testo": "amplius",
+                    "etichetta_predetta": "DATA"
+                },
+                {
+                    "testo": "humana",
+                    "etichetta_predetta": "CATEGORIE"
+                },
+                {
+                    "testo": "potest",
+                    "etichetta_predetta": "CATEGORIE"
+                },
+                {
+                    "testo": "memoria",
+                    "etichetta_predetta": "CATEGORIE"
+                },
+                {
+                    "testo": "recordari",
+                    "etichetta_predetta": "CATEGORIE"
+                },
+                {
+                    "testo": "a",
+                    "etichetta_predetta": "CATEGORIE"
+                },
+                {
+                    "testo": "exordium",
+                    "etichetta_predetta": "PERSONA"
+                },
+                {
+                    "testo": "habet",
+                    "etichetta_predetta": "DATA"
+                },
+                {
+                    "testo": "qui",
+                    "etichetta_predetta": "LUOGO"
+                },
+                {
+                    "testo": "Reae",
+                    "etichetta_predetta": "CATEGORIE"
+                },
+                {
+                    "testo": "Silviae",
+                    "etichetta_predetta": "CATEGORIE"
+                },
+                {
+                    "testo": "Vestalis",
+                    "etichetta_predetta": "CATEGORIE"
+                },
+                {
+                    "testo": "virginis",
+                    "etichetta_predetta": "CATEGORIE"
+                },
+                {
+                    "testo": "filius",
+                    "etichetta_predetta": "PERSONA"
+                },
+                {
+                    "testo": "et",
+                    "etichetta_predetta": "CATEGORIE"
+                },
+                {
+                    "testo": "quantum",
+                    "etichetta_predetta": "DATA"
+                },
+                {
+                    "testo": "putatus",
+                    "etichetta_predetta": "DATA"
+                },
+                {
+                    "testo": "est",
+                    "etichetta_predetta": "DATA"
+                },
+                {
+                    "testo": "cum",
+                    "etichetta_predetta": "CATEGORIE"
+                },
+                {
+                    "testo": "fratre",
+                    "etichetta_predetta": "PERSONA"
+                },
+                {
+                    "testo": "uno",
+                    "etichetta_predetta": "CATEGORIE"
+                },
+                {
+                    "testo": "partu",
+                    "etichetta_predetta": "PERSONA"
+                },
+                {
+                    "testo": "editus",
+                    "etichetta_predetta": "DATA"
+                },
+                {
+                    "testo": "est",
+                    "etichetta_predetta": "DATA"
+                }
+            ],
+            "corrette": [
+                {
+                    "testo": "Romulo",
+                    "etichetta": "PERSONA"
+                },
+                {
+                    "testo": "Remo",
+                    "etichetta": "PERSONA"
+                }
+            ]
+        }
+    },
+    "outputLATllamantino.json": {
+        "metrics": {
+            "precision": 0.3333,
+            "recall": 0.375,
+            "f1_score": 0.3529,
+            "counts": {
+                "tp": 3,
+                "fp": 6,
+                "fn": 5,
+                "totale_gold": 8,
+                "totale_pred": 9
+            }
+        },
+        "diagnostica": {
+            "etichette_errate": [],
+            "non_trovate": [
+                {
+                    "testo": "Reae Silviae",
+                    "etichetta_corretta": "PERSONA"
+                },
+                {
+                    "testo": "Vestalis virginis",
+                    "etichetta_corretta": "RUOLO"
+                },
+                {
+                    "testo": "pastores",
+                    "etichetta_corretta": "RUOLO"
+                },
+                {
+                    "testo": "Palatino",
+                    "etichetta_corretta": "LUOGO"
+                },
+                {
+                    "testo": "XI Kal",
+                    "etichetta_corretta": "DATA"
+                }
+            ],
+            "trovate_erroneamente": [
+                {
+                    "testo": "Romanum",
+                    "etichetta_predetta": "LUOGO"
+                },
+                {
+                    "testo": "Reae",
+                    "etichetta_predetta": "LUOGO"
+                },
+                {
+                    "testo": "Silviae",
+                    "etichetta_predetta": "LUOGO"
+                },
+                {
+                    "testo": "Vestalis",
+                    "etichetta_predetta": "LUOGO"
+                },
+                {
+                    "testo": "XI",
+                    "etichetta_predetta": "DATA"
+                },
+                {
+                    "testo": "Kal",
+                    "etichetta_predetta": "DATA"
+                }
+            ],
+            "corrette": [
+                {
+                    "testo": "Romulo",
+                    "etichetta": "PERSONA"
+                },
+                {
+                    "testo": "Martis",
+                    "etichetta": "PERSONA"
+                },
+                {
+                    "testo": "Remo",
+                    "etichetta": "PERSONA"
+                }
+            ]
+        }
+    }
+}

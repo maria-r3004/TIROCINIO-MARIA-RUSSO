@@ -1,0 +1,84 @@
+{
+    "entita": [
+        {
+            "testo": "Roma",
+            "etichetta": "LUOGO"
+        },
+        {
+            "testo": "Marco Rossi",
+            "etichetta": "RUORO"
+        },
+        {
+            "testo": "presidente",
+            "etichetta": "RUORO"
+        },
+        {
+            "testo": "piano aziendale",
+            "etichetta": "RUORO"
+        },
+        {
+            "testo": "vertice pubblico",
+            "etichetta": "RUORO"
+        },
+        {
+            "testo": "Milano",
+            "etichetta": "LUOGO"
+        },
+        {
+            "testo": "Torino",
+            "etichetta": "LUOGO"
+        },
+        {
+            "testo": "Napoli",
+            "etichetta": "LUOGO"
+        },
+        {
+            "testo": "ospiti",
+            "etichetta": "RUORO"
+        },
+        {
+            "testo": "direttrice",
+            "etichetta": "RUORO"
+        },
+        {
+            "testo": "Elena Bianchi",
+            "etichetta": "PERSONA"
+        },
+        {
+            "testo": "ministro",
+            "etichetta": "RUORO"
+        },
+        {
+            "testo": "Luca Moretti",
+            "etichetta": "PERSONA"
+        },
+        {
+            "testo": "accordo strategico",
+            "etichetta": "RUORO"
+        },
+        {
+            "testo": "Barilla",
+            "etichetta": "RUORO"
+        },
+        {
+            "testo": "Pirelli",
+            "etichetta": "RUORO"
+        },
+        {
+            "testo": "programma",
+            "etichetta": "RUORO"
+        },
+        {
+            "testo": "2025",
+            "etichetta": "DATA"
+        },
+        {
+            "testo": "Commissione Europea",
+            "etichetta": "RUORO"
+        },
+        {
+            "testo": "Bruxelles",
+            "etichetta": "LUOGO"
+        }
+    ]
+}

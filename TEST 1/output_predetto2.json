@@ -1,0 +1,88 @@
+{
+    "entita": [
+        {
+            "testo": "Dessy",
+            "etichetta": "PERSONA",
+            "indice_parola_inizio": 31,
+            "indice_parola_fine": 31
+        },
+        {
+            "testo": "Sardegna",
+            "etichetta": "LUOGO",
+            "indice_parola_inizio": 48,
+            "indice_parola_fine": 48
+        },
+        {
+            "testo": "testimone",
+            "etichetta": "RUOLO",
+            "indice_parola_inizio": 57,
+            "indice_parola_fine": 57
+        },
+        {
+            "testo": "intellettuali",
+            "etichetta": "PERSONA",
+            "indice_parola_inizio": 59,
+            "indice_parola_fine": 59
+        },
+        {
+            "testo": "politizzati",
+            "etichetta": "PERSONA",
+            "indice_parola_inizio": 60,
+            "indice_parola_fine": 60
+        },
+        {
+            "testo": "altra",
+            "etichetta": "PERSONA",
+            "indice_parola_inizio": 63,
+            "indice_parola_fine": 63
+        },
+        {
+            "testo": "pastora",
+            "etichetta": "PERSONA",
+            "indice_parola_inizio": 65,
+            "indice_parola_fine": 65
+        },
+        {
+            "testo": "venditore ambulante",
+            "etichetta": "PERSONA",
+            "indice_parola_inizio": 68,
+            "indice_parola_fine": 69
+        },
+        {
+            "testo": "consiglio",
+            "etichetta": "ORGANIZZAZIONE",
+            "indice_parola_inizio": 72,
+            "indice_parola_fine": 72
+        },
+        {
+            "testo": "due ragazzi",
+            "etichetta": "PERSONA",
+            "indice_parola_inizio": 75,
+            "indice_parola_fine": 76
+        },
+        {
+            "testo": "maestra",
+            "etichetta": "RUOLO",
+            "indice_parola_inizio": 80,
+            "indice_parola_fine": 80
+        },
+        {
+            "testo": "ministro",
+            "etichetta": "RUOLO",
+            "indice_parola_inizio": 81,
+            "indice_parola_fine": 81
+        },
+        {
+            "testo": "Dessy",
+            "etichetta": "PERSONA",
+            "indice_parola_inizio": 96,
+            "indice_parola_fine": 96
+        },
+        {
+            "testo": "Dessy",
+            "etichetta": "PERSONA",
+            "indice_parola_inizio": 146,
+            "indice_parola_fine": 146
+        }
+    ]
+}

@@ -1,0 +1,136 @@
+{
+    "entita": [
+        {
+            "testo": "E",
+            "etichetta": "PERSONA",
+            "indice_parola_inizio": 0,
+            "indice_parola_fine": 0
+        },
+        {
+            "testo": "Re",
+            "etichetta": "RUOLO",
+            "indice_parola_inizio": 11,
+            "indice_parola_fine": 11
+        },
+        {
+            "testo": "Cattolico",
+            "etichetta": "RUOLO",
+            "indice_parola_inizio": 12,
+            "indice_parola_fine": 12
+        },
+        {
+            "testo": "Signore",
+            "etichetta": "RUOLO",
+            "indice_parola_inizio": 14,
+            "indice_parola_fine": 14
+        },
+        {
+            "testo": "Sole",
+            "etichetta": "PERSONA",
+            "indice_parola_inizio": 18,
+            "indice_parola_fine": 18
+        },
+        {
+            "testo": "Luna",
+            "etichetta": "PERSONA",
+            "indice_parola_inizio": 31,
+            "indice_parola_fine": 31
+        },
+        {
+            "testo": "Heroe",
+            "etichetta": "RUOLO",
+            "indice_parola_inizio": 35,
+            "indice_parola_fine": 35
+        },
+        {
+            "testo": "Prosapia",
+            "etichetta": "RUOLO",
+            "indice_parola_inizio": 38,
+            "indice_parola_fine": 38
+        },
+        {
+            "testo": "Amplissimi",
+            "etichetta": "RUOLO",
+            "indice_parola_inizio": 48,
+            "indice_parola_fine": 48
+        },
+        {
+            "testo": "Senatori",
+            "etichetta": "RUOLO",
+            "indice_parola_inizio": 49,
+            "indice_parola_fine": 49
+        },
+        {
+            "testo": "Stelle",
+            "etichetta": "RUOLO",
+            "indice_parola_inizio": 51,
+            "indice_parola_fine": 51
+        },
+        {
+            "testo": "Spettabili",
+            "etichetta": "RUOLO",
+            "indice_parola_inizio": 54,
+            "indice_parola_fine": 54
+        },
+        {
+            "testo": "Magistrati",
+            "etichetta": "RUOLO",
+            "indice_parola_inizio": 56,
+            "indice_parola_fine": 56
+        },
+        {
+            "testo": "Pianeti",
+            "etichetta": "RUOLO",
+            "indice_parola_inizio": 58,
+            "indice_parola_fine": 58
+        },
+        {
+            "testo": "Cielo",
+            "etichetta": "LUOGO",
+            "indice_parola_inizio": 71,
+            "indice_parola_fine": 71
+        },
+        {
+            "testo": "inferno",
+            "etichetta": "LUOGO",
+            "indice_parola_inizio": 82,
+            "indice_parola_fine": 82
+        },
+        {
+            "testo": "huomini",
+            "etichetta": "PERSONA",
+            "indice_parola_inizio": 89,
+            "indice_parola_fine": 89
+        },
+        {
+            "testo": "temerarij",
+            "etichetta": "PERSONA",
+            "indice_parola_inizio": 90,
+            "indice_parola_fine": 90
+        },
+        {
+            "testo": "Argo",
+            "etichetta": "PERSONA",
+            "indice_parola_inizio": 118,
+            "indice_parola_fine": 118
+        },
+        {
+            "testo": "Briareo",
+            "etichetta": "PERSONA",
+            "indice_parola_inizio": 122,
+            "indice_parola_fine": 122
+        },
+        {
+            "testo": "pubblici",
+            "etichetta": "LUOGO",
+            "indice_parola_inizio": 127,
+            "indice_parola_fine": 127
+        },
+        {
+            "testo": "emolumenti",
+            "etichetta": "LUOGO",
+            "indice_parola_inizio": 129,
+            "indice_parola_fine": 129
+        }
+    ]
+}

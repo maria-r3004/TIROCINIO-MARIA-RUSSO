@@ -1,0 +1,88 @@
+{
+    "entita": [
+        {
+            "testo": "Roma",
+            "etichetta": "LUOGO",
+            "indice_parola_inizio": 2,
+            "indice_parola_fine": 2
+        },
+        {
+            "testo": "il presidente",
+            "etichetta": "RUOLO",
+            "indice_parola_inizio": 8,
+            "indice_parola_fine": 8
+        },
+        {
+            "testo": "Marco Rossi",
+            "etichetta": "PERSONA",
+            "indice_parola_inizio": 11,
+            "indice_parola_fine": 12
+        },
+        {
+            "testo": "pubblico",
+            "etichetta": "RUOLO",
+            "indice_parola_inizio": 6,
+            "indice_parola_fine": 6
+        },
+        {
+            "testo": "vertice",
+            "etichetta": "DATA",
+            "indice_parola_inizio": 5,
+            "indice_parola_fine": 5
+        },
+        {
+            "testo": "del 15 Ottobre 2024",
+            "etichetta": "DATA",
+            "indice_parola_inizio": 15,
+            "indice_parola_fine": 16
+        },
+        {
+            "testo": "Napoli",
+            "etichetta": "LUOGO",
+            "indice_parola_inizio": 31,
+            "indice_parola_fine": 32
+        },
+        {
+            "testo": "Milano",
+            "etichetta": "LUOGO",
+            "indice_parola_inizio": 30,
+            "indice_parola_fine": 30
+        },
+        {
+            "testo": "Torino",
+            "etichetta": "LUOGO",
+            "indice_parola_inizio": 31,
+            "indice_parola_fine": 31
+        },
+        {
+            "testo": "Insieme alla direttrice Elena Bianchi",
+            "etichetta": "RUOLO",
+            "indice_parola_inizio": 34,
+            "indice_parola_fine": 35
+        },
+        {
+            "testo": "direttamente dalla Commissione Europea",
+            "etichetta": "RUOLO",
+            "indice_parola_inizio": 69,
+            "indice_parola_fine": 70
+        },
+        {
+            "testo": "sostenuto",
+            "etichetta": "RUOLO",
+            "indice_parola_inizio": 67,
+            "indice_parola_fine": 67
+        },
+        {
+            "testo": "direttamente",
+            "etichetta": "RUOLO",
+            "indice_parola_inizio": 67,
+            "indice_parola_fine": 67
+        },
+        {
+            "testo": "dalla Commissione Europea",
+            "etichetta": "RUOLO",
+            "indice_parola_inizio": 70,
+            "indice_parola_fine": 71
+        }
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "entita": [
+        {
+            "testo": "Romanum",
+            "etichetta": "LUOGO",
+            "indice_parola_inizio": 0,
+            "indice_parola_fine": 0
+        },
+        {
+            "testo": "imperium",
+            "etichetta": "RUOLO",
+            "indice_parola_inizio": 1,
+            "indice_parola_fine": 1
+        },
+        {
+            "testo": "Romulo",
+            "etichetta": "PERSONA",
+            "indice_parola_inizio": 19,
+            "indice_parola_fine": 19
+        },
+        {
+            "testo": "Reae Silviae",
+            "etichetta": "LUOGO",
+            "indice_parola_inizio": 24,
+            "indice_parola_fine": 24
+        },
+        {
+            "testo": "Vestalis",
+            "etichetta": "RUOLO",
+            "indice_parola_inizio": 25,
+            "indice_parola_fine": 25
+        },
+        {
+            "testo": "Martis",
+            "etichetta": "PERSONA",
+            "indice_parola_inizio": 32,
+            "indice_parola_fine": 32
+        },
+        {
+            "testo": "Remo",
+            "etichetta": "PERSONA",
+            "indice_parola_inizio": 34,
+            "indice_parola_fine": 34
+        },
+        {
+            "testo": "XI",
+            "etichetta": "DATA",
+            "indice_parola_inizio": 56,
+            "indice_parola_fine": 56
+        },
+        {
+            "testo": "Kal.",
+            "etichetta": "DATA",
+            "indice_parola_inizio": 57,
+            "indice_parola_fine": 57
+        }
+    ]
+}

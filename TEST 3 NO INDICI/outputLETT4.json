@@ -1,0 +1,60 @@
+{
+    "entita": [
+        {
+            "testo": "Rino e Ilario",
+            "etichetta": "PERSONA"
+        },
+        {
+            "testo": "Tredici anni",
+            "etichetta": "DATA"
+        },
+        {
+            "testo": "quinta elementare",
+            "etichetta": "RUOLO"
+        },
+        {
+            "testo": "«nessuna assistenza»",
+            "etichetta": "RUOLO"
+        },
+        {
+            "testo": "libretti scolastici",
+            "etichetta": "DOCUMENTO"
+        },
+        {
+            "testo": "casa",
+            "etichetta": "LUOGO"
+        },
+        {
+            "testo": "cinque del mattino",
+            "etichetta": "TEMPO"
+        },
+        {
+            "testo": "scuola",
+            "etichetta": "LUOGO"
+        },
+        {
+            "testo": "marzo",
+            "etichetta": "DATA"
+        },
+        {
+            "testo": "primo solicello",
+            "etichetta": "TEMPO"
+        },
+        {
+            "testo": "bordeggiare le siepi di ficodindia",
+            "etichetta": "AZIONE"
+        },
+        {
+            "testo": "campagna di Terrepani",
+            "etichetta": "LUOGO"
+        },
+        {
+            "testo": "una fetta di terra in un canalone roccioso",
+            "etichetta": "LUOGO"
+        },
+        {
+            "testo": "dimenticata da Dio e dagli uomini",
+            "etichetta": "DESCRIZIONE"
+        }
+    ]
+}

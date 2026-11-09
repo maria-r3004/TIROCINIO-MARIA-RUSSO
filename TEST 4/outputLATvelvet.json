@@ -1,0 +1,194 @@
+{
+    "entita": [
+        {
+            "testo": "imperium",
+            "etichetta": "DATA",
+            "indice_parola_inizio": 1
+        },
+        {
+            "testo": "quo",
+            "etichetta": "DATA",
+            "indice_parola_inizio": 3
+        },
+        {
+            "testo": "neque",
+            "etichetta": "DATA",
+            "indice_parola_inizio": 4
+        },
+        {
+            "testo": "ab",
+            "etichetta": "DATA",
+            "indice_parola_inizio": 5
+        },
+        {
+            "testo": "exordio",
+            "etichetta": "PERSONA",
+            "indice_parola_inizio": 6
+        },
+        {
+            "testo": "ullum",
+            "etichetta": "LUOGO",
+            "indice_parola_inizio": 7
+        },
+        {
+            "testo": "fere",
+            "etichetta": "DATA",
+            "indice_parola_inizio": 8
+        },
+        {
+            "testo": "minus",
+            "etichetta": "RUOLO",
+            "indice_parola_inizio": 9
+        },
+        {
+            "testo": "neque",
+            "etichetta": "DATA",
+            "indice_parola_inizio": 10
+        },
+        {
+            "testo": "incrementis",
+            "etichetta": "DATA",
+            "indice_parola_inizio": 11
+        },
+        {
+            "testo": "orbe",
+            "etichetta": "LUOGO",
+            "indice_parola_inizio": 12
+        },
+        {
+            "testo": "amplius",
+            "etichetta": "DATA",
+            "indice_parola_inizio": 13
+        },
+        {
+            "testo": "humana",
+            "etichetta": "CATEGORIE",
+            "indice_parola_inizio": 14
+        },
+        {
+            "testo": "potest",
+            "etichetta": "CATEGORIE",
+            "indice_parola_inizio": 15
+        },
+        {
+            "testo": "memoria",
+            "etichetta": "CATEGORIE",
+            "indice_parola_inizio": 16
+        },
+        {
+            "testo": "recordari",
+            "etichetta": "CATEGORIE",
+            "indice_parola_inizio": 17
+        },
+        {
+            "testo": "a",
+            "etichetta": "CATEGORIE",
+            "indice_parola_inizio": 18
+        },
+        {
+            "testo": "Romulo",
+            "etichetta": "PERSONA",
+            "indice_parola_inizio": 19
+        },
+        {
+            "testo": "exordium",
+            "etichetta": "PERSONA",
+            "indice_parola_inizio": 20
+        },
+        {
+            "testo": "habet",
+            "etichetta": "DATA",
+            "indice_parola_inizio": 21
+        },
+        {
+            "testo": "qui",
+            "etichetta": "LUOGO",
+            "indice_parola_inizio": 22
+        },
+        {
+            "testo": "Reae",
+            "etichetta": "CATEGORIE",
+            "indice_parola_inizio": 23
+        },
+        {
+            "testo": "Silviae",
+            "etichetta": "CATEGORIE",
+            "indice_parola_inizio": 24
+        },
+        {
+            "testo": "Vestalis",
+            "etichetta": "CATEGORIE",
+            "indice_parola_inizio": 25
+        },
+        {
+            "testo": "virginis",
+            "etichetta": "CATEGORIE",
+            "indice_parola_inizio": 26
+        },
+        {
+            "testo": "filius",
+            "etichetta": "PERSONA",
+            "indice_parola_inizio": 27
+        },
+        {
+            "testo": "et",
+            "etichetta": "CATEGORIE",
+            "indice_parola_inizio": 28
+        },
+        {
+            "testo": "quantum",
+            "etichetta": "DATA",
+            "indice_parola_inizio": 29
+        },
+        {
+            "testo": "putatus",
+            "etichetta": "DATA",
+            "indice_parola_inizio": 30
+        },
+        {
+            "testo": "est",
+            "etichetta": "DATA",
+            "indice_parola_inizio": 31
+        },
+        {
+            "testo": "Martis",
+            "etichetta": "CATEGORIE",
+            "indice_parola_inizio": 32
+        },
+        {
+            "testo": "cum",
+            "etichetta": "CATEGORIE",
+            "indice_parola_inizio": 33
+        },
+        {
+            "testo": "Remo",
+            "etichetta": "PERSONA",
+            "indice_parola_inizio": 34
+        },
+        {
+            "testo": "fratre",
+            "etichetta": "PERSONA",
+            "indice_parola_inizio": 35
+        },
+        {
+            "testo": "uno",
+            "etichetta": "CATEGORIE",
+            "indice_parola_inizio": 36
+        },
+        {
+            "testo": "partu",
+            "etichetta": "PERSONA",
+            "indice_parola_inizio": 37
+        },
+        {
+            "testo": "editus",
+            "etichetta": "DATA",
+            "indice_parola_inizio": 38
+        },
+        {
+            "testo": "est",
+            "etichetta": "DATA",
+            "indice_parola_inizio": 39
+        }
+    ]
+}

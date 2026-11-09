@@ -1,0 +1,70 @@
+{
+  "entita": [
+    {
+      "testo": "Dessy",
+      "etichetta": "PERSONA",
+      "indice_parola_inizio": 36,
+      "indice_parola_fine": 36
+    },
+    {
+      "testo": "Dessy",
+      "etichetta": "PERSONA",
+      "indice_parola_inizio": 74,
+      "indice_parola_fine": 74
+    },
+    {
+      "testo": "Sardegna",
+      "etichetta": "LUOGO",
+      "indice_parola_inizio": 80,
+      "indice_parola_fine": 80
+    },
+    {
+      "testo": "Narratore",
+      "etichetta": "RUOLO",
+      "indice_parola_inizio": 89,
+      "indice_parola_fine": 89
+    },
+    {
+      "testo": "intellettuali",
+      "etichetta": "RUOLO",
+      "indice_parola_inizio": 107,
+      "indice_parola_fine": 107
+    },
+    {
+      "testo": "Sardegna",
+      "etichetta": "LUOGO",
+      "indice_parola_inizio": 120,
+      "indice_parola_fine": 120
+    },
+    {
+      "testo": "pastora",
+      "etichetta": "RUOLO",
+      "indice_parola_inizio": 125,
+      "indice_parola_fine": 125
+    },
+    {
+      "testo": "venditore ambulante",
+      "etichetta": "RUOLO",
+      "indice_parola_inizio": 128,
+      "indice_parola_fine": 129
+    },
+    {
+      "testo": "maestra",
+      "etichetta": "RUOLO",
+      "indice_parola_inizio": 158,
+      "indice_parola_fine": 158
+    },
+    {
+      "testo": "ministro",
+      "etichetta": "RUOLO",
+      "indice_parola_inizio": 160,
+      "indice_parola_fine": 160
+    },
+    {
+      "testo": "Dessy",
+      "etichetta": "PERSONA",
+      "indice_parola_inizio": 170,
+      "indice_parola_fine": 170
+    }
+  ]
+}

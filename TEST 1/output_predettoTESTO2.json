@@ -1,0 +1,46 @@
+{
+    "entita": [
+        {
+            "testo": "Sardegna",
+            "etichetta": "LUOGO",
+            "indice_parola_inizio": 68,
+            "indice_parola_fine": 68
+        },
+        {
+            "testo": "pastora",
+            "etichetta": "RUOLO",
+            "indice_parola_inizio": 86,
+            "indice_parola_fine": 86
+        },
+        {
+            "testo": "venditore ambulante",
+            "etichetta": "RUOLO",
+            "indice_parola_inizio": 92,
+            "indice_parola_fine": 93
+        },
+        {
+            "testo": "maestra",
+            "etichetta": "RUOLO",
+            "indice_parola_inizio": 123,
+            "indice_parola_fine": 123
+        },
+        {
+            "testo": "ministro",
+            "etichetta": "RUOLO",
+            "indice_parola_inizio": 124,
+            "indice_parola_fine": 124
+        },
+        {
+            "testo": "intellettuali e politicizzati",
+            "etichetta": "RUOLO",
+            "indice_parola_inizio": 83,
+            "indice_parola_fine": 85
+        },
+        {
+            "testo": "Dessy",
+            "etichetta": "PERSONA",
+            "indice_parola_inizio": 29,
+            "indice_parola_fine": 29
+        }
+    ]
+}

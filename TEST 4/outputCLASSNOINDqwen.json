@@ -1,0 +1,58 @@
+{
+    "entita": [
+        {
+            "testo": "Re Cattolico",
+            "etichetta": "PERSONA",
+            "indice_parola_inizio": 15,
+            "indice_parola_fine": 16
+        },
+        {
+            "testo": "Sole",
+            "etichetta": "PERSONA",
+            "indice_parola_inizio": 19,
+            "indice_parola_fine": 19
+        },
+        {
+            "testo": "Heroe",
+            "etichetta": "PERSONA",
+            "indice_parola_inizio": 31,
+            "indice_parola_fine": 31
+        },
+        {
+            "testo": "Senatori",
+            "etichetta": "RUOLO",
+            "indice_parola_inizio": 40,
+            "indice_parola_fine": 40
+        },
+        {
+            "testo": "Stelle fisse",
+            "etichetta": "RUOLO",
+            "indice_parola_inizio": 42,
+            "indice_parola_fine": 44
+        },
+        {
+            "testo": "Pianeti",
+            "etichetta": "RUOLO",
+            "indice_parola_inizio": 48,
+            "indice_parola_fine": 48
+        },
+        {
+            "testo": "Heroi",
+            "etichetta": "PERSONA",
+            "indice_parola_inizio": 73,
+            "indice_parola_fine": 73
+        },
+        {
+            "testo": "Argo",
+            "etichetta": "PERSONA",
+            "indice_parola_inizio": 75,
+            "indice_parola_fine": 75
+        },
+        {
+            "testo": "Briareo",
+            "etichetta": "PERSONA",
+            "indice_parola_inizio": 77,
+            "indice_parola_fine": 77
+        }
+    ]
+}

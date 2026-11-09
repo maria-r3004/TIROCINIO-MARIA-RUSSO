@@ -1,0 +1,124 @@
+{
+    "outputCLASSNOINDgemma.json": {
+        "metrics": {
+            "precision": 0.375,
+            "recall": 0.6,
+            "f1_score": 0.4615,
+            "counts": {
+                "tp": 3,
+                "fp": 5,
+                "fn": 2,
+                "totale_gold": 5,
+                "totale_pred": 8
+            }
+        },
+        "diagnostica": {
+            "etichette_errate": [
+                {
+                    "testo": "Argo",
+                    "etichetta_predetta": "RUOLO",
+                    "etichetta_corretta": "PERSONA"
+                },
+                {
+                    "testo": "Briareo",
+                    "etichetta_predetta": "RUOLO",
+                    "etichetta_corretta": "PERSONA"
+                }
+            ],
+            "non_trovate": [],
+            "trovate_erroneamente": [
+                {
+                    "testo": "Signore",
+                    "etichetta_predetta": "RUOLO"
+                },
+                {
+                    "testo": "Heroe",
+                    "etichetta_predetta": "RUOLO"
+                },
+                {
+                    "testo": "Prosapia",
+                    "etichetta_predetta": "RUOLO"
+                }
+            ],
+            "corrette": [
+                {
+                    "testo": "Re Cattolico",
+                    "etichetta": "RUOLO"
+                },
+                {
+                    "testo": "Senatori",
+                    "etichetta": "RUOLO"
+                },
+                {
+                    "testo": "Magistrati",
+                    "etichetta": "RUOLO"
+                }
+            ]
+        }
+    },
+    "outputCLASSNOINDqwen.json": {
+        "metrics": {
+            "precision": 0.3333,
+            "recall": 0.6,
+            "f1_score": 0.4286,
+            "counts": {
+                "tp": 3,
+                "fp": 6,
+                "fn": 2,
+                "totale_gold": 5,
+                "totale_pred": 9
+            }
+        },
+        "diagnostica": {
+            "etichette_errate": [
+                {
+                    "testo": "Re Cattolico",
+                    "etichetta_predetta": "PERSONA",
+                    "etichetta_corretta": "RUOLO"
+                }
+            ],
+            "non_trovate": [
+                {
+                    "testo": "Magistrati",
+                    "etichetta_corretta": "RUOLO"
+                }
+            ],
+            "trovate_erroneamente": [
+                {
+                    "testo": "Sole",
+                    "etichetta_predetta": "PERSONA"
+                },
+                {
+                    "testo": "Heroe",
+                    "etichetta_predetta": "PERSONA"
+                },
+                {
+                    "testo": "Stelle fisse",
+                    "etichetta_predetta": "RUOLO"
+                },
+                {
+                    "testo": "Pianeti",
+                    "etichetta_predetta": "RUOLO"
+                },
+                {
+                    "testo": "Heroi",
+                    "etichetta_predetta": "PERSONA"
+                }
+            ],
+            "corrette": [
+                {
+                    "testo": "Senatori",
+                    "etichetta": "RUOLO"
+                },
+                {
+                    "testo": "Argo",
+                    "etichetta": "PERSONA"
+                },
+                {
+                    "testo": "Briareo",
+                    "etichetta": "PERSONA"
+                }
+            ]
+        }
+    }
+}

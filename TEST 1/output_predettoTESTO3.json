@@ -1,0 +1,31 @@
+{
+    "query": "Nel 1974 Maria Rossi fu nominata direttrice dell'Istituto a Firenze.",
+    "answer": {
+        "entita": [
+            {
+                "testo": "1974",
+                "etichetta": "DATA",
+                "indice_parola_inizio": 1,
+                "indice_parola_fine": 1
+            },
+            {
+                "testo": "",
+                "etichetta": "PERSONA",
+                "indice_parola_inizio": 2,
+                "indice_parola_fine": 3
+            },
+            {
+                "testo": "direttrice",
+                "etichetta": "RUOLO",
+                "indice_parola_inizio": 6,
+                "indice_parola_fine": 6
+            },
+            {
+                "testo": "Firenze",
+                "etichetta": "LUOGO",
+                "indice_parola_inizio": 9,
+                "indice_parola_fine": 9
+            }
+        ]
+    }
+}

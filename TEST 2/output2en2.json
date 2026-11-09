@@ -1,0 +1,16 @@
+{
+    "entita": [
+        {
+            "testo": "vostr' altezza",
+            "etichetta": "PERSONA",
+            "indice_parola_inizio": 66,
+            "indice_parola_fine": 67
+        },
+        {
+            "testo": "crïatura",
+            "etichetta": "PERSONA",
+            "indice_parola_inizio": 72,
+            "indice_parola_fine": 72
+        }
+    ]
+}

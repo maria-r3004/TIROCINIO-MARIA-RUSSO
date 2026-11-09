@@ -1,0 +1,34 @@
+{
+    "entita": [
+        {
+            "testo": "Dessy",
+            "etichetta": "PERSONA",
+            "indice_parola_inizio": 0,
+            "indice_parola_fine": 2
+        },
+        {
+            "testo": "Sardegna",
+            "etichetta": "LUOGO",
+            "indice_parola_inizio": 37,
+            "indice_parola_fine": 37
+        },
+        {
+            "testo": "Mito",
+            "etichetta": "ORGANIZZAZIONE",
+            "indice_parola_inizio": 76,
+            "indice_parola_fine": 76
+        },
+        {
+            "testo": "intellettuali",
+            "etichetta": "RUOLO",
+            "indice_parola_inizio": 62,
+            "indice_parola_fine": 62
+        },
+        {
+            "testo": "pasta",
+            "etichetta": "ORGANIZAZIONE",
+            "indice_parola_inizio": 38,
+            "indice_parola_fine": 38
+        }
+    ]
+}
