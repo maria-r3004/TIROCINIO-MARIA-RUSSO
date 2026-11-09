@@ -1,0 +1,346 @@
+{
+    "entita": [
+        {
+            "testo": "Hamilcar",
+            "etichetta": "PERSONA",
+            "indice_parola_inizio": 0,
+            "indice_parola_fine": 0
+        },
+        {
+            "testo": "Hannibalis",
+            "etichetta": "PERSONA",
+            "indice_parola_inizio": 1,
+            "indice_parola_fine": 1
+        },
+        {
+            "testo": "Barca",
+            "etichetta": "PERSONA",
+            "indice_parola_inizio": 5,
+            "indice_parola_fine": 5
+        },
+        {
+            "testo": "Karthaginiensis",
+            "etichetta": "LUOGO",
+            "indice_parola_inizio": 6,
+            "indice_parola_fine": 6
+        },
+        {
+            "testo": "Poenico",
+            "etichetta": "RUOLO",
+            "indice_parola_inizio": 7,
+            "indice_parola_fine": 7
+        },
+        {
+            "testo": "Karthaginiensium",
+            "etichetta": "LUOGO",
+            "indice_parola_inizio": 30,
+            "indice_parola_fine": 30
+        },
+        {
+            "testo": "Siciliā",
+            "etichetta": "LUOGO",
+            "indice_parola_inizio": 15,
+            "indice_parola_fine": 15
+        },
+        {
+            "testo": "exercitui",
+            "etichetta": "RUOLO",
+            "indice_parola_inizio": 18,
+            "indice_parola_fine": 18
+        },
+        {
+            "testo": "Siciliā",
+            "etichetta": "LUOGO",
+            "indice_parola_inizio": 5,
+            "indice_parola_fine": 5
+        },
+        {
+            "testo": "Poeni",
+            "etichetta": "RUOLO",
+            "indice_parola_inizio": 7,
+            "indice_parola_fine": 7
+        },
+        {
+            "testo": "Erycem",
+            "etichetta": "LUOGO",
+            "indice_parola_inizio": 10,
+            "indice_parola_fine": 10
+        },
+        {
+            "testo": "Karthaginienses",
+            "etichetta": "RUOLO",
+            "indice_parola_inizio": 21,
+            "indice_parola_fine": 21
+        },
+        {
+            "testo": "Aegatis",
+            "etichetta": "LUOGO",
+            "indice_parola_inizio": 33,
+            "indice_parola_fine": 33
+        },
+        {
+            "testo": "C.",
+            "etichetta": "RUOLO",
+            "indice_parola_inizio": 36,
+            "indice_parola_fine": 36
+        },
+        {
+            "testo": "Lutatio",
+            "etichetta": "RUOLO",
+            "indice_parola_inizio": 38,
+            "indice_parola_fine": 38
+        },
+        {
+            "testo": "consule",
+            "etichetta": "RUOLO",
+            "indice_parola_inizio": 40,
+            "indice_parola_fine": 40
+        },
+        {
+            "testo": "Romanorum",
+            "etichetta": "RUOLO",
+            "indice_parola_inizio": 42,
+            "indice_parola_fine": 42
+        },
+        {
+            "testo": "Hamilcaris",
+            "etichetta": "PERSONA",
+            "indice_parola_inizio": 65,
+            "indice_parola_fine": 65
+        },
+        {
+            "testo": "Catulus",
+            "etichetta": "PERSONA",
+            "indice_parola_inizio": 146,
+            "indice_parola_fine": 146
+        },
+        {
+            "testo": "bellum",
+            "etichetta": "RUOLO",
+            "indice_parola_inizio": 148,
+            "indice_parola_fine": 148
+        },
+        {
+            "testo": "Karthaginem",
+            "etichetta": "LUOGO",
+            "indice_parola_inizio": 195,
+            "indice_parola_fine": 195
+        },
+        {
+            "testo": "Catulus",
+            "etichetta": "PERSONA",
+            "indice_parola_inizio": 191,
+            "indice_parola_fine": 191
+        },
+        {
+            "testo": "Poeni",
+            "etichetta": "RUOLO",
+            "indice_parola_inizio": 249,
+            "indice_parola_fine": 249
+        },
+        {
+            "testo": "Karthago",
+            "etichetta": "LUOGO",
+            "indice_parola_inizio": 219,
+            "indice_parola_fine": 219
+        },
+        {
+            "testo": "Karthaginem",
+            "etichetta": "LUOGO",
+            "indice_parola_inizio": 243,
+            "indice_parola_fine": 243
+        },
+        {
+            "testo": "Romanos",
+            "etichetta": "RUOLO",
+            "indice_parola_inizio": 230,
+            "indice_parola_fine": 230
+        },
+        {
+            "testo": "viginti",
+            "etichetta": "DATA",
+            "indice_parola_inizio": 236,
+            "indice_parola_fine": 236
+        },
+        {
+            "testo": "milium",
+            "etichetta": "DATA",
+            "indice_parola_inizio": 237,
+            "indice_parola_fine": 237
+        },
+        {
+            "testo": "Hamilcarem",
+            "etichetta": "PERSONA",
+            "indice_parola_inizio": 27,
+            "indice_parola_fine": 27
+        },
+        {
+            "testo": "imperatorem",
+            "etichetta": "RUOLO",
+            "indice_parola_inizio": 28,
+            "indice_parola_fine": 28
+        },
+        {
+            "testo": "Karthaginis",
+            "etichetta": "LUOGO",
+            "indice_parola_inizio": 35,
+            "indice_parola_fine": 35
+        },
+        {
+            "testo": "armatorum",
+            "etichetta": "RUOLO",
+            "indice_parola_inizio": 42,
+            "indice_parola_fine": 42
+        },
+        {
+            "testo": "Uticam",
+            "etichetta": "LUOGO",
+            "indice_parola_inizio": 3,
+            "indice_parola_fine": 3
+        },
+        {
+            "testo": "Hipponem",
+            "etichetta": "LUOGO",
+            "indice_parola_inizio": 5,
+            "indice_parola_fine": 5
+        },
+        {
+            "testo": "Africae",
+            "etichetta": "LUOGO",
+            "indice_parola_inizio": 8,
+            "indice_parola_fine": 8
+        },
+        {
+            "testo": "Africā",
+            "etichetta": "LUOGO",
+            "indice_parola_inizio": 21,
+            "indice_parola_fine": 21
+        },
+        {
+            "testo": "annis",
+            "etichetta": "DATA",
+            "indice_parola_inizio": 32,
+            "indice_parola_fine": 32
+        },
+        {
+            "testo": "Romanis",
+            "etichetta": "RUOLO",
+            "indice_parola_inizio": 43,
+            "indice_parola_fine": 43
+        },
+        {
+            "testo": "imperator",
+            "etichetta": "RUOLO",
+            "indice_parola_inizio": 1,
+            "indice_parola_fine": 1
+        },
+        {
+            "testo": "Hispaniam",
+            "etichetta": "LUOGO",
+            "indice_parola_inizio": 5,
+            "indice_parola_fine": 5
+        },
+        {
+            "testo": "Hannibalem",
+            "etichetta": "PERSONA",
+            "indice_parola_inizio": 11,
+            "indice_parola_fine": 11
+        },
+        {
+            "testo": "Hasdrubal",
+            "etichetta": "PERSONA",
+            "indice_parola_inizio": 21,
+            "indice_parola_fine": 21
+        },
+        {
+            "testo": "Hamilcare",
+            "etichetta": "PERSONA",
+            "indice_parola_inizio": 38,
+            "indice_parola_fine": 38
+        },
+        {
+            "testo": "praefecto",
+            "etichetta": "RUOLO",
+            "indice_parola_inizio": 44,
+            "indice_parola_fine": 44
+        },
+        {
+            "testo": "morum",
+            "etichetta": "RUOLO",
+            "indice_parola_inizio": 46,
+            "indice_parola_fine": 46
+        },
+        {
+            "testo": "Hasdrubal",
+            "etichetta": "PERSONA",
+            "indice_parola_inizio": 57,
+            "indice_parola_fine": 57
+        },
+        {
+            "testo": "Hamilcare",
+            "etichetta": "PERSONA",
+            "indice_parola_inizio": 22,
+            "indice_parola_fine": 22
+        },
+        {
+            "testo": "genero",
+            "etichetta": "RUOLO",
+            "indice_parola_inizio": 30,
+            "indice_parola_fine": 30
+        },
+        {
+            "testo": "Karthaginiensium",
+            "etichetta": "LUOGO",
+            "indice_parola_inizio": 39,
+            "indice_parola_fine": 39
+        },
+        {
+            "testo": "Hannibal",
+            "etichetta": "PERSONA",
+            "indice_parola_inizio": 40,
+            "indice_parola_fine": 40
+        },
+        {
+            "testo": "Hispaniamque",
+            "etichetta": "LUOGO",
+            "indice_parola_inizio": 1,
+            "indice_parola_fine": 1
+        },
+        {
+            "testo": "Africam",
+            "etichetta": "LUOGO",
+            "indice_parola_inizio": 16,
+            "indice_parola_fine": 16
+        },
+        {
+            "testo": "Italiam",
+            "etichetta": "LUOGO",
+            "indice_parola_inizio": 22,
+            "indice_parola_fine": 22
+        },
+        {
+            "testo": "Poenicum",
+            "etichetta": "RUOLO",
+            "indice_parola_inizio": 49,
+            "indice_parola_fine": 49
+        },
+        {
+            "testo": "Romanos",
+            "etichetta": "RUOLO",
+            "indice_parola_inizio": 43,
+            "indice_parola_fine": 43
+        },
+        {
+            "testo": "Hannibal",
+            "etichetta": "PERSONA",
+            "indice_parola_inizio": 1,
+            "indice_parola_fine": 1
+        },
+        {
+            "testo": "Romanos",
+            "etichetta": "RUOLO",
+            "indice_parola_inizio": 13,
+            "indice_parola_fine": 13
+        }
+    ]
+}

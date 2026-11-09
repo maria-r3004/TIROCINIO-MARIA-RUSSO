@@ -1,0 +1,1401 @@
+{
+    "outputLATINOPREINDICIgemma.json": {
+        "metrics": {
+            "precision": 0.5789,
+            "recall": 0.55,
+            "f1_score": 0.5641,
+            "counts": {
+                "tp": 33,
+                "fp": 24,
+                "fn": 27,
+                "totale_gold": 60,
+                "totale_pred": 57
+            }
+        },
+        "diagnostica": {
+            "etichette_errate": [],
+            "non_trovate": [
+                {
+                    "testo": "filius",
+                    "etichetta_corretta": "RUOLO"
+                },
+                {
+                    "testo": "primo Poenico bello",
+                    "etichetta_corretta": "DATA"
+                },
+                {
+                    "testo": "adulescentulus",
+                    "etichetta_corretta": "RUOLO"
+                },
+                {
+                    "testo": "hosti",
+                    "etichetta_corretta": "RUOLO"
+                },
+                {
+                    "testo": "insulas Aegatis",
+                    "etichetta_corretta": "LUOGO"
+                },
+                {
+                    "testo": "C. Lutatio",
+                    "etichetta_corretta": "PERSONA"
+                },
+                {
+                    "testo": "Erycem",
+                    "etichetta_corretta": "LUOGO"
+                },
+                {
+                    "testo": "Siciliā",
+                    "etichetta_corretta": "LUOGO"
+                },
+                {
+                    "testo": "hostis",
+                    "etichetta_corretta": "RUOLO"
+                },
+                {
+                    "testo": "mercennarii milites",
+                    "etichetta_corretta": "RUOLO"
+                },
+                {
+                    "testo": "hostis",
+                    "etichetta_corretta": "RUOLO"
+                },
+                {
+                    "testo": "multis annis",
+                    "etichetta_corretta": "DATA"
+                },
+                {
+                    "testo": "filium",
+                    "etichetta_corretta": "RUOLO"
+                },
+                {
+                    "testo": "annorum novem",
+                    "etichetta_corretta": "DATA"
+                },
+                {
+                    "testo": "adulescens",
+                    "etichetta_corretta": "RUOLO"
+                },
+                {
+                    "testo": "praefecto morum",
+                    "etichetta_corretta": "RUOLO"
+                },
+                {
+                    "testo": "filiam",
+                    "etichetta_corretta": "RUOLO"
+                },
+                {
+                    "testo": "socero",
+                    "etichetta_corretta": "RUOLO"
+                },
+                {
+                    "testo": "princeps",
+                    "etichetta_corretta": "RUOLO"
+                },
+                {
+                    "testo": "Hamilcar",
+                    "etichetta_corretta": "PERSONA"
+                },
+                {
+                    "testo": "Hispaniam",
+                    "etichetta_corretta": "LUOGO"
+                },
+                {
+                    "testo": "Africam",
+                    "etichetta_corretta": "LUOGO"
+                },
+                {
+                    "testo": "nono anno",
+                    "etichetta_corretta": "DATA"
+                },
+                {
+                    "testo": "Hispaniam",
+                    "etichetta_corretta": "LUOGO"
+                },
+                {
+                    "testo": "secundum bellum Poenicum",
+                    "etichetta_corretta": "DATA"
+                },
+                {
+                    "testo": "filius",
+                    "etichetta_corretta": "RUOLO"
+                },
+                {
+                    "testo": "patris",
+                    "etichetta_corretta": "RUOLO"
+                }
+            ],
+            "trovate_erroneamente": [
+                {
+                    "testo": "Karthaginiensis",
+                    "etichetta_predetta": "LUOGO"
+                },
+                {
+                    "testo": "Poenico",
+                    "etichetta_predetta": "RUOLO"
+                },
+                {
+                    "testo": "Karthaginiensium",
+                    "etichetta_predetta": "LUOGO"
+                },
+                {
+                    "testo": "exercitui",
+                    "etichetta_predetta": "RUOLO"
+                },
+                {
+                    "testo": "Poeni",
+                    "etichetta_predetta": "RUOLO"
+                },
+                {
+                    "testo": "Karthaginienses",
+                    "etichetta_predetta": "RUOLO"
+                },
+                {
+                    "testo": "Aegatis",
+                    "etichetta_predetta": "LUOGO"
+                },
+                {
+                    "testo": "C.",
+                    "etichetta_predetta": "RUOLO"
+                },
+                {
+                    "testo": "Lutatio",
+                    "etichetta_predetta": "RUOLO"
+                },
+                {
+                    "testo": "Romanorum",
+                    "etichetta_predetta": "RUOLO"
+                },
+                {
+                    "testo": "bellum",
+                    "etichetta_predetta": "RUOLO"
+                },
+                {
+                    "testo": "Poeni",
+                    "etichetta_predetta": "RUOLO"
+                },
+                {
+                    "testo": "Romanos",
+                    "etichetta_predetta": "RUOLO"
+                },
+                {
+                    "testo": "viginti",
+                    "etichetta_predetta": "DATA"
+                },
+                {
+                    "testo": "milium",
+                    "etichetta_predetta": "DATA"
+                },
+                {
+                    "testo": "annis",
+                    "etichetta_predetta": "DATA"
+                },
+                {
+                    "testo": "Romanis",
+                    "etichetta_predetta": "RUOLO"
+                },
+                {
+                    "testo": "praefecto",
+                    "etichetta_predetta": "RUOLO"
+                },
+                {
+                    "testo": "morum",
+                    "etichetta_predetta": "RUOLO"
+                },
+                {
+                    "testo": "Karthaginiensium",
+                    "etichetta_predetta": "LUOGO"
+                },
+                {
+                    "testo": "Hispaniamque",
+                    "etichetta_predetta": "LUOGO"
+                },
+                {
+                    "testo": "Poenicum",
+                    "etichetta_predetta": "RUOLO"
+                },
+                {
+                    "testo": "Romanos",
+                    "etichetta_predetta": "RUOLO"
+                },
+                {
+                    "testo": "Romanos",
+                    "etichetta_predetta": "RUOLO"
+                }
+            ],
+            "corrette": [
+                {
+                    "testo": "Hamilcar",
+                    "etichetta": "PERSONA"
+                },
+                {
+                    "testo": "Hannibalis",
+                    "etichetta": "PERSONA"
+                },
+                {
+                    "testo": "Barca",
+                    "etichetta": "PERSONA"
+                },
+                {
+                    "testo": "Siciliā",
+                    "etichetta": "LUOGO"
+                },
+                {
+                    "testo": "Siciliā",
+                    "etichetta": "LUOGO"
+                },
+                {
+                    "testo": "Erycem",
+                    "etichetta": "LUOGO"
+                },
+                {
+                    "testo": "consule",
+                    "etichetta": "RUOLO"
+                },
+                {
+                    "testo": "Hamilcaris",
+                    "etichetta": "PERSONA"
+                },
+                {
+                    "testo": "Catulus",
+                    "etichetta": "PERSONA"
+                },
+                {
+                    "testo": "Karthaginem",
+                    "etichetta": "LUOGO"
+                },
+                {
+                    "testo": "Catulus",
+                    "etichetta": "PERSONA"
+                },
+                {
+                    "testo": "Karthago",
+                    "etichetta": "LUOGO"
+                },
+                {
+                    "testo": "Karthaginem",
+                    "etichetta": "LUOGO"
+                },
+                {
+                    "testo": "Hamilcarem",
+                    "etichetta": "PERSONA"
+                },
+                {
+                    "testo": "imperatorem",
+                    "etichetta": "RUOLO"
+                },
+                {
+                    "testo": "Karthaginis",
+                    "etichetta": "LUOGO"
+                },
+                {
+                    "testo": "armatorum",
+                    "etichetta": "RUOLO"
+                },
+                {
+                    "testo": "Uticam",
+                    "etichetta": "LUOGO"
+                },
+                {
+                    "testo": "Hipponem",
+                    "etichetta": "LUOGO"
+                },
+                {
+                    "testo": "Africae",
+                    "etichetta": "LUOGO"
+                },
+                {
+                    "testo": "Africā",
+                    "etichetta": "LUOGO"
+                },
+                {
+                    "testo": "imperator",
+                    "etichetta": "RUOLO"
+                },
+                {
+                    "testo": "Hispaniam",
+                    "etichetta": "LUOGO"
+                },
+                {
+                    "testo": "Hannibalem",
+                    "etichetta": "PERSONA"
+                },
+                {
+                    "testo": "Hasdrubal",
+                    "etichetta": "PERSONA"
+                },
+                {
+                    "testo": "Hamilcare",
+                    "etichetta": "PERSONA"
+                },
+                {
+                    "testo": "Hasdrubal",
+                    "etichetta": "PERSONA"
+                },
+                {
+                    "testo": "Hamilcare",
+                    "etichetta": "PERSONA"
+                },
+                {
+                    "testo": "genero",
+                    "etichetta": "RUOLO"
+                },
+                {
+                    "testo": "Hannibal",
+                    "etichetta": "PERSONA"
+                },
+                {
+                    "testo": "Africam",
+                    "etichetta": "LUOGO"
+                },
+                {
+                    "testo": "Italiam",
+                    "etichetta": "LUOGO"
+                },
+                {
+                    "testo": "Hannibal",
+                    "etichetta": "PERSONA"
+                }
+            ]
+        }
+    },
+    "outputLATINOPREINDICIqwen.json": {
+        "metrics": {
+            "precision": 0.6441,
+            "recall": 0.6333,
+            "f1_score": 0.6387,
+            "counts": {
+                "tp": 38,
+                "fp": 21,
+                "fn": 22,
+                "totale_gold": 60,
+                "totale_pred": 59
+            }
+        },
+        "diagnostica": {
+            "etichette_errate": [
+                {
+                    "testo": "Erycem",
+                    "etichetta_predetta": "PERSONA",
+                    "etichetta_corretta": "LUOGO"
+                },
+                {
+                    "testo": "Erycem",
+                    "etichetta_predetta": "PERSONA",
+                    "etichetta_corretta": "LUOGO"
+                }
+            ],
+            "non_trovate": [
+                {
+                    "testo": "primo Poenico bello",
+                    "etichetta_corretta": "DATA"
+                },
+                {
+                    "testo": "adulescentulus",
+                    "etichetta_corretta": "RUOLO"
+                },
+                {
+                    "testo": "hosti",
+                    "etichetta_corretta": "RUOLO"
+                },
+                {
+                    "testo": "insulas Aegatis",
+                    "etichetta_corretta": "LUOGO"
+                },
+                {
+                    "testo": "C. Lutatio",
+                    "etichetta_corretta": "PERSONA"
+                },
+                {
+                    "testo": "hostis",
+                    "etichetta_corretta": "RUOLO"
+                },
+                {
+                    "testo": "mercennarii milites",
+                    "etichetta_corretta": "RUOLO"
+                },
+                {
+                    "testo": "hostis",
+                    "etichetta_corretta": "RUOLO"
+                },
+                {
+                    "testo": "armatorum",
+                    "etichetta_corretta": "RUOLO"
+                },
+                {
+                    "testo": "multis annis",
+                    "etichetta_corretta": "DATA"
+                },
+                {
+                    "testo": "filium",
+                    "etichetta_corretta": "RUOLO"
+                },
+                {
+                    "testo": "praefecto morum",
+                    "etichetta_corretta": "RUOLO"
+                },
+                {
+                    "testo": "Hasdrubal",
+                    "etichetta_corretta": "PERSONA"
+                },
+                {
+                    "testo": "filiam",
+                    "etichetta_corretta": "RUOLO"
+                },
+                {
+                    "testo": "princeps",
+                    "etichetta_corretta": "RUOLO"
+                },
+                {
+                    "testo": "Hamilcar",
+                    "etichetta_corretta": "PERSONA"
+                },
+                {
+                    "testo": "Africam",
+                    "etichetta_corretta": "LUOGO"
+                },
+                {
+                    "testo": "nono anno",
+                    "etichetta_corretta": "DATA"
+                },
+                {
+                    "testo": "secundum bellum Poenicum",
+                    "etichetta_corretta": "DATA"
+                },
+                {
+                    "testo": "filius",
+                    "etichetta_corretta": "RUOLO"
+                }
+            ],
+            "trovate_erroneamente": [
+                {
+                    "testo": "Poenico",
+                    "etichetta_predetta": "RUOLO"
+                },
+                {
+                    "testo": "Karthaginiensis",
+                    "etichetta_predetta": "RUOLO"
+                },
+                {
+                    "testo": "Karthaginiensium",
+                    "etichetta_predetta": "RUOLO"
+                },
+                {
+                    "testo": "Poeni",
+                    "etichetta_predetta": "PERSONA"
+                },
+                {
+                    "testo": "Karthaginienses",
+                    "etichetta_predetta": "PERSONA"
+                },
+                {
+                    "testo": "classe",
+                    "etichetta_predetta": "RUOLO"
+                },
+                {
+                    "testo": "Lutatio",
+                    "etichetta_predetta": "PERSONA"
+                },
+                {
+                    "testo": "Romanorum",
+                    "etichetta_predetta": "RUOLO"
+                },
+                {
+                    "testo": "patriā",
+                    "etichetta_predetta": "RUOLO"
+                },
+                {
+                    "testo": "patriā",
+                    "etichetta_predetta": "RUOLO"
+                },
+                {
+                    "testo": "Poeni",
+                    "etichetta_predetta": "RUOLO"
+                },
+                {
+                    "testo": "Romanis",
+                    "etichetta_predetta": "LUOGO"
+                },
+                {
+                    "testo": "annis",
+                    "etichetta_predetta": "DATA"
+                },
+                {
+                    "testo": "Romanis",
+                    "etichetta_predetta": "RUOLO"
+                },
+                {
+                    "testo": "praefecto mororum",
+                    "etichetta_predetta": "RUOLO"
+                },
+                {
+                    "testo": "Karthaginiensium",
+                    "etichetta_predetta": "LUOGO"
+                },
+                {
+                    "testo": "nono",
+                    "etichetta_predetta": "DATA"
+                },
+                {
+                    "testo": "Vettones",
+                    "etichetta_predetta": "RUOLO"
+                },
+                {
+                    "testo": "Romanos",
+                    "etichetta_predetta": "PERSONA"
+                }
+            ],
+            "corrette": [
+                {
+                    "testo": "Hamilcar",
+                    "etichetta": "PERSONA"
+                },
+                {
+                    "testo": "Hannibalis",
+                    "etichetta": "PERSONA"
+                },
+                {
+                    "testo": "Barca",
+                    "etichetta": "PERSONA"
+                },
+                {
+                    "testo": "Siciliā",
+                    "etichetta": "LUOGO"
+                },
+                {
+                    "testo": "Siciliā",
+                    "etichetta": "LUOGO"
+                },
+                {
+                    "testo": "consule",
+                    "etichetta": "RUOLO"
+                },
+                {
+                    "testo": "Hamilcaris",
+                    "etichetta": "PERSONA"
+                },
+                {
+                    "testo": "Catulus",
+                    "etichetta": "PERSONA"
+                },
+                {
+                    "testo": "Siciliā",
+                    "etichetta": "LUOGO"
+                },
+                {
+                    "testo": "Catulus",
+                    "etichetta": "PERSONA"
+                },
+                {
+                    "testo": "Karthaginem",
+                    "etichetta": "LUOGO"
+                },
+                {
+                    "testo": "Karthago",
+                    "etichetta": "LUOGO"
+                },
+                {
+                    "testo": "Karthaginem",
+                    "etichetta": "LUOGO"
+                },
+                {
+                    "testo": "Hamilcarem",
+                    "etichetta": "PERSONA"
+                },
+                {
+                    "testo": "imperatorem",
+                    "etichetta": "RUOLO"
+                },
+                {
+                    "testo": "Karthaginis",
+                    "etichetta": "LUOGO"
+                },
+                {
+                    "testo": "Uticam",
+                    "etichetta": "LUOGO"
+                },
+                {
+                    "testo": "Hipponem",
+                    "etichetta": "LUOGO"
+                },
+                {
+                    "testo": "Africae",
+                    "etichetta": "LUOGO"
+                },
+                {
+                    "testo": "Africā",
+                    "etichetta": "LUOGO"
+                },
+                {
+                    "testo": "imperator",
+                    "etichetta": "RUOLO"
+                },
+                {
+                    "testo": "Hispaniam",
+                    "etichetta": "LUOGO"
+                },
+                {
+                    "testo": "Hannibalem",
+                    "etichetta": "PERSONA"
+                },
+                {
+                    "testo": "annorum novem",
+                    "etichetta": "DATA"
+                },
+                {
+                    "testo": "adulescens",
+                    "etichetta": "RUOLO"
+                },
+                {
+                    "testo": "Hasdrubal",
+                    "etichetta": "PERSONA"
+                },
+                {
+                    "testo": "Hamilcare",
+                    "etichetta": "PERSONA"
+                },
+                {
+                    "testo": "socero",
+                    "etichetta": "RUOLO"
+                },
+                {
+                    "testo": "genero",
+                    "etichetta": "RUOLO"
+                },
+                {
+                    "testo": "Hamilcare",
+                    "etichetta": "PERSONA"
+                },
+                {
+                    "testo": "Hannibal",
+                    "etichetta": "PERSONA"
+                },
+                {
+                    "testo": "Hispaniam",
+                    "etichetta": "LUOGO"
+                },
+                {
+                    "testo": "Hispaniam",
+                    "etichetta": "LUOGO"
+                },
+                {
+                    "testo": "Italiam",
+                    "etichetta": "LUOGO"
+                },
+                {
+                    "testo": "Africam",
+                    "etichetta": "LUOGO"
+                },
+                {
+                    "testo": "Hannibal",
+                    "etichetta": "PERSONA"
+                },
+                {
+                    "testo": "filius",
+                    "etichetta": "RUOLO"
+                },
+                {
+                    "testo": "patris",
+                    "etichetta": "RUOLO"
+                }
+            ]
+        }
+    },
+    "outputLATINOPREINDICIllama.json": {
+        "metrics": {
+            "precision": 0.2617,
+            "recall": 0.65,
+            "f1_score": 0.3732,
+            "counts": {
+                "tp": 39,
+                "fp": 110,
+                "fn": 21,
+                "totale_gold": 60,
+                "totale_pred": 149
+            }
+        },
+        "diagnostica": {
+            "etichette_errate": [
+                {
+                    "testo": "Erycem",
+                    "etichetta_predetta": "PERSONA",
+                    "etichetta_corretta": "LUOGO"
+                },
+                {
+                    "testo": "Erycem",
+                    "etichetta_predetta": "PERSONA",
+                    "etichetta_corretta": "LUOGO"
+                }
+            ],
+            "non_trovate": [
+                {
+                    "testo": "primo Poenico bello",
+                    "etichetta_corretta": "DATA"
+                },
+                {
+                    "testo": "adulescentulus",
+                    "etichetta_corretta": "RUOLO"
+                },
+                {
+                    "testo": "hosti",
+                    "etichetta_corretta": "RUOLO"
+                },
+                {
+                    "testo": "insulas Aegatis",
+                    "etichetta_corretta": "LUOGO"
+                },
+                {
+                    "testo": "C. Lutatio",
+                    "etichetta_corretta": "PERSONA"
+                },
+                {
+                    "testo": "consule",
+                    "etichetta_corretta": "RUOLO"
+                },
+                {
+                    "testo": "mercennarii milites",
+                    "etichetta_corretta": "RUOLO"
+                },
+                {
+                    "testo": "Africā",
+                    "etichetta_corretta": "LUOGO"
+                },
+                {
+                    "testo": "multis annis",
+                    "etichetta_corretta": "DATA"
+                },
+                {
+                    "testo": "filium",
+                    "etichetta_corretta": "RUOLO"
+                },
+                {
+                    "testo": "annorum novem",
+                    "etichetta_corretta": "DATA"
+                },
+                {
+                    "testo": "adulescens",
+                    "etichetta_corretta": "RUOLO"
+                },
+                {
+                    "testo": "praefecto morum",
+                    "etichetta_corretta": "RUOLO"
+                },
+                {
+                    "testo": "Hasdrubal",
+                    "etichetta_corretta": "PERSONA"
+                },
+                {
+                    "testo": "filiam",
+                    "etichetta_corretta": "RUOLO"
+                },
+                {
+                    "testo": "nono anno",
+                    "etichetta_corretta": "DATA"
+                },
+                {
+                    "testo": "Hispaniam",
+                    "etichetta_corretta": "LUOGO"
+                },
+                {
+                    "testo": "secundum bellum Poenicum",
+                    "etichetta_corretta": "DATA"
+                },
+                {
+                    "testo": "filius",
+                    "etichetta_corretta": "RUOLO"
+                }
+            ],
+            "trovate_erroneamente": [
+                {
+                    "testo": "Karthaginiensis",
+                    "etichetta_predetta": "LUOGO"
+                },
+                {
+                    "testo": "Poenico",
+                    "etichetta_predetta": "RUOLO"
+                },
+                {
+                    "testo": "Karthaginiensium",
+                    "etichetta_predetta": "RUOLO"
+                },
+                {
+                    "testo": "Karthaginiensium",
+                    "etichetta_predetta": "LUOGO"
+                },
+                {
+                    "testo": "Poeni",
+                    "etichetta_predetta": "LUOGO"
+                },
+                {
+                    "testo": "Karthaginienses",
+                    "etichetta_predetta": "RUOLO"
+                },
+                {
+                    "testo": "Aegatis",
+                    "etichetta_predetta": "LUOGO"
+                },
+                {
+                    "testo": "C.",
+                    "etichetta_predetta": "PERSONA"
+                },
+                {
+                    "testo": "Lutatio",
+                    "etichetta_predetta": "PERSONA"
+                },
+                {
+                    "testo": "giugno",
+                    "etichetta_predetta": "DATA"
+                },
+                {
+                    "testo": "quod",
+                    "etichetta_predetta": "RUOLO"
+                },
+                {
+                    "testo": "patriam",
+                    "etichetta_predetta": "RUOLO"
+                },
+                {
+                    "testo": "ille",
+                    "etichetta_predetta": "PERSONA"
+                },
+                {
+                    "testo": "ipse",
+                    "etichetta_predetta": "RUOLO"
+                },
+                {
+                    "testo": "patriā",
+                    "etichetta_predetta": "LUOGO"
+                },
+                {
+                    "testo": "se",
+                    "etichetta_predetta": "RUOLO"
+                },
+                {
+                    "testo": "adversariis",
+                    "etichetta_predetta": "RUOLO"
+                },
+                {
+                    "testo": "patriā",
+                    "etichetta_predetta": "LUOGO"
+                },
+                {
+                    "testo": "huius",
+                    "etichetta_predetta": "RUOLO"
+                },
+                {
+                    "testo": "pertinaciae",
+                    "etichetta_predetta": "RUOLO"
+                },
+                {
+                    "testo": "cessit",
+                    "etichetta_predetta": "RUOLO"
+                },
+                {
+                    "testo": "ille",
+                    "etichetta_predetta": "PERSONA"
+                },
+                {
+                    "testo": "ut",
+                    "etichetta_predetta": "RUOLO"
+                },
+                {
+                    "testo": "venit",
+                    "etichetta_predetta": "RUOLO"
+                },
+                {
+                    "testo": "multo",
+                    "etichetta_predetta": "RUOLO"
+                },
+                {
+                    "testo": "aliter",
+                    "etichetta_predetta": "RUOLO"
+                },
+                {
+                    "testo": "ac",
+                    "etichetta_predetta": "RUOLO"
+                },
+                {
+                    "testo": "mercennarii",
+                    "etichetta_predetta": "RUOLO"
+                },
+                {
+                    "testo": "milites",
+                    "etichetta_predetta": "RUOLO"
+                },
+                {
+                    "testo": "Romanos",
+                    "etichetta_predetta": "RUOLO"
+                },
+                {
+                    "testo": "Poeni",
+                    "etichetta_predetta": "RUOLO"
+                },
+                {
+                    "testo": "viginti",
+                    "etichetta_predetta": "DATA"
+                },
+                {
+                    "testo": "miliium",
+                    "etichetta_predetta": "DATA"
+                },
+                {
+                    "testo": "diuturnitate",
+                    "etichetta_predetta": "RUOLO"
+                },
+                {
+                    "testo": "externi",
+                    "etichetta_predetta": "RUOLO"
+                },
+                {
+                    "testo": "mali",
+                    "etichetta_predetta": "RUOLO"
+                },
+                {
+                    "testo": "intestinum",
+                    "etichetta_predetta": "RUOLO"
+                },
+                {
+                    "testo": "bellum",
+                    "etichetta_predetta": "RUOLO"
+                },
+                {
+                    "testo": "numquam",
+                    "etichetta_predetta": "RUOLO"
+                },
+                {
+                    "testo": "periculo",
+                    "etichetta_predetta": "RUOLO"
+                },
+                {
+                    "testo": "pari",
+                    "etichetta_predetta": "RUOLO"
+                },
+                {
+                    "testo": "perterriti",
+                    "etichetta_predetta": "RUOLO"
+                },
+                {
+                    "testo": "Romanis",
+                    "etichetta_predetta": "LUOGO"
+                },
+                {
+                    "testo": "centum",
+                    "etichetta_predetta": "DATA"
+                },
+                {
+                    "testo": "milia",
+                    "etichetta_predetta": "DATA"
+                },
+                {
+                    "testo": "desperationem",
+                    "etichetta_predetta": "DATA"
+                },
+                {
+                    "testo": "eaque",
+                    "etichetta_predetta": "RUOLO"
+                },
+                {
+                    "testo": "impetrarint",
+                    "etichetta_predetta": "RUOLO"
+                },
+                {
+                    "testo": "extremo",
+                    "etichetta_predetta": "RUOLO"
+                },
+                {
+                    "testo": "auxilia",
+                    "etichetta_predetta": "RUOLO"
+                },
+                {
+                    "testo": "ut",
+                    "etichetta_predetta": "RUOLO"
+                },
+                {
+                    "testo": "Sed",
+                    "etichetta_predetta": "RUOLO"
+                },
+                {
+                    "testo": "eo",
+                    "etichetta_predetta": "RUOLO"
+                },
+                {
+                    "testo": "clausi",
+                    "etichetta_predetta": "RUOLO"
+                },
+                {
+                    "testo": "amplius",
+                    "etichetta_predetta": "RUOLO"
+                },
+                {
+                    "testo": "plures",
+                    "etichetta_predetta": "RUOLO"
+                },
+                {
+                    "testo": "quam",
+                    "etichetta_predetta": "RUOLO"
+                },
+                {
+                    "testo": "ferro",
+                    "etichetta_predetta": "RUOLO"
+                },
+                {
+                    "testo": "fame",
+                    "etichetta_predetta": "RUOLO"
+                },
+                {
+                    "testo": "locorum",
+                    "etichetta_predetta": "LUOGO"
+                },
+                {
+                    "testo": "angustiis",
+                    "etichetta_predetta": "LUOGO"
+                },
+                {
+                    "testo": "oppida",
+                    "etichetta_predetta": "LUOGO"
+                },
+                {
+                    "testo": "abalienata",
+                    "etichetta_predetta": "RUOLO"
+                },
+                {
+                    "testo": "patriae",
+                    "etichetta_predetta": "LUOGO"
+                },
+                {
+                    "testo": "finis",
+                    "etichetta_predetta": "RUOLO"
+                },
+                {
+                    "testo": "imperii",
+                    "etichetta_predetta": "RUOLO"
+                },
+                {
+                    "testo": "Africa",
+                    "etichetta_predetta": "LUOGO"
+                },
+                {
+                    "testo": "otium",
+                    "etichetta_predetta": "RUOLO"
+                },
+                {
+                    "testo": "nullum",
+                    "etichetta_predetta": "RUOLO"
+                },
+                {
+                    "testo": "bellum",
+                    "etichetta_predetta": "RUOLO"
+                },
+                {
+                    "testo": "annis",
+                    "etichetta_predetta": "DATA"
+                },
+                {
+                    "testo": "rebus",
+                    "etichetta_predetta": "DATA"
+                },
+                {
+                    "testo": "Romanis",
+                    "etichetta_predetta": "RUOLO"
+                },
+                {
+                    "testo": "facilius",
+                    "etichetta_predetta": "RUOLO"
+                },
+                {
+                    "testo": "causam",
+                    "etichetta_predetta": "RUOLO"
+                },
+                {
+                    "testo": "reperiret",
+                    "etichetta_predetta": "RUOLO"
+                },
+                {
+                    "testo": "exercitu",
+                    "etichetta_predetta": "RUOLO"
+                },
+                {
+                    "testo": "novem",
+                    "etichetta_predetta": "DATA"
+                },
+                {
+                    "testo": "annorum",
+                    "etichetta_predetta": "DATA"
+                },
+                {
+                    "testo": "Huic",
+                    "etichetta_predetta": "PERSONA"
+                },
+                {
+                    "testo": "ille",
+                    "etichetta_predetta": "PERSONA"
+                },
+                {
+                    "testo": "matrimonium",
+                    "etichetta_predetta": "RUOLO"
+                },
+                {
+                    "testo": "largitione",
+                    "etichetta_predetta": "RUOLO"
+                },
+                {
+                    "testo": "Karthaginiensium",
+                    "etichetta_predetta": "RUOLO"
+                },
+                {
+                    "testo": "eiusdemque",
+                    "etichetta_predetta": "RUOLO"
+                },
+                {
+                    "testo": "exercitu",
+                    "etichetta_predetta": "RUOLO"
+                },
+                {
+                    "testo": "imperium",
+                    "etichetta_predetta": "RUOLO"
+                },
+                {
+                    "testo": "mare",
+                    "etichetta_predetta": "LUOGO"
+                },
+                {
+                    "testo": "Hispaniamque",
+                    "etichetta_predetta": "LUOGO"
+                },
+                {
+                    "testo": "fortunā:",
+                    "etichetta_predetta": "RUOLO"
+                },
+                {
+                    "testo": "bellicosissimasque",
+                    "etichetta_predetta": "RUOLO"
+                },
+                {
+                    "testo": "gentes",
+                    "etichetta_predetta": "RUOLO"
+                },
+                {
+                    "testo": "anno",
+                    "etichetta_predetta": "DATA"
+                },
+                {
+                    "testo": "Vettones",
+                    "etichetta_predetta": "RUOLO"
+                },
+                {
+                    "testo": "Huius",
+                    "etichetta_predetta": "PERSONA"
+                },
+                {
+                    "testo": "Poenicum",
+                    "etichetta_predetta": "RUOLO"
+                },
+                {
+                    "testo": "Hannibal",
+                    "etichetta_predetta": "RUOLO"
+                },
+                {
+                    "testo": "obtestationibus",
+                    "etichetta_predetta": "RUOLO"
+                },
+                {
+                    "testo": "Romanos",
+                    "etichetta_predetta": "LUOGO"
+                },
+                {
+                    "testo": "Romanos",
+                    "etichetta_predetta": "RUOLO"
+                },
+                {
+                    "testo": "quam",
+                    "etichetta_predetta": "RUOLO"
+                },
+                {
+                    "testo": "eo",
+                    "etichetta_predetta": "RUOLO"
+                },
+                {
+                    "testo": "ut",
+                    "etichetta_predetta": "RUOLO"
+                },
+                {
+                    "testo": "eius",
+                    "etichetta_predetta": "RUOLO"
+                },
+                {
+                    "testo": "assiduis",
+                    "etichetta_predetta": "RUOLO"
+                },
+                {
+                    "testo": "perductus",
+                    "etichetta_predetta": "RUOLO"
+                },
+                {
+                    "testo": "interire",
+                    "etichetta_predetta": "RUOLO"
+                },
+                {
+                    "testo": "mallet",
+                    "etichetta_predetta": "RUOLO"
+                }
+            ],
+            "corrette": [
+                {
+                    "testo": "Hamilcar",
+                    "etichetta": "PERSONA"
+                },
+                {
+                    "testo": "Hannibalis",
+                    "etichetta": "PERSONA"
+                },
+                {
+                    "testo": "Barca",
+                    "etichetta": "PERSONA"
+                },
+                {
+                    "testo": "Siciliā",
+                    "etichetta": "LUOGO"
+                },
+                {
+                    "testo": "Siciliā",
+                    "etichetta": "LUOGO"
+                },
+                {
+                    "testo": "Hamilcaris",
+                    "etichetta": "PERSONA"
+                },
+                {
+                    "testo": "Catulus",
+                    "etichetta": "PERSONA"
+                },
+                {
+                    "testo": "Siciliā",
+                    "etichetta": "LUOGO"
+                },
+                {
+                    "testo": "Catulus",
+                    "etichetta": "PERSONA"
+                },
+                {
+                    "testo": "Karthaginem",
+                    "etichetta": "LUOGO"
+                },
+                {
+                    "testo": "hostis",
+                    "etichetta": "RUOLO"
+                },
+                {
+                    "testo": "Karthago",
+                    "etichetta": "LUOGO"
+                },
+                {
+                    "testo": "africam",
+                    "etichetta": "LUOGO"
+                },
+                {
+                    "testo": "Karthaginem",
+                    "etichetta": "LUOGO"
+                },
+                {
+                    "testo": "Hamilcarem",
+                    "etichetta": "PERSONA"
+                },
+                {
+                    "testo": "Karthaginis",
+                    "etichetta": "LUOGO"
+                },
+                {
+                    "testo": "armatorum",
+                    "etichetta": "RUOLO"
+                },
+                {
+                    "testo": "imperatorem",
+                    "etichetta": "RUOLO"
+                },
+                {
+                    "testo": "hostis",
+                    "etichetta": "RUOLO"
+                },
+                {
+                    "testo": "Uticam",
+                    "etichetta": "LUOGO"
+                },
+                {
+                    "testo": "Hipponem",
+                    "etichetta": "LUOGO"
+                },
+                {
+                    "testo": "Africae",
+                    "etichetta": "LUOGO"
+                },
+                {
+                    "testo": "imperator",
+                    "etichetta": "RUOLO"
+                },
+                {
+                    "testo": "Hispaniam",
+                    "etichetta": "LUOGO"
+                },
+                {
+                    "testo": "Hannibalem",
+                    "etichetta": "PERSONA"
+                },
+                {
+                    "testo": "Hamilcare",
+                    "etichetta": "PERSONA"
+                },
+                {
+                    "testo": "Hasdrubal",
+                    "etichetta": "PERSONA"
+                },
+                {
+                    "testo": "Hamilcare",
+                    "etichetta": "PERSONA"
+                },
+                {
+                    "testo": "Hamilcar",
+                    "etichetta": "PERSONA"
+                },
+                {
+                    "testo": "Hannibal",
+                    "etichetta": "PERSONA"
+                },
+                {
+                    "testo": "socero",
+                    "etichetta": "RUOLO"
+                },
+                {
+                    "testo": "genero",
+                    "etichetta": "RUOLO"
+                },
+                {
+                    "testo": "princeps",
+                    "etichetta": "RUOLO"
+                },
+                {
+                    "testo": "Africam",
+                    "etichetta": "LUOGO"
+                },
+                {
+                    "testo": "Italiam",
+                    "etichetta": "LUOGO"
+                },
+                {
+                    "testo": "Hispaniam",
+                    "etichetta": "LUOGO"
+                },
+                {
+                    "testo": "Hannibal",
+                    "etichetta": "PERSONA"
+                },
+                {
+                    "testo": "filius",
+                    "etichetta": "RUOLO"
+                },
+                {
+                    "testo": "patris",
+                    "etichetta": "RUOLO"
+                }
+            ]
+        }
+    }
+}
